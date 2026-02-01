@@ -497,6 +497,8 @@ Nach erfolgreicher Gründung siehe [Betrieb - Vergleich der Rechtsformen](./betr
 - Organisatorische Anforderungen
 - Kosten im laufenden Betrieb
 
+Für Informationen zu Ein- und Auszahlungen siehe [Geld - Vergleich bei Ein- und Auszahlungen](./geld.md).
+
 ## Wichtige Links
 
 ### Allgemeine Informationen
