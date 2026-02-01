@@ -91,6 +91,20 @@ Umfassender Leitfaden speziell für Familienstiftung:
 - **Praktische Umsetzung**: Muster-Satzung, Jahresablauf, Portfolio-Beispiele
 - **Vergleichsrechnung**: Familienstiftung vs. UG vs. Privatvermögen
 
+### ✈️ [Reisen - Übersicht für Reisen in andere Länder und innerhalb Deutschlands](./reisen.md)
+
+Umfassender Reiseführer für private und geschäftliche Reisen:
+
+- **Reisearten im Vergleich**: Inland, EU und internationale Reisen
+- **Verkehrsmittel**: PKW, Bahn, Flugzeug, Fernbus - Vor- und Nachteile
+- **Inlandsreisen**: Beliebte Ziele in Deutschland, Unterkunftsarten, Jahreszeiten
+- **EU-Reisen**: Schengen-Raum, beliebte Reiseziele, Währungen
+- **Internationale Reisen**: Visum, Impfungen, Reisekrankenversicherung
+- **Geschäftsreisen**: Steuerliche Absetzbarkeit, Verpflegungspauschalen, Dokumentation
+- **Reiseplanung**: Checklisten, Packliste, digitale Tools
+- **Nachhaltigkeit**: CO₂-Fußabdruck, umweltfreundliches Reisen
+- **Sicherheit**: Vorsichtsmaßnahmen, Notfallkontakte, Verhaltensregeln
+
 ## Kernerkenntnisse aus dem Vergleich
 
 ### Steuerliche Vorteile
