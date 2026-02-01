@@ -740,7 +740,7 @@ Verbleiben in Stiftung:        39.210 €
 - Vorstandshaftung bei Pflichtverletzungen
 - Vermögensverlust durch schlechte Verwaltung
 - Erbschaftsteuerersatzsteuer alle 30 Jahre
-- Auflösung durch Behörde bei Zweckverfehlungng
+- Auflösung durch Behörde bei Zweckverfehlung
 - Strenge Vermögenserhaltungspflicht
 
 **Vermeidungsstrategien:**
