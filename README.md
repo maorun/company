@@ -42,6 +42,29 @@ Diese Dokumentation bietet vollständige Leitfäden mit direktem **Vergleich der
 - **Gesamtsteuerbelastung**: Bei Thesaurierung vs. Ausschüttung
 - **Wichtige Termine und Fristen**: Jahresübersicht für alle Formen
 
+### 🚗 [Auto-Leasing/-Kauf - Überlassung an Geschäftsführer](./auto-leasing.md)
+
+**Umfassender Leitfaden zur Fahrzeugüberlassung** an Geschäftsführer und Mitarbeiter:
+
+- **Grundlagen der Fahrzeugüberlassung**: Arten der Nutzung und rechtliche Rahmenbedingungen
+- **Steuerliche Behandlung im Vergleich**:
+  - 1%-Regelung vs. Fahrtenbuch-Methode
+  - Elektrofahrzeuge: 0,25%-Regelung (Ersparnis ca. 7.000 € pro Jahr!)
+  - Beispielrechnungen für verschiedene Szenarien
+- **Kaufen vs. Leasing**: Detaillierte Kostenvergleiche aus Unternehmenssicht
+- **5 Vergleichsszenarien** mit konkreten Zahlen:
+  - Privatfahrzeug mit Kilometergeld (ab 3.150 € p.a.)
+  - Firmenfahrzeug (Kauf) mit 1%-Regel oder Fahrtenbuch
+  - Firmenfahrzeug (Leasing) mit verschiedenen Versteuerungsmethoden
+  - E-Auto-Sonderregelungen (ab 8.007 € p.a.)
+- **Anforderungen an Fahrtenbuch**: Ordnungsgemäße Führung und digitale Lösungen
+- **Besonderheiten bei Geschäftsführern**: Gesellschafter-GF vs. Fremdgeschäftsführer
+- **Versicherung und Haftung**: Wer haftet wann?
+- **Rechtliche Anforderungen**: Überlassungsvereinbarung, Gesellschafterbeschluss, Fremdvergleich
+- **Optimierungsmöglichkeiten**: Steuer-, Kosten- und Flottenmanagement
+- **Praktische Beispiele**: 4 reale Szenarien mit Empfehlungen
+- **Checklisten**: Entscheidungshilfe für Firmenwagen
+
 ### 💼 [Vermögensverwaltende UG - Detailanalyse](./vermoegensverwaltende-ug.md)
 
 Spezialisierter Leitfaden speziell für UG mit Wertpapier-Investments:
