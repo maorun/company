@@ -200,7 +200,7 @@ Jede Struktur hat unterschiedliche steuerliche Behandlung, Pflichten und Kosten 
 
 ## Weitere Informationen
 
-Für Informationen zur Gründung siehe [Gründung einer UG](./gruendung.md).
+Für Informationen zur Gründung siehe [Gründung - Vergleich der Rechtsformen](./gruendung.md).
 
 ## Wichtige Links
 
