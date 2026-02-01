@@ -1,5 +1,11 @@
 # Vermögensverwaltende UG - Kauf und Verkauf von Aktien und ETFs
 
+> **Hinweis:** Für einen **direkten Vergleich** der UG mit Privatvermögen und Familienstiftung siehe:
+> - [Gründung - Vergleich der Rechtsformen](./gruendung.md)
+> - [Betrieb - Vergleich bei Aktienkauf/-verkauf](./betrieb.md)
+>
+> Dieses Dokument bietet eine **Detailanalyse speziell für die UG**.
+
 ## Übersicht
 
 Eine vermögensverwaltende UG ist eine Kapitalgesellschaft, die Wertpapiere (Aktien, ETFs) kauft, hält und verkauft. Bei geringer Handelsaktivität (maximal 4 Transaktionen pro Jahr) gelten besondere steuerliche Regelungen und Optimierungsmöglichkeiten.

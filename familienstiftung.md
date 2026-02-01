@@ -1,5 +1,11 @@
 # Familienstiftung - Vermögensverwaltung mit Aktien und ETFs
 
+> **Hinweis:** Für einen **direkten Vergleich** der Familienstiftung mit Privatvermögen und UG siehe:
+> - [Gründung - Vergleich der Rechtsformen](./gruendung.md)
+> - [Betrieb - Vergleich bei Aktienkauf/-verkauf](./betrieb.md)
+>
+> Dieses Dokument bietet eine **Detailanalyse speziell für die Familienstiftung**.
+
 ## Übersicht
 
 Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die dem Zweck dient, das Vermögen einer Familie langfristig zu erhalten, zu mehren und für die Versorgung von Familienmitgliedern zu nutzen. Bei Vermögensanlage in Wertpapieren (Aktien, ETFs) mit begrenzter Handelsaktivität (maximal 4 Transaktionen pro Jahr) bietet sie besondere Vorteile für die generationenübergreifende Vermögensplanung.

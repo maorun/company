@@ -1,14 +1,25 @@
-# GitHub Copilot Anweisungen - UG Dokumentation
+# GitHub Copilot Anweisungen - Vermögensstrukturen Dokumentation
 
 ## Projektübersicht
 
-Dieses Repository enthält umfassende Dokumentation zur Gründung und zum Betrieb einer Unternehmergesellschaft (haftungsbeschränkt) in Deutschland. Die Dokumentation ist rechtskonform und steuerkonform gestaltet.
+Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedener Rechtsformen** für Vermögensverwaltung mit Wertpapieren (Aktien, ETFs) in Deutschland. Die Dokumentation vergleicht Privatvermögen, Unternehmergesellschaft (UG) und Familienstiftung und ist rechtskonform sowie steuerkonform gestaltet.
 
 ## Dokumentstruktur
 
-- **README.md**: Übersicht über das Projekt und Navigation
-- **gruendung.md**: Detaillierte Anleitung zur Gründung einer UG
-- **betrieb.md**: Leitfaden für den laufenden Betrieb einer UG
+- **README.md**: Übersicht über das Projekt, Navigation und Kernerkenntnisse
+- **gruendung.md**: **Vergleich** der Gründung bei Privatvermögen, UG und Familienstiftung
+- **betrieb.md**: **Vergleich** des laufenden Betriebs bei Aktienkauf/-verkauf für alle drei Formen
+- **vermoegensverwaltende-ug.md**: Detailanalyse speziell für UG
+- **familienstiftung.md**: Detailanalyse speziell für Familienstiftung
+
+## Dokumentationsansatz
+
+**Kernprinzip:** Immer eine **Gegenüberstellung der verschiedenen Rechtsformen** (Privatvermögen, UG, Familienstiftung) vornehmen.
+
+- Vergleichstabellen verwenden für direkte Gegenüberstellung
+- Konkrete Zahlenbeispiele für jede Rechtsform
+- Klare Empfehlungen: "Für wen eignet sich was?"
+- Fokus auf Wertpapiergeschäfte (Aktienkauf/-verkauf)
 
 ## Code-Konventionen für Copilot
 
@@ -83,10 +94,13 @@ Dieses Repository enthält umfassende Dokumentation zur Gründung und zum Betrie
 
 #### Konsistenz zwischen Dokumenten
 
-- Cross-Referenzen zwischen gruendung.md und betrieb.md pflegen
+- **Vergleichsstruktur** in gruendung.md und betrieb.md beibehalten
+- Cross-Referenzen zwischen Vergleichsdokumenten und Detailanalysen pflegen
 - Terminologie durchgehend einheitlich verwenden
 - Verlinkungen zwischen Dokumenten aktuell halten
-- README.md als zentrale Navigation nutzen
+- README.md als zentrale Navigation mit Kernerkenntnissen nutzen
+- Vergleichstabellen konsistent formatieren
+- Immer alle drei Rechtsformen berücksichtigen (Privatvermögen, UG, Familienstiftung)
 
 ### Struktur neuer Abschnitte
 
