@@ -202,6 +202,8 @@ Jede Struktur hat unterschiedliche steuerliche Behandlung, Pflichten und Kosten 
 
 Für Informationen zur Gründung siehe [Gründung - Vergleich der Rechtsformen](./gruendung.md).
 
+Für Informationen zu Ein- und Auszahlungen siehe [Geld - Vergleich bei Ein- und Auszahlungen](./geld.md).
+
 ## Wichtige Links
 
 - [Bundesministerium der Justiz - GmbH-Gesetz](https://www.gesetze-im-internet.de/gmbhg/)

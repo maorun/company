@@ -42,6 +42,24 @@ Diese Dokumentation bietet vollständige Leitfäden mit direktem **Vergleich der
 - **Gesamtsteuerbelastung**: Bei Thesaurierung vs. Ausschüttung
 - **Wichtige Termine und Fristen**: Jahresübersicht für alle Formen
 
+### 💰 [Geld - Vergleich bei Ein- und Auszahlungen](./geld.md)
+
+**Gegenüberstellung von Kapitaltransfers** in und aus den verschiedenen Strukturen:
+
+- **Geld einbringen**:
+  - Privatvermögen: Jederzeit ohne Beschränkung
+  - UG: Kapitalrücklage, Kapitalerhöhung, Gesellschafterdarlehen
+  - Familienstiftung: Erstausstattung, Zustiftungen mit Steuervorteilen
+- **Geld herausbekommen**:
+  - Privatvermögen: Sofortiger Zugriff
+  - UG: Gehalt (~20%), Dividenden (~61% Gesamt), Darlehensrückzahlung (0%)
+  - Familienstiftung: Ausschüttungen an Destinatäre, Vorstandsvergütung
+- **Steuerliche Optimierung**: Best Practices für jede Rechtsform
+- **Praktische Szenarien**: Kapitalaufbau, laufende Versorgung, einmalige Beträge
+- **Vergleichsrechnungen**: Detaillierte Beispiele mit konkreten Zahlen
+- **Langfristbetrachtung**: 20-Jahres-Vergleich bei Thesaurierung
+- **Checklisten**: Für Ein- und Auszahlungen bei jeder Rechtsform
+
 ### 🚗 [Auto-Leasing/-Kauf - Überlassung an Geschäftsführer](./auto-leasing.md)
 
 **Umfassender Leitfaden zur Fahrzeugüberlassung** an Geschäftsführer und Mitarbeiter:
