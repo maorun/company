@@ -36,6 +36,19 @@ Leitfaden für den laufenden Betrieb:
 - **Krisensituationen**: Liquiditätsengpässe, Insolvenzantragspflicht
 - **Jahresplanung**: Wichtige Termine und Fristen
 
+### 💰 [Vermögensverwaltende UG](./vermoegensverwaltende-ug.md)
+
+Spezialisierter Leitfaden für Wertpapier-Investments:
+
+- **Steueroptimierung**: § 8b KStG mit 95%-Freistellung für Aktiengewinne (effektiv 1,5% Steuer)
+- **Einzelaktien vs. ETFs**: Steuerliche Unterschiede und Optimierungsstrategien
+- **Transaktionslimit**: Optimale Strategie bei max. 4 Transaktionen pro Jahr
+- **Vermögensverwaltung vs. Handel**: Abgrenzung und Gewerbesteuerfreiheit
+- **Dividendenstrategie**: Kontinuierliche Erträge mit minimaler Besteuerung
+- **Regularien**: BaFin-Erlaubnis, Buchführung, Dokumentationspflichten
+- **Praktische Umsetzung**: Portfolio-Beispiele, Jahresablauf, Checklisten
+- **Vergleichsrechnung**: UG vs. Privatvermögen, Break-Even-Analyse
+
 ## Wichtige Informationen
 
 ### ⚖️ Rechtskonformität
