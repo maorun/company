@@ -1,12 +1,14 @@
-# UG (Unternehmergesellschaft) - Gründung und Betrieb
+# Unternehmens- und Vermögensstrukturen in Deutschland
 
-Willkommen zur umfassenden Dokumentation rund um die Gründung und den Betrieb einer Unternehmergesellschaft (haftungsbeschränkt) in Deutschland.
+Willkommen zur umfassenden Dokumentation rund um verschiedene Rechtsformen und Vermögensstrukturen in Deutschland - von der Unternehmergesellschaft (UG) bis zur Familienstiftung.
 
 ## Übersicht
 
-Die Unternehmergesellschaft (UG) ist eine Sonderform der GmbH, die mit einem Mindeststammkapital von nur 1 Euro gegründet werden kann. Sie bietet Gründern die Möglichkeit, eine haftungsbeschränkte Kapitalgesellschaft mit geringem Kapitaleinsatz zu starten.
+Diese Dokumentation bietet vollständige Leitfäden zu rechtlichen, steuerlichen und organisatorischen Aspekten verschiedener Strukturen für Unternehmensgründung und Vermögensverwaltung:
 
-Diese Dokumentation bietet einen vollständigen Leitfaden zu allen rechtlichen, steuerlichen und organisatorischen Aspekten einer UG - von der Gründung bis zum laufenden Betrieb.
+**Unternehmergesellschaft (UG):** Eine Sonderform der GmbH, die mit einem Mindeststammkapital von nur 1 Euro gegründet werden kann. Sie bietet Gründern die Möglichkeit, eine haftungsbeschränkte Kapitalgesellschaft mit geringem Kapitaleinsatz zu starten.
+
+**Familienstiftung:** Eine rechtsfähige Stiftung des privaten Rechts für langfristige, generationenübergreifende Vermögensplanung mit steuerlichen Vorteilen und Vermögensschutz.
 
 ## Dokumentation
 
@@ -49,6 +51,19 @@ Spezialisierter Leitfaden für Wertpapier-Investments:
 - **Praktische Umsetzung**: Portfolio-Beispiele, Jahresablauf, Checklisten
 - **Vergleichsrechnung**: UG vs. Privatvermögen, Break-Even-Analyse
 
+### 🏛️ [Familienstiftung](./familienstiftung.md)
+
+Umfassender Leitfaden für generationenübergreifende Vermögensplanung:
+
+- **Struktur und Erweiterbarkeit**: Von 1 Person auf ganze Familie erweiterbar
+- **Vermögensanlage**: Aktien und ETFs mit max. 4 Transaktionen pro Jahr
+- **Steuerliche Vorteile**: Erbschaftsteuerersatz alle 30 Jahre, keine laufende Steuer auf Kursgewinne
+- **Kosten und Pflichten**: Detaillierte Übersicht über Gründungs- und laufende Kosten
+- **Organe**: Vorstand, Stiftungsrat, Destinatäre - Rollen und Verantwortlichkeiten
+- **Buy-and-Hold-Strategie**: Langfristige Vermögensanlage mit minimalem Verwaltungsaufwand
+- **Praktische Umsetzung**: Muster-Satzung, Jahresablauf, Portfolio-Beispiele
+- **Vergleichsrechnung**: Familienstiftung vs. UG vs. Privatvermögen
+
 ## Wichtige Informationen
 
 ### ⚖️ Rechtskonformität
@@ -73,7 +88,8 @@ Diese Dokumentation richtet sich an:
 - Gründer, die eine UG gründen möchten
 - Geschäftsführer von bestehenden UGs
 - Gesellschafter, die ihre Rechte und Pflichten verstehen möchten
-- Interessierte, die sich über die Rechtsform UG informieren möchten
+- Personen, die eine Familienstiftung für langfristige Vermögensplanung erwägen
+- Interessierte, die sich über verschiedene Rechtsformen informieren möchten
 
 ## Weiterführende Ressourcen
 
