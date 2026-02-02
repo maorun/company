@@ -151,6 +151,20 @@ Umfassender Leitfaden zur Auflösung und Exit-Strategien:
 - **Praktische Beispiele**: Konkrete Szenarien mit Berechnungen
 - **Checklisten**: Exit-Planung für jede Rechtsform
 
+### 🛡️ [Versicherungen - Vergleich der Rechtsformen](./versicherungen.md)
+
+Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
+
+- **Versicherungspflichten im Vergleich**: Was ist Pflicht, was empfohlen?
+- **Kosten**: 50-150 € (privat), 1.000-2.800 € (UG), 1.600-4.700 € (Stiftung) pro Jahr
+- **D&O-Versicherung**: Schutz für Geschäftsführer und Vorstände (absolut essentiell!)
+- **Betriebshaftpflicht**: Wann notwendig und welche Deckungssummen?
+- **Cyber-Versicherung**: Schutz vor digitalen Risiken
+- **Schadensbeispiele**: Konkrete Fälle mit Kostenberechnungen
+- **Optimierungsmöglichkeiten**: Bündelrabatte, Selbstbehalte, Anpassungen
+- **Praktische Beispiele**: Reale Schadensszenarien und deren finanzielle Auswirkungen
+- **Checklisten**: Versicherungsübersicht für jede Rechtsform
+
 ## Kernerkenntnisse aus dem Vergleich
 
 ### Steuerliche Vorteile
