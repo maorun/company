@@ -123,6 +123,48 @@ Umfassender Reiseführer für private und geschäftliche Reisen:
 - **Nachhaltigkeit**: CO₂-Fußabdruck, umweltfreundliches Reisen
 - **Sicherheit**: Vorsichtsmaßnahmen, Notfallkontakte, Verhaltensregeln
 
+### 🏛️ [Nachfolge und Erbschaft - Vergleich der Rechtsformen](./nachfolge-erbschaft.md)
+
+Umfassender Leitfaden zur Nachfolgeplanung und Erbschaftsteuer:
+
+- **Erbschaftsteuer im Vergleich**: Privatvermögen (2-30%), UG (2-30%), Familienstiftung (0,2-0,73% p.a.)
+- **Freibeträge und Steuersätze**: Detaillierte Berechnungen für alle drei Rechtsformen
+- **Nachfolgeplanung**: Testament, Schenkungen, Anteilsübertragungen, Destinatärsregelungen
+- **Pflichtteilsansprüche**: Schutz und Gestaltungsmöglichkeiten bei jeder Rechtsform
+- **Steueroptimierte Strategien**: Schrittweise Schenkungen, Anteilsübertragungen, Stiftungsgründung
+- **Praktische Beispiele**: Konkrete Familienszenarien mit Berechnungen
+- **Vermögenszersplitterung**: Wie man Vermögen über Generationen zusammenhält
+- **Langfristbetrachtung**: 30-90 Jahre Planung mit Steuervergleichen
+- **Checklisten**: Nachfolgeplanung für jede Rechtsform
+
+### 🚪 [Auflösung und Exit - Vergleich der Rechtsformen](./aufloesung-exit.md)
+
+Umfassender Leitfaden zur Auflösung und Exit-Strategien:
+
+- **Auflösungsprozess im Vergleich**: Privatvermögen (1-7 Tage), UG (1,5-2 Jahre), Familienstiftung (1-3 Jahre)
+- **Kosten**: Von 20 € (privat) bis 18.500 € (Stiftung)
+- **Steuerbelastung bei Exit**: 13,2% (privat), 12,6-26,9% (UG), 9,0% (Stiftung)
+- **Liquidation vs. Verkauf**: Wann welche Option für UG?
+- **Sperrjahr und Gläubigerschutz**: Rechtliche Anforderungen bei UG-Liquidation
+- **Stiftungsauflösung**: Warum es fast unmöglich ist und welche Alternativen es gibt
+- **Exit-Strategien**: Detaillierte Vergleiche mit Vor- und Nachteilen
+- **Praktische Beispiele**: Konkrete Szenarien mit Berechnungen
+- **Checklisten**: Exit-Planung für jede Rechtsform
+
+### 🛡️ [Versicherungen - Vergleich der Rechtsformen](./versicherungen.md)
+
+Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
+
+- **Versicherungspflichten im Vergleich**: Was ist Pflicht, was empfohlen?
+- **Kosten**: 50-150 € (privat), 1.000-2.800 € (UG), 1.600-4.700 € (Stiftung) pro Jahr
+- **D&O-Versicherung**: Schutz für Geschäftsführer und Vorstände (absolut essentiell!)
+- **Betriebshaftpflicht**: Wann notwendig und welche Deckungssummen?
+- **Cyber-Versicherung**: Schutz vor digitalen Risiken
+- **Schadensbeispiele**: Konkrete Fälle mit Kostenberechnungen
+- **Optimierungsmöglichkeiten**: Bündelrabatte, Selbstbehalte, Anpassungen
+- **Praktische Beispiele**: Reale Schadensszenarien und deren finanzielle Auswirkungen
+- **Checklisten**: Versicherungsübersicht für jede Rechtsform
+
 ## Kernerkenntnisse aus dem Vergleich
 
 ### Steuerliche Vorteile
