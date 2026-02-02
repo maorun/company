@@ -123,6 +123,20 @@ Umfassender Reiseführer für private und geschäftliche Reisen:
 - **Nachhaltigkeit**: CO₂-Fußabdruck, umweltfreundliches Reisen
 - **Sicherheit**: Vorsichtsmaßnahmen, Notfallkontakte, Verhaltensregeln
 
+### 🏛️ [Nachfolge und Erbschaft - Vergleich der Rechtsformen](./nachfolge-erbschaft.md)
+
+Umfassender Leitfaden zur Nachfolgeplanung und Erbschaftsteuer:
+
+- **Erbschaftsteuer im Vergleich**: Privatvermögen (2-30%), UG (2-30%), Familienstiftung (0,2-0,73% p.a.)
+- **Freibeträge und Steuersätze**: Detaillierte Berechnungen für alle drei Rechtsformen
+- **Nachfolgeplanung**: Testament, Schenkungen, Anteilsübertragungen, Destinatärsregelungen
+- **Pflichtteilsansprüche**: Schutz und Gestaltungsmöglichkeiten bei jeder Rechtsform
+- **Steueroptimierte Strategien**: Schrittweise Schenkungen, Anteilsübertragungen, Stiftungsgründung
+- **Praktische Beispiele**: Konkrete Familienszenarien mit Berechnungen
+- **Vermögenszersplitterung**: Wie man Vermögen über Generationen zusammenhält
+- **Langfristbetrachtung**: 30-90 Jahre Planung mit Steuervergleichen
+- **Checklisten**: Nachfolgeplanung für jede Rechtsform
+
 ## Kernerkenntnisse aus dem Vergleich
 
 ### Steuerliche Vorteile
