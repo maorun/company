@@ -137,6 +137,20 @@ Umfassender Leitfaden zur Nachfolgeplanung und Erbschaftsteuer:
 - **Langfristbetrachtung**: 30-90 Jahre Planung mit Steuervergleichen
 - **Checklisten**: Nachfolgeplanung für jede Rechtsform
 
+### 🚪 [Auflösung und Exit - Vergleich der Rechtsformen](./aufloesung-exit.md)
+
+Umfassender Leitfaden zur Auflösung und Exit-Strategien:
+
+- **Auflösungsprozess im Vergleich**: Privatvermögen (1-7 Tage), UG (1,5-2 Jahre), Familienstiftung (1-3 Jahre)
+- **Kosten**: Von 20 € (privat) bis 18.500 € (Stiftung)
+- **Steuerbelastung bei Exit**: 13,2% (privat), 12,6-26,9% (UG), 9,0% (Stiftung)
+- **Liquidation vs. Verkauf**: Wann welche Option für UG?
+- **Sperrjahr und Gläubigerschutz**: Rechtliche Anforderungen bei UG-Liquidation
+- **Stiftungsauflösung**: Warum es fast unmöglich ist und welche Alternativen es gibt
+- **Exit-Strategien**: Detaillierte Vergleiche mit Vor- und Nachteilen
+- **Praktische Beispiele**: Konkrete Szenarien mit Berechnungen
+- **Checklisten**: Exit-Planung für jede Rechtsform
+
 ## Kernerkenntnisse aus dem Vergleich
 
 ### Steuerliche Vorteile
