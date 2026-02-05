@@ -828,7 +828,7 @@ Ergänzend zum Dokument [Geldwerte Vorteile](./geldwerte-vorteile.md) gibt es we
 
 ### Kernempfehlungen
 
-#### Für UG (Vermögen 200.000 - 500.000 €):
+#### Für UG (Vermögen 200.000 - 500.000 €)
 
 1. ✅ **Einzelaktien** als Hauptstrategie (§ 8b KStG)
 2. ✅ **Immobilie** (1-2 Objekte) zur Diversifikation
@@ -836,7 +836,7 @@ Ergänzend zum Dokument [Geldwerte Vorteile](./geldwerte-vorteile.md) gibt es we
 4. ⚠️ **Fremdkapital** nur vorsichtig und unter Beachtung der Zinsschranke
 5. ❌ **Kryptowährungen** und **Edelmetalle** besser privat halten
 
-#### Für Familienstiftung (Vermögen > 500.000 €):
+#### Für Familienstiftung (Vermögen > 500.000 €)
 
 1. ✅ **Einzelaktien UND ETFs** (beide bei 0,79%)
 2. ✅ **Immobilien** für Generationenvermögen
@@ -844,7 +844,7 @@ Ergänzend zum Dokument [Geldwerte Vorteile](./geldwerte-vorteile.md) gibt es we
 4. ✅ **Breite internationale Diversifikation**
 5. ⚠️ **Fremdkapital** möglich, aber mit Vorsicht
 
-#### Für Große Vermögen (> 2 Mio. €):
+#### Für Große Vermögen (> 2 Mio. €)
 
 1. ✅ **Kombinierte Struktur:** Familienstiftung + Holding + operative GmbH
 2. ✅ **Mehrere Immobilien** über separate Gesellschaften
