@@ -36,6 +36,39 @@ Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersat
 - **Vergleichstabellen**: Übersicht aller Optimierungsstrategien
 - **Checklisten**: Schritt-für-Schritt zur optimalen Nutzung
 
+### 📋 [Compliance und Meldepflichten - Vergleich der Rechtsformen](./compliance-meldepflichten.md)
+
+**Umfassender Leitfaden zu allen rechtlichen Compliance- und Meldepflichten:**
+
+- **Transparenzregister**: Wirtschaftliche Eigentümer melden (Pflicht ab 2021)
+- **Bundesanzeiger**: Jahresabschluss veröffentlichen (UG und Stiftung)
+- **Geldwäscheprävention**: AML/KYC-Anforderungen bei Kontoeröffnung
+- **Internationale Berichtspflichten**: FATCA/CRS-Meldungen
+- **Jahreskalender**: Alle Meldepflichten im Überblick mit Fristen und Kosten
+- **Besondere Meldepflichten**: Liebhaberei-Nachweis, vGA-Vermeidung, DSGVO
+- **Bußgeldrisiken**: Bis zu 100.000 € bei Verstößen gegen Transparenzregister
+- **Checkliste**: Jährliche Compliance-Überprüfung für jede Rechtsform
+- **Kosten**: 0 € (privat) vs. 53-58 € (UG) vs. 53-58 € (Stiftung) pro Jahr
+- **Zeitaufwand**: 2-4 Std. (privat) vs. 5-40 Std. (UG) vs. 10-80 Std. (Stiftung) pro Jahr
+
+### 🛡️ [Risikomanagement und Krisenplanung - Vergleich der Rechtsformen](./risikomanagement-krisenplanung.md)
+
+**Umfassender Leitfaden zur Risikovorsorge und Krisenmanagement:**
+
+- **Marktrisiken**: Kursverlust-Szenarien (-30% bis -50%), Cash-Reserve-Empfehlungen
+- **Konzentrationsrisiko**: Diversifikation bei Einzelaktien (10-20 Positionen)
+- **Liquiditätsrisiko**: Notfallpläne bei Liquiditätsbedarf trotz 4-Transaktionen-Limit
+- **Operative Risiken**:
+  - Ausfall von Schlüsselpersonen (GF, Vorstand)
+  - Bank-/Broker-Ausfall und Einlagensicherung
+  - Cyber-Risiken und Datenschutz (DSGVO)
+  - Betrug und Unterschlagung
+- **Rechtliche Risiken**: vGA-Risiko, Liebhaberei-Vorwurf, Stiftungsauflösung, GF-/Vorstands-Haftung
+- **Krisenszenarien**: Marktcrash -50%, persönliche Krisen, regulatorische Änderungen
+- **Business Continuity**: Notfall-Handbuch, Dokumentation, regelmäßige Überprüfung
+- **D&O-Versicherung**: Essentiell für GF und Vorstand (500-2.500 € pro Jahr)
+- **Checklisten**: Risikomanagement für jede Rechtsform
+
 ### 📊 [Gründung - Vergleich der Rechtsformen](./gruendung.md)
 
 **Gegenüberstellung der Gründung** bei Privatvermögen, UG und Familienstiftung:
