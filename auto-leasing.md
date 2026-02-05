@@ -2,7 +2,8 @@
 
 ## Übersicht
 
-Dieser Leitfaden vergleicht verschiedene Möglichkeiten der Kraftfahrzeugnutzung bei Unternehmen, insbesondere wenn das Fahrzeug an den Geschäftsführer oder andere Führungskräfte überlassen wird:
+Dieser Leitfaden vergleicht verschiedene Möglichkeiten der Kraftfahrzeugnutzung bei Unternehmen, insbesondere wenn das
+Fahrzeug an den Geschäftsführer oder andere Führungskräfte überlassen wird:
 
 - **Privatfahrzeug**: Eigenes Fahrzeug mit Kilometergeld-Erstattung
 - **Firmenfahrzeug (Kauf)**: Unternehmenseigenes Fahrzeug mit Nutzungsüberlassung
@@ -15,7 +16,8 @@ Jede Option hat unterschiedliche steuerliche Behandlung, Kosten und rechtliche A
 
 ### Was ist Fahrzeugüberlassung?
 
-Die Überlassung eines Firmenwagens an den Geschäftsführer oder Mitarbeiter für private Zwecke stellt einen geldwerten Vorteil dar, der versteuert werden muss. Dies gilt unabhängig davon, ob das Fahrzeug gekauft oder geleast wurde.
+Die Überlassung eines Firmenwagens an den Geschäftsführer oder Mitarbeiter für private Zwecke stellt einen geldwerten
+Vorteil dar, der versteuert werden muss. Dies gilt unabhängig davon, ob das Fahrzeug gekauft oder geleast wurde.
 
 ### Arten der Nutzung
 
@@ -32,19 +34,22 @@ Die Überlassung eines Firmenwagens an den Geschäftsführer oder Mitarbeiter f�
 Die einfachste Methode zur Ermittlung des geldwerten Vorteils.
 
 **Berechnung:**
+
 - **1% des Bruttolistenpreises** (inkl. MwSt., Sonderausstattung) pro Monat
 - **0,03% des Bruttolistenpreises** pro Entfernungskilometer für Fahrten Wohnung-Arbeitsstätte (monatlich)
-- **0,002% des Bruttolistenpreises** pro Entfernungskilometer für Fahrten Wohnung-Arbeitsstätte (ab 2024, bei E-Autos/Hybriden unter Bedingungen)
+- **0,002% des Bruttolistenpreises** pro Entfernungskilometer für Fahrten Wohnung-Arbeitsstätte (ab 2024, bei
+E-Autos/Hybriden unter Bedingungen)
 
 **Beispielrechnung für Verbrenner (Bruttolistenpreis: 50.000 €, Entfernung: 20 km):**
 
-```
+```text
 Privatnutzung: 1% × 50.000 € = 500 €/Monat
 Fahrten Wohnung-Arbeit: 0,03% × 50.000 € × 20 km = 300 €/Monat
 Geldwerter Vorteil gesamt: 800 €/Monat = 9.600 €/Jahr
-```
+```text
 
 **Zu versteuern:**
+
 - Als Arbeitnehmer: 9.600 € × persönlicher Steuersatz (z.B. 42% = 4.032 €)
 - Zusätzlich: Sozialversicherungsbeiträge
 
@@ -53,11 +58,13 @@ Geldwerter Vorteil gesamt: 800 €/Monat = 9.600 €/Jahr
 Die genauere, aber aufwendigere Methode.
 
 **Berechnung:**
-```
+
+```text
 Geldwerter Vorteil = (Gesamtkosten × Private Fahrten) / Gesamtfahrleistung
-```
+```text
 
 **Gesamtkosten umfassen:**
+
 - Abschreibung (Kaufpreis / Nutzungsdauer)
 - Leasingraten (bei Leasing)
 - Kraftstoff
@@ -68,12 +75,12 @@ Geldwerter Vorteil = (Gesamtkosten × Private Fahrten) / Gesamtfahrleistung
 
 **Beispielrechnung:**
 
-```
+```text
 Gesamtkosten pro Jahr:        18.000 €
 Gesamtfahrleistung:          30.000 km
 Private Fahrten:             10.000 km
 Geldwerter Vorteil: (18.000 € × 10.000 km) / 30.000 km = 6.000 €/Jahr
-```
+```text
 
 **Zu versteuern:** 6.000 € × persönlicher Steuersatz
 
@@ -94,20 +101,22 @@ Geldwerter Vorteil: (18.000 € × 10.000 km) / 30.000 km = 6.000 €/Jahr
 **0,25%-Regelung für Elektrofahrzeuge:**
 
 Bei reinen Elektrofahrzeugen (Anschaffung bis 31.12.2030):
+
 - **0,25%** des Bruttolistenpreises bei Anschaffung bis 60.000 €
 - **0,5%** des Bruttolistenpreises bei Anschaffung über 60.000 €
 
 **Beispielrechnung E-Auto (Bruttolistenpreis: 55.000 €, Entfernung: 20 km):**
 
-```
+```text
 Privatnutzung: 0,25% × 55.000 € = 137,50 €/Monat
 Fahrten Wohnung-Arbeit: 0,0075% × 55.000 € × 20 km = 82,50 €/Monat
 Geldwerter Vorteil gesamt: 220 €/Monat = 2.640 €/Jahr
-```
+```text
 
 **Zu versteuern:** 2.640 € × persönlicher Steuersatz (statt 9.600 € bei Verbrenner!)
 
 **Plug-In-Hybride:**
+
 - **0,5%** des Bruttolistenpreises (bei bestimmten Voraussetzungen)
 - Voraussetzungen: Mindestreichweite elektrisch oder CO₂-Grenzwert
 
@@ -116,6 +125,7 @@ Geldwerter Vorteil gesamt: 220 €/Monat = 2.640 €/Jahr
 ### Kauf durch das Unternehmen
 
 **Vorteile:**
+
 - ✅ Vermögenswert in der Bilanz
 - ✅ Abschreibung über Nutzungsdauer (meist 6 Jahre)
 - ✅ Keine monatlichen Raten nach Abschreibung
@@ -124,17 +134,19 @@ Geldwerter Vorteil gesamt: 220 €/Monat = 2.640 €/Jahr
 - ✅ Günstiger bei langer Nutzung (> 6 Jahre)
 
 **Nachteile:**
+
 - ❌ Hohe Anfangsinvestition
 - ❌ Restwertrisiko
 - ❌ Wartungs- und Reparaturkosten
 - ❌ Gebundenes Kapital
 
 **Steuerliche Behandlung:**
-```
+
+```text
 Anschaffungswert: 50.000 € (netto)
 Abschreibung (linear): 50.000 € / 6 Jahre = 8.333 € pro Jahr
 Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
-```
+```text
 
 **Beispielrechnung erste 3 Jahre:**
 
@@ -148,6 +160,7 @@ Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
 ### Leasing durch das Unternehmen
 
 **Vorteile:**
+
 - ✅ Keine hohe Anfangsinvestition
 - ✅ Planbare monatliche Kosten
 - ✅ Leasingraten voll absetzbar
@@ -156,6 +169,7 @@ Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
 - ✅ Kein Restwertrisiko (bei Kilometer-Leasing)
 
 **Nachteile:**
+
 - ❌ Kein Eigentum
 - ❌ Vertragliche Bindung
 - ❌ Kilometerbegrenzung (meist)
@@ -163,11 +177,12 @@ Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
 - ❌ Teurer bei langer Nutzung
 
 **Steuerliche Behandlung:**
-```
+
+```text
 Leasingrate: 650 € pro Monat (netto)
 Betriebsausgaben: 650 € × 12 = 7.800 € pro Jahr
 Zusätzlich: Wartung, Versicherung, Treibstoff als Betriebsausgaben
-```
+```text
 
 **Beispielrechnung erste 3 Jahre:**
 
@@ -194,6 +209,7 @@ Zusätzlich: Wartung, Versicherung, Treibstoff als Betriebsausgaben
 | **Liquiditätsbindung** | Hoch | Niedrig |
 
 **Fazit:**
+
 - **Kauf:** Günstiger langfristig, wenn Fahrzeug länger als 6 Jahre genutzt wird
 - **Leasing:** Günstiger bei kurzer Nutzung (2-4 Jahre), schont Liquidität
 
@@ -204,21 +220,24 @@ Zusätzlich: Wartung, Versicherung, Treibstoff als Betriebsausgaben
 **Variante:** Geschäftsführer nutzt privates Fahrzeug für Geschäftsfahrten
 
 **Abrechnung:**
+
 - 0,30 € pro gefahrenen Kilometer (steuerfreie Erstattung bis zu diesem Betrag möglich)
 - Oder: 0,20 € pro Kilometer (bei Motorrad, Roller)
 
 **Beispielrechnung (15.000 km Geschäftsfahrten pro Jahr):**
 
-```
+```text
 Erstattung: 15.000 km × 0,30 € = 4.500 € steuerfrei
-```
+```text
 
 **Für das Unternehmen:**
+
 - ✅ Betriebsausgabe: 4.500 €
 - ✅ Keine Investition nötig
 - ✅ Keine laufenden Kosten
 
 **Für den Geschäftsführer:**
+
 - ✅ Steuerfrei
 - ✅ Keine Versteuerung geldwerter Vorteil
 - ❌ Eigenes Fahrzeug nutzen
@@ -233,7 +252,8 @@ Erstattung: 15.000 km × 0,30 € = 4.500 € steuerfrei
 **Jahresfahrleistung:** 30.000 km (davon 10.000 km privat)
 
 **Für das Unternehmen (pro Jahr):**
-```
+
+```text
 Abschreibung:                    8.333 €
 Versicherung:                    1.200 €
 Kfz-Steuer:                        300 €
@@ -243,17 +263,19 @@ Gesamt:                         15.333 €
 Betriebsausgabe:                15.333 €
 Steuervorteil (30%):             4.600 €
 Nettokosten:                    10.733 €
-```
+```text
 
 **Für den Geschäftsführer (pro Jahr):**
-```
+
+```text
 Geldwerter Vorteil (1%-Regel):   9.600 €
 Steuerbelastung (42%):           4.032 €
 Sozialabgaben (20%):             1.920 €
 Gesamtbelastung:                 5.952 €
-```
+```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
+
 - Nettokosten Unternehmen: 10.733 €
 - Belastung Geschäftsführer: 5.952 €
 - **Gesamt: 16.685 € pro Jahr**
@@ -263,23 +285,26 @@ Gesamtbelastung:                 5.952 €
 **Gleiche Grunddaten wie Szenario 2**
 
 **Für das Unternehmen (pro Jahr):**
-```
+
+```text
 Gesamtkosten:                   15.333 €
 Betriebsausgabe:                15.333 €
 Steuervorteil (30%):             4.600 €
 Nettokosten:                    10.733 €
-```
+```text
 
 **Für den Geschäftsführer (pro Jahr):**
-```
+
+```text
 Geldwerter Vorteil (Fahrtenbuch):
 (15.333 € × 10.000 km) / 30.000 km = 5.111 €
 Steuerbelastung (42%):           2.147 €
 Sozialabgaben (20%):             1.022 €
 Gesamtbelastung:                 3.169 €
-```
+```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
+
 - Nettokosten Unternehmen: 10.733 €
 - Belastung Geschäftsführer: 3.169 €
 - **Gesamt: 13.902 € pro Jahr**
@@ -295,7 +320,8 @@ Gesamtbelastung:                 3.169 €
 **Entfernung Wohnung-Arbeitsstätte:** 20 km
 
 **Für das Unternehmen (pro Jahr):**
-```
+
+```text
 Leasingraten:                    7.800 €
 Versicherung:                    1.200 €
 Kraftstoff (30.000 km):          4.000 €
@@ -303,17 +329,19 @@ Gesamt:                         13.000 €
 Betriebsausgabe:                13.000 €
 Steuervorteil (30%):             3.900 €
 Nettokosten:                     9.100 €
-```
+```text
 
 **Für den Geschäftsführer (pro Jahr):**
-```
+
+```text
 Geldwerter Vorteil (1%-Regel):   9.600 €
 Steuerbelastung (42%):           4.032 €
 Sozialabgaben (20%):             1.920 €
 Gesamtbelastung:                 5.952 €
-```
+```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
+
 - Nettokosten Unternehmen: 9.100 €
 - Belastung Geschäftsführer: 5.952 €
 - **Gesamt: 15.052 € pro Jahr**
@@ -327,7 +355,8 @@ Gesamtbelastung:                 5.952 €
 **Entfernung Wohnung-Arbeitsstätte:** 20 km
 
 **Für das Unternehmen (pro Jahr):**
-```
+
+```text
 Leasingraten:                    6.600 €
 Versicherung:                    1.000 €
 Stromkosten (30.000 km):         1.500 €
@@ -335,17 +364,19 @@ Gesamt:                          9.100 €
 Betriebsausgabe:                 9.100 €
 Steuervorteil (30%):             2.730 €
 Nettokosten:                     6.370 €
-```
+```text
 
 **Für den Geschäftsführer (pro Jahr):**
-```
+
+```text
 Geldwerter Vorteil (0,25%-Regel): 2.640 €
 Steuerbelastung (42%):           1.109 €
 Sozialabgaben (20%):               528 €
 Gesamtbelastung:                 1.637 €
-```
+```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
+
 - Nettokosten Unternehmen: 6.370 €
 - Belastung Geschäftsführer: 1.637 €
 - **Gesamt: 8.007 € pro Jahr**
@@ -390,6 +421,7 @@ Gesamtbelastung:                 1.637 €
 Ein Fahrtenbuch muss **lückenlos** und **zeitnah** geführt werden, um vom Finanzamt anerkannt zu werden.
 
 **Pflichtangaben:**
+
 - ✅ Datum der Fahrt
 - ✅ Ziel/Reiseziel der Fahrt
 - ✅ Zweck/Auftraggeber der Fahrt
@@ -399,6 +431,7 @@ Ein Fahrtenbuch muss **lückenlos** und **zeitnah** geführt werden, um vom Fina
 - ✅ Gesamtkilometer der Fahrt
 
 **Nicht ausreichend:**
+
 - ❌ Nachträgliche Eintragungen
 - ❌ Pauschale Angaben ("Kundenbesuche")
 - ❌ Fehlende Kilometerstände
@@ -408,12 +441,14 @@ Ein Fahrtenbuch muss **lückenlos** und **zeitnah** geführt werden, um vom Fina
 ### Digitale Fahrtenbücher
 
 **Zulässig, wenn:**
+
 - ✅ Manipulationssicher (z.B. GPS-basiert)
 - ✅ Lückenlose Aufzeichnung
 - ✅ Zeitnahe Erfassung
 - ✅ Export-Funktion für Finanzamt
 
 **Anbieter-Beispiele:**
+
 - Vimcar
 - Driversnote
 - TripLog
@@ -423,7 +458,7 @@ Ein Fahrtenbuch muss **lückenlos** und **zeitnah** geführt werden, um vom Fina
 
 ### Beispiel Fahrtenbuch-Eintrag
 
-```
+```text
 Datum: 15.03.2026
 Kilometerstand Start: 45.321 km
 Kilometerstand Ende: 45.398 km
@@ -433,7 +468,7 @@ Zweck: Kundengespräch
 Auftraggeber/Kunde: Firma XY GmbH
 Besuchte Person: Herr Max Mustermann, Geschäftsführer
 Route: Büro Stuttgart → A8 → München Hauptbahnhof → A8 → Büro Stuttgart
-```
+```text
 
 ## Besonderheiten bei Geschäftsführern
 
@@ -442,6 +477,7 @@ Route: Büro Stuttgart → A8 → München Hauptbahnhof → A8 → Büro Stuttga
 Bei Geschäftsführern, die gleichzeitig Gesellschafter sind (mit > 50% Beteiligung):
 
 **Besonderheiten:**
+
 - Kein Arbeitsverhältnis im sozialversicherungsrechtlichen Sinne
 - Keine Sozialversicherungspflicht
 - Geldwerter Vorteil ist als Arbeitslohn zu versteuern
@@ -465,6 +501,7 @@ Bei Geschäftsführern, die gleichzeitig Gesellschafter sind (mit > 50% Beteilig
 Bei angestellten Geschäftsführern ohne wesentliche Beteiligung:
 
 **Besonderheiten:**
+
 - Arbeitnehmerstatus
 - Sozialversicherungspflichtig
 - Geldwerter Vorteil unterliegt SV-Beiträgen
@@ -477,24 +514,28 @@ Bei angestellten Geschäftsführern ohne wesentliche Beteiligung:
 Wenn ein Geschäftsführer mehrere Firmenfahrzeuge zur privaten Nutzung zur Verfügung hat:
 
 **Regelung:**
+
 - Volle Versteuerung (1% oder Fahrtenbuch) für das **Hauptfahrzeug**
 - Zusätzlich **0,5%** für jedes weitere Fahrzeug zur privaten Nutzung
 
 **Beispiel (2 Fahrzeuge):**
-```
+
+```text
 Fahrzeug 1 (Hauptfahrzeug, 50.000 €): 1% = 500 €/Monat
 Fahrzeug 2 (Zweitfahrzeug, 30.000 €): 0,5% = 150 €/Monat
 Geldwerter Vorteil gesamt: 650 €/Monat = 7.800 €/Jahr
-```
+```text
 
 ## Versicherung und Haftung
 
 ### Versicherungsarten
 
 **Pflichtversicherungen:**
+
 - ✅ Kfz-Haftpflichtversicherung (gesetzlich vorgeschrieben)
 
 **Empfohlene Versicherungen:**
+
 - ✅ Vollkaskoversicherung (bei Neuwagen/Leasing oft Pflicht)
 - ✅ Teilkaskoversicherung (Mindestschutz)
 - ✅ Insassenunfallversicherung
@@ -503,11 +544,13 @@ Geldwerter Vorteil gesamt: 650 €/Monat = 7.800 €/Jahr
 ### Versicherungsnehmer
 
 **Variante 1: Unternehmen als Versicherungsnehmer**
+
 - ✅ Betriebsausgabe voll absetzbar
 - ✅ Unternehmens-Schadenfreiheitsrabatt
 - ⚠️ Schäden bei Privatnutzung durch Geschäftsführer
 
 **Variante 2: Geschäftsführer als Versicherungsnehmer**
+
 - ❌ Nicht als Betriebsausgabe absetzbar
 - ❌ Komplizierte Abrechnung
 
@@ -516,11 +559,13 @@ Geldwerter Vorteil gesamt: 650 €/Monat = 7.800 €/Jahr
 ### Haftung bei Unfällen
 
 **Geschäftsfahrt (betriebliche Fahrt):**
+
 - Unternehmen haftet
 - Geschäftsführer haftet nur bei grober Fahrlässigkeit oder Vorsatz
 - Versicherung reguliert Schaden
 
 **Privatfahrt:**
+
 - Geschäftsführer haftet
 - Versicherung reguliert Schaden
 - Bei Schäden am Firmenfahrzeug: Selbstbeteiligung zahlt Geschäftsführer oder Unternehmen (Vereinbarungssache)
@@ -534,6 +579,7 @@ Geldwerter Vorteil gesamt: 650 €/Monat = 7.800 €/Jahr
 Eine schriftliche Vereinbarung zwischen Unternehmen und Geschäftsführer ist empfehlenswert.
 
 **Inhalt:**
+
 - Art und Umfang der Nutzung (privat/geschäftlich)
 - Versteuerungsmethode (1%-Regel oder Fahrtenbuch)
 - Kostenregelung (Kraftstoff, Versicherung, etc.)
@@ -544,7 +590,7 @@ Eine schriftliche Vereinbarung zwischen Unternehmen und Geschäftsführer ist em
 
 **Muster-Klausel:**
 
-```
+```text
 Überlassung Firmenwagen
 
 Die [Firmenname] überlässt Herrn/Frau [Name] als Geschäftsführer 
@@ -561,19 +607,21 @@ Bei selbstverschuldeten Unfällen trägt der Geschäftsführer die
 Selbstbeteiligung in Höhe von [Betrag] €.
 
 Das Fahrzeug ist pfleglich zu behandeln und regelmäßig zu warten.
-```
+```text
 
 ### Gesellschafterbeschluss
 
 Bei Gesellschafter-Geschäftsführern sollte die Überlassung durch Gesellschafterbeschluss geregelt werden.
 
 **Inhalt:**
+
 - Beschreibung des Fahrzeugs
 - Art der Überlassung
 - Steuerliche Behandlung
 - Kostenregelung
 
 **Zweck:**
+
 - Vermeidung verdeckter Gewinnausschüttung
 - Rechtssicherheit
 - Dokumentation für Finanzamt
@@ -583,11 +631,13 @@ Bei Gesellschafter-Geschäftsführern sollte die Überlassung durch Gesellschaft
 Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 
 **Prüfung:**
+
 - Würde ein fremder Dritter unter gleichen Bedingungen handeln?
 - Ist die Überlassung angemessen?
 - Sind die Bedingungen marktüblich?
 
 **Bei Unangemessenheit:**
+
 - Risiko der verdeckten Gewinnausschüttung
 - Nachversteuerung beim Unternehmen
 - Steuerliche Risiken
@@ -646,50 +696,60 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Steueroptimierung
 
 **1. Wahl der richtigen Versteuerungsmethode:**
+
 - Bei < 40% Privatnutzung: Fahrtenbuch
 - Bei > 50% Privatnutzung: 1%-Regel
 - Bei Elektrofahrzeug: 0,25%-Regel nutzen
 
 **2. Elektromobilität:**
+
 - Höhere steuerliche Förderung
 - Geringere Betriebskosten
 - Umweltbonus und Förderungen
 
 **3. Tankkartenregelung:**
+
 - Firmenkarte für geschäftliche Fahrten
 - Private Fahrten separat abrechnen oder über 1%-Regel
 
 **4. Poolfahrzeug-Regelung:**
+
 - Mehrere Fahrzeuge im Pool
 - Keine feste Zuordnung zu einer Person
 - Keine Versteuerung privater Nutzung, wenn Privatnutzung durch organisatorische Maßnahmen ausgeschlossen
 
 **5. Zeitpunkt der Anschaffung:**
+
 - Jahresende: Volle Jahres-Abschreibung
 - Vorteil: Sofortige steuerliche Wirkung
 
 ### Kostenoptimierung
 
 **1. Leasing vs. Kauf:**
+
 - Leasing bei kurzer Nutzungsdauer (< 4 Jahre)
 - Kauf bei langer Nutzungsdauer (> 6 Jahre)
 
 **2. Leasingverträge vergleichen:**
+
 - Kilometer-Leasing vs. Restwert-Leasing
 - Sonderzahlungen minimieren
 - Service-Pakete (Wartung, Reifen) inkludieren
 
 **3. Versicherungsvergleich:**
+
 - Jährlicher Versicherungscheck
 - Selbstbeteiligung erhöhen (wenn sinnvoll)
 - Rabatte nutzen (Schadenfreiheit, Garage, etc.)
 
 **4. Kraftstoffkosten:**
+
 - Tankkarten mit Rabatt
 - Effiziente Fahrweise schulen
 - Alternative Antriebe prüfen (Hybrid, Elektro)
 
 **5. Wartung:**
+
 - Werkstatt-Vergleich (Vertragswerkstatt vs. freie Werkstatt)
 - Wartungsverträge/Service-Pakete nutzen
 - Regelmäßige Pflege (günstiger als Reparaturen)
@@ -697,18 +757,21 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Flottenmanagement (bei mehreren Fahrzeugen)
 
 **Fuhrparkrichtlinie erstellen:**
+
 - Fahrzeugklassen definieren
 - Nutzungsbedingungen festlegen
 - Kostenrahmen vorgeben
 - Versteuerungsmethode festlegen
 
 **Digitale Tools:**
+
 - Flottenmanagement-Software
 - GPS-Tracking und Fahrtenbuch
 - Schadenmanagement
 - Wartungsplanung
 
 **Kosten-Controlling:**
+
 - Total Cost of Ownership (TCO) berechnen
 - Benchmark mit Mitbewerbern
 - Regelmäßige Auswertungen
@@ -718,6 +781,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Beispiel 1: Startup mit geringer Liquidität
 
 **Situation:**
+
 - Junges Unternehmen (UG)
 - Geschäftsführer benötigt Fahrzeug
 - Wenig Kapital verfügbar
@@ -726,6 +790,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Empfehlung:** Privatfahrzeug mit Kilometergeld
 
 **Begründung:**
+
 - Keine Investition erforderlich
 - Steuerfrei bis 0,30 €/km
 - Flexible Lösung
@@ -736,6 +801,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Beispiel 2: Etabliertes Unternehmen (GmbH) mit gutem Cashflow
 
 **Situation:**
+
 - GmbH mit stabilen Umsätzen
 - Geschäftsführer benötigt repräsentatives Fahrzeug
 - 40.000 km/Jahr (davon 15.000 km privat)
@@ -744,6 +810,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Empfehlung:** Kauf mit Fahrtenbuch
 
 **Begründung:**
+
 - Langfristig günstiger als Leasing
 - Fahrtenbuch spart Steuern (nur 37,5% privat)
 - Repräsentationsfahrzeug
@@ -752,6 +819,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Fahrzeug:** Oberklasse (ca. 60.000 €)
 
 **Kosten (pro Jahr):**
+
 - Abschreibung: 10.000 €
 - Laufende Kosten: 8.000 €
 - Steuervorteil: -5.400 €
@@ -762,6 +830,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Beispiel 3: Geschäftsführer mit hoher Privatnutzung
 
 **Situation:**
+
 - Geschäftsführer nutzt Fahrzeug überwiegend privat
 - 30.000 km/Jahr (davon 25.000 km privat)
 - Nur wenige Geschäftstermine
@@ -769,6 +838,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Empfehlung:** Privatfahrzeug mit gelegentlicher Kilometergeld-Erstattung
 
 **Begründung:**
+
 - Bei > 80% Privatnutzung kein Firmenwagen sinnvoll
 - 1%-Regel wäre sehr teuer
 - Fahrtenbuch administrativ aufwendig
@@ -779,6 +849,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Beispiel 4: Umweltbewusste Firma
 
 **Situation:**
+
 - Unternehmen legt Wert auf Nachhaltigkeit
 - Elektromobilität gewünscht
 - 28.000 km/Jahr (davon 10.000 km privat)
@@ -786,6 +857,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Empfehlung:** E-Auto-Leasing mit 0,25%-Regelung
 
 **Begründung:**
+
 - Steuerlich hochattraktiv (0,25% statt 1%)
 - Umweltfreundlich
 - Niedrige Betriebskosten
@@ -794,6 +866,7 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 **Fahrzeug:** Tesla Model 3, BMW i4 oder Mercedes EQE (bis 60.000 €)
 
 **Kosten (pro Jahr):**
+
 - Leasingraten: 6.600 €
 - Laufende Kosten: 2.500 €
 - Steuervorteil: -2.730 €
@@ -863,17 +936,23 @@ Die Überlassung muss dem **Fremdvergleichsgrundsatz** entsprechen:
 ### Steuerberatung
 
 Für individuelle steuerliche Beratung empfehlen wir die Konsultation eines:
+
 - **Steuerberaters** mit Erfahrung in Firmenwagenbesteuerung
 - **Rechtsanwalts** für arbeitsrechtliche Fragen
 - **Leasingspezialisten** für Vertragsgestaltung
 
 ## Haftungsausschluss
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts-, Steuer- oder Finanzberatung dar. Die steuerliche Behandlung von Firmenfahrzeugen ist komplex und kann sich durch Gesetzesänderungen oder unterschiedliche Auslegung durch Finanzämter ändern.
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts-, Steuer- oder
+Finanzberatung dar. Die steuerliche Behandlung von Firmenfahrzeugen ist komplex und kann sich durch Gesetzesänderungen
+oder unterschiedliche Auslegung durch Finanzämter ändern.
 
-Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater oder Rechtsanwalt konsultieren. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
+Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater oder Rechtsanwalt konsultieren. Die Informationen
+wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität
+übernommen.
 
-Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an einen Fachberater.
+Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an
+einen Fachberater.
 
 ---
 

@@ -52,36 +52,42 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### PKW/Mietwagen
 
 **Vorteile:**
+
 - ✅ Maximale Flexibilität
 - ✅ Tür-zu-Tür-Service
 - ✅ Gepäcktransport unproblematisch
 - ✅ Für Familien oft günstiger
 
 **Nachteile:**
+
 - ❌ Parkplatzsuche in Städten
 - ❌ Umweltbelastung höher
 - ❌ Stressiger bei langen Strecken
 - ❌ Keine Arbeitszeit während der Fahrt
 
 **Kosten:**
+
 - Eigenes Fahrzeug: 0,30 €/km (Geschäftsreisen)
 - Mietwagen: 30-100 €/Tag + Sprit
 
 ### Deutsche Bahn (Zug)
 
 **Vorteile:**
+
 - ✅ Arbeiten während der Fahrt möglich
 - ✅ Umweltfreundlich
 - ✅ Keine Parkplatzprobleme
 - ✅ BahnCard-Rabatte verfügbar
 
 **Nachteile:**
+
 - ❌ Verspätungen möglich
 - ❌ Eingeschränkte Flexibilität
 - ❌ Gepäcktransport aufwändiger
 - ❌ Nicht alle Ziele erreichbar
 
 **Kosten:**
+
 - Sparpreis: ab 19,90 €
 - Flexpreis: ca. 0,20-0,40 €/km
 - BahnCard 25: 25% Rabatt (ab 57 €/Jahr)
@@ -90,18 +96,21 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### Flugzeug
 
 **Vorteile:**
+
 - ✅ Schnell bei Langstrecken
 - ✅ Große Reichweite
 - ✅ Für internationale Reisen oft einzige Option
 - ✅ Vielflieger-Programme
 
 **Nachteile:**
+
 - ❌ Umweltbelastung sehr hoch
 - ❌ Zeit für Check-in/Security
 - ❌ Gepäckbeschränkungen
 - ❌ Wetterabhängig
 
 **Kosten:**
+
 - Inland: 50-200 € (Economy)
 - EU: 50-400 € (Economy)
 - Interkontinental: 400-1.500 € (Economy)
@@ -109,18 +118,21 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### Fernbus
 
 **Vorteile:**
+
 - ✅ Sehr günstig
 - ✅ Viele Verbindungen
 - ✅ WLAN oft verfügbar
 - ✅ Keine Buchungsgebühren
 
 **Nachteile:**
+
 - ❌ Lange Fahrtzeiten
 - ❌ Weniger komfortabel
 - ❌ Verspätungen durch Verkehr
 - ❌ Begrenzte Beinfreiheit
 
 **Kosten:**
+
 - Inland: 5-30 €
 - EU: 15-80 €
 
@@ -129,21 +141,25 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### Beliebte Reiseziele
 
 #### Norddeutschland
+
 - **Hamburg**: Hafenstadt, Elbphilharmonie, Reeperbahn
 - **Ostseeküste**: Rügen, Usedom, Lübeck
 - **Bremen**: Hansestadt, Bremer Stadtmusikanten
 
 #### Mitteldeutschland
+
 - **Berlin**: Hauptstadt, Brandenburger Tor, Museumsinsel
 - **Dresden**: Frauenkirche, Zwinger, Semperoper
 - **Leipzig**: Völkerschlachtdenkmal, Gewandhaus
 
 #### Süddeutschland
+
 - **München**: Marienplatz, Englischer Garten, Oktoberfest
 - **Schwarzwald**: Wandern, Natur, Bollenhut-Region
 - **Bodensee**: Konstanz, Meersburg, Insel Mainau
 
 #### Westdeutschland
+
 - **Köln**: Dom, Karneval, Rheinpromenade
 - **Düsseldorf**: Königsallee, Altstadt, Medienhafen
 - **Ruhrgebiet**: Industriekultur, Zeche Zollverein
@@ -162,24 +178,28 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### Jahreszeiten und Reiseplanung
 
 **Frühling (März-Mai):**
+
 - ✅ Milde Temperaturen
 - ✅ Weniger Touristen
 - ✅ Blütezeit
 - ⚠️ Ostern: Höhere Preise
 
 **Sommer (Juni-August):**
+
 - ✅ Bestes Wetter
 - ✅ Lange Tage
 - ❌ Hauptsaison: Höchste Preise
 - ❌ Überfüllte Sehenswürdigkeiten
 
 **Herbst (September-November):**
+
 - ✅ Goldener Herbst
 - ✅ Moderate Preise
 - ✅ Weinlese
 - ⚠️ Wechselhaftes Wetter
 
 **Winter (Dezember-Februar):**
+
 - ✅ Weihnachtsmärkte
 - ✅ Wintersport
 - ✅ Günstige Preise (außer Weihnachten)
@@ -190,9 +210,12 @@ Jede Reiseart hat unterschiedliche rechtliche Anforderungen, steuerliche Behandl
 ### Schengen-Raum
 
 **Mitgliedsländer (27):**
-Deutschland, Österreich, Belgien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Island, Italien, Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Polen, Portugal, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechien, Ungarn
+Deutschland, Österreich, Belgien, Dänemark, Estland, Finnland, Frankreich, Griechenland, Island, Italien, Kroatien,
+Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Niederlande, Norwegen, Polen, Portugal, Schweden, Schweiz, Slowakei,
+Slowenien, Spanien, Tschechien, Ungarn
 
 **Vorteile:**
+
 - ✅ Keine Grenzkontrollen
 - ✅ Freier Personenverkehr
 - ✅ Ein Visum für alle Länder
@@ -200,21 +223,25 @@ Deutschland, Österreich, Belgien, Dänemark, Estland, Finnland, Frankreich, Gri
 ### Beliebte EU-Reiseziele
 
 #### Südeuropa
+
 - **Spanien**: Barcelona, Madrid, Mallorca, Costa del Sol
 - **Italien**: Rom, Venedig, Florenz, Amalfiküste
 - **Griechenland**: Athen, Kreta, Santorini, Rhodos
 - **Portugal**: Lissabon, Porto, Algarve
 
 #### Westeuropa
+
 - **Frankreich**: Paris, Côte d'Azur, Provence, Bretagne
 - **Niederlande**: Amsterdam, Rotterdam, Tulpenfelder
 - **Belgien**: Brüssel, Brügge, Gent
 
 #### Nordeuropa
+
 - **Skandinavien**: Stockholm, Kopenhagen, Oslo, Helsinki
 - **Island**: Reykjavik, Polarlichter, Geysire
 
 #### Osteuropa
+
 - **Tschechien**: Prag, Böhmen
 - **Polen**: Warschau, Krakau, Danzig
 - **Ungarn**: Budapest
@@ -234,20 +261,23 @@ Deutschland, Österreich, Belgien, Dänemark, Estland, Finnland, Frankreich, Gri
 ### Währungen in EU-Ländern
 
 **Euro-Zone (20 Länder):**
-Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Portugal, Slowakei, Slowenien, Spanien, Zypern
+Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, Irland, Italien, Kroatien, Lettland,
+Litauen, Luxemburg, Malta, Niederlande, Portugal, Slowakei, Slowenien, Spanien, Zypern
 
 **Nicht-Euro:**
+
 - Dänemark: Dänische Krone (DKK)
 - Schweden: Schwedische Krone (SEK)
 - Polen: Złoty (PLN)
 - Tschechien: Tschechische Krone (CZK)
 - Ungarn: Forint (HUF)
 
-## Internationale Reisen (außerhalb EU)
+## Internationale Reisen (außerhalb EU) (1)
 
 ### Dokumentenanforderungen
 
 #### Reisepass
+
 - **Gültigkeit**: Mindestens 6 Monate über Rückreisedatum
 - **Leere Seiten**: Mindestens 2 Seiten
 - **Kosten**: 60 € (bis 24 Jahre), 70 € (ab 24 Jahre)
@@ -256,6 +286,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 #### Visum
 
 **Visumsfreie Reisen (deutsche Staatsangehörige):**
+
 - USA: ESTA (Electronic System for Travel Authorization) - 21 USD, 90 Tage
 - Kanada: eTA (electronic Travel Authorization) - 7 CAD, 6 Monate
 - Australien: eVisitor - kostenlos, 90 Tage
@@ -265,6 +296,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - Singapur: Visumsfreier Aufenthalt - 90 Tage
 
 **Visum erforderlich (Beispiele):**
+
 - **China**: Touristenvisum - ca. 125 €, Geschäftsvisum - ca. 125 €
 - **Indien**: e-Visum - 25-100 USD, reguläres Visum - ca. 90 €
 - **Russland**: Touristenvisum - ca. 80-120 €
@@ -276,6 +308,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 #### Reiseimpfungen
 
 **Standardimpfungen (empfohlen):**
+
 - Tetanus
 - Diphtherie
 - Keuchhusten (Pertussis)
@@ -292,6 +325,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 | **Ozeanien** | Hepatitis A/B, Typhus, Japanische Enzephalitis |
 
 **Malaria-Prophylaxe:**
+
 - Risikogebiete: Subsahara-Afrika, Südostasien, Teile Südamerikas
 - Medikamente: Atovaquon/Proguanil, Mefloquin, Doxycyclin
 - Kosten: 50-150 € für 2 Wochen
@@ -299,17 +333,20 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 #### Reisekrankenversicherung
 
 **Leistungen:**
+
 - Medizinische Behandlung im Ausland
 - Krankenrücktransport
 - 24h-Notfallhotline
 - Zahnbehandlung (Notfall)
 
 **Kosten:**
+
 - Einzelpersonen: 8-20 €/Jahr
 - Familien: 25-40 €/Jahr
 - Langzeitreisen (>56 Tage): 1-3 €/Tag
 
 **Anbieter:**
+
 - HanseMerkur
 - ADAC
 - Allianz
@@ -319,24 +356,29 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Beliebte Internationale Reiseziele
 
 #### Nordamerika
+
 - **USA**: New York, Los Angeles, San Francisco, Florida
 - **Kanada**: Toronto, Vancouver, Québec, Rocky Mountains
 
 #### Asien
+
 - **Thailand**: Bangkok, Phuket, Chiang Mai
 - **Japan**: Tokio, Kyoto, Osaka
 - **Vereinigte Arabische Emirate**: Dubai, Abu Dhabi
 - **Singapur**: Stadtstaat mit vielfältiger Kultur
 
 #### Ozeanien
+
 - **Australien**: Sydney, Melbourne, Great Barrier Reef
 - **Neuseeland**: Auckland, Queenstown, Hobbiton
 
 #### Afrika
+
 - **Südafrika**: Kapstadt, Kruger-Nationalpark, Garden Route
 - **Marokko**: Marrakesch, Fès, Sahara
 
 #### Südamerika
+
 - **Brasilien**: Rio de Janeiro, São Paulo, Amazonas
 - **Argentinien**: Buenos Aires, Patagonien, Iguazú-Wasserfälle
 - **Peru**: Machu Picchu, Lima, Cusco
@@ -362,12 +404,14 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Absetzbare Kosten
 
 **Fahrtkosten:**
+
 - PKW: 0,30 €/km
 - Öffentliche Verkehrsmittel: Tatsächliche Kosten
 - Flugzeug: Tatsächliche Kosten (Economy ausreichend)
 - Taxi: Nur bei beruflicher Notwendigkeit
 
 **Übernachtungskosten:**
+
 - Tatsächliche Kosten mit Beleg
 - Angemessenheit beachten
 - Frühstück abziehen (20% vom Tagessatz)
@@ -381,6 +425,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 | **An-/Abreisetag** | 14 € | Länderspezifisch |
 
 **Nebenkosten:**
+
 - Parkgebühren
 - Telefon/Internet
 - Gepäckaufbewahrung
@@ -390,6 +435,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Dokumentation
 
 **Erforderliche Nachweise:**
+
 - ✅ Reisekostenabrechnung
 - ✅ Hotelrechnungen
 - ✅ Fahrkarten/Boarding Passes
@@ -398,6 +444,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - ✅ Anlass der Reise dokumentieren
 
 **Aufbewahrung:**
+
 - 10 Jahre (Geschäftsreisen)
 - Digital oder Papier
 - GoBD-konform
@@ -405,6 +452,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Reisekostenrichtlinie (für Unternehmen)
 
 **Inhalte:**
+
 1. Genehmigungsverfahren
 2. Buchungsrichtlinien
 3. Erstattungssätze
@@ -412,6 +460,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 5. Abrechnungsfristen
 
 **Beispiel-Richtlinien:**
+
 - Bahnreisen: 2. Klasse (Flexticket bei < 7 Tage Vorlauf)
 - Flüge: Economy (Business bei > 5h Flugzeit)
 - Hotel: Max. 150 €/Nacht (Deutschland), 200 €/Nacht (Ausland)
@@ -420,6 +469,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Reiseplanung - Checkliste
 
 ### 3-6 Monate vor der Reise
+
 - [ ] Reiseziel festlegen
 - [ ] Reisedaten bestimmen
 - [ ] Budget planen
@@ -431,6 +481,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Reiserücktrittsversicherung abschließen
 
 ### 1-3 Monate vor der Reise
+
 - [ ] Auslandsreisekrankenversicherung abschließen
 - [ ] Visum beantragen (falls erforderlich)
 - [ ] Impfungen auffrischen/durchführen
@@ -441,6 +492,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Aktivitäten/Touren buchen
 
 ### 1-2 Wochen vor der Reise
+
 - [ ] Reiseunterlagen zusammenstellen
 - [ ] Kopien von Dokumenten erstellen
 - [ ] Notfallkontakte notieren
@@ -452,6 +504,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Haustierbetreuung organisieren
 
 ### 1-3 Tage vor der Reise
+
 - [ ] Gepäck packen (Checkliste verwenden)
 - [ ] Handgepäck-Vorschriften beachten
 - [ ] Flüssigkeiten in Beutel (max. 100ml)
@@ -462,6 +515,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Wohnung vorbereiten (Pflanzen, Müll, Heizung)
 
 ### Am Reisetag
+
 - [ ] Noch einmal alle Dokumente prüfen
 - [ ] Pünktlich am Flughafen/Bahnhof sein
 - [ ] Wertsachen im Handgepäck
@@ -470,6 +524,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Packliste
 
 ### Dokumente
+
 - [ ] Reisepass (bei internationalen Reisen)
 - [ ] Personalausweis (bei Inlands-/EU-Reisen)
 - [ ] Visum (falls erforderlich)
@@ -484,6 +539,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Fotokopien aller wichtigen Dokumente
 
 ### Kleidung (je nach Ziel)
+
 - [ ] Unterwäsche (für Reisetage + 2)
 - [ ] Socken
 - [ ] Hosen/Röcke
@@ -497,6 +553,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Mütze/Hut
 
 ### Hygiene und Gesundheit
+
 - [ ] Zahnbürste und Zahnpasta
 - [ ] Shampoo/Duschgel (kleine Flasche)
 - [ ] Deo
@@ -510,6 +567,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Mückenschutz
 
 ### Elektronik
+
 - [ ] Smartphone + Ladekabel
 - [ ] Laptop/Tablet (falls benötigt)
 - [ ] Kamera + Speicherkarten
@@ -519,6 +577,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] E-Reader (für lange Reisen)
 
 ### Sonstiges
+
 - [ ] Rucksack/Tasche für Tagesausflüge
 - [ ] Wasserflasche
 - [ ] Reiseführer/Karten
@@ -544,6 +603,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Tipps für nachhaltiges Reisen
 
 **Transport:**
+
 - ✅ Bahn statt Flugzeug bei Strecken < 1.000 km
 - ✅ Direktflüge wählen (Start/Landung verbraucht am meisten)
 - ✅ Fahrgemeinschaften bilden
@@ -551,12 +611,14 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - ✅ CO₂-Kompensation bei Flügen
 
 **Unterkunft:**
+
 - ✅ Hotels mit Umweltzertifizierung (Green Key, EU Ecolabel)
 - ✅ Handtücher wiederverwenden
 - ✅ Klimaanlage/Heizung bewusst nutzen
 - ✅ Regional einkaufen
 
 **Verhalten:**
+
 - ✅ Plastikvermeidung (eigene Trinkflasche)
 - ✅ Müll ordnungsgemäß entsorgen
 - ✅ Lokale Wirtschaft unterstützen
@@ -566,32 +628,41 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Jahresplanung - Optimale Reisezeiten
 
 ### Hauptsaison (Juni-August)
+
 **Vorteile:**
+
 - Bestes Wetter in Europa
 - Schulferien (Familienreisen)
 
 **Nachteile:**
+
 - Höchste Preise
 - Überfüllte Sehenswürdigkeiten
 - Flughäfen/Bahnhöfe sehr voll
 
 ### Nebensaison (April-Mai, September-Oktober)
+
 **Vorteile:**
+
 - ✅ Moderate Preise
 - ✅ Angenehmes Wetter
 - ✅ Weniger Touristen
 - ✅ Beste Reisezeit für viele Ziele
 
 **Nachteile:**
+
 - Wetterrisiko höher
 
 ### Nebensaison (November-März, außer Weihnachten)
+
 **Vorteile:**
+
 - ✅ Niedrigste Preise
 - ✅ Authentische Atmosphäre
 - ✅ Weihnachtsmärkte (Dezember)
 
 **Nachteile:**
+
 - Schlechteres Wetter
 - Kürzere Tage
 - Manche Attraktionen geschlossen
@@ -616,6 +687,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Beispiel: Familie mit 2 Erwachsenen + 2 Kindern
 
 #### Deutschland (Ostsee)
+
 - Anreise (PKW): 150 €
 - Ferienwohnung (7 Nächte): 600 €
 - Verpflegung: 500 €
@@ -623,6 +695,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - **Gesamt: 1.450 €**
 
 #### Spanien (Mallorca)
+
 - Flüge (4 Personen): 800 €
 - Hotel (7 Nächte, HP): 1.200 €
 - Mietwagen: 250 €
@@ -631,6 +704,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - **Gesamt: 2.950 €**
 
 #### Thailand (Phuket)
+
 - Flüge (4 Personen): 2.800 €
 - Hotel (7 Nächte): 600 €
 - Verpflegung: 300 €
@@ -641,6 +715,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Beispiel: 1 Person (Rucksacktourismus)
 
 #### Deutschland (Städtetour)
+
 - Bahn (Interrail-Pass 3 Tage): 150 €
 - Hostels (7 Nächte): 210 €
 - Verpflegung: 150 €
@@ -648,6 +723,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - **Gesamt: 610 €**
 
 #### Europa (Barcelona)
+
 - Flug: 150 €
 - Hostels (7 Nächte): 140 €
 - Verpflegung: 200 €
@@ -656,6 +732,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - **Gesamt: 640 €**
 
 #### Asien (Thailand)
+
 - Flug: 600 €
 - Hostels (7 Nächte): 70 €
 - Verpflegung: 80 €
@@ -668,11 +745,13 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Vor der Reise
 
 **Informationen einholen:**
+
 - Auswärtiges Amt: Reise- und Sicherheitshinweise
 - ELEFAND-App: Elektronische Erfassung von Deutschen im Ausland
 - Sicherheitslage im Zielland prüfen
 
 **Vorsichtsmaßnahmen:**
+
 - Kopien wichtiger Dokumente (Pass, Visum, Tickets)
 - Notfallkontakte speichern
 - Reiseregistrierung beim Auswärtigen Amt
@@ -681,6 +760,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Während der Reise
 
 **Allgemeine Sicherheit:**
+
 - Wertsachen im Hotelsafe
 - Nur notwendiges Bargeld mitnehmen
 - Aufmerksam in Menschenmengen
@@ -688,6 +768,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - Bei Dunkelheit belebte Straßen nutzen
 
 **Gesundheit:**
+
 - Leitungswasser-Qualität prüfen
 - Nur geschältes Obst essen (Entwicklungsländer)
 - Mückenschutz verwenden
@@ -695,6 +776,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - Bei Krankheit: Arzt aufsuchen
 
 **Diebstahlschutz:**
+
 - Diebstahlsicherer Rucksack/Tasche
 - Geld und Dokumente am Körper tragen
 - Hotelzimmer abschließen
@@ -703,18 +785,21 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Notfälle im Ausland
 
 **Wichtige Telefonnummern:**
+
 - **Europaweiter Notruf:** 112
 - **Auswärtiges Amt (24h):** +49 30 5000-2000
 - **Sperr-Notruf (Karten):** +49 116 116
 - **Deutsche Botschaften/Konsulate:** Vor Ort recherchieren
 
 **Bei Verlust des Reisepasses:**
+
 1. Polizei informieren (Verlustanzeige)
 2. Deutsche Botschaft/Konsulat kontaktieren
 3. Notfall-Reisedokument beantragen
 4. Bei Diebstahl: Anzeige erstatten
 
 **Bei Krankheit/Unfall:**
+
 1. Notarzt rufen (112 in EU)
 2. Reisekrankenversicherung kontaktieren
 3. Behandlung dokumentieren (Rechnungen!)
@@ -723,34 +808,40 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Digitale Tools und Apps
 
 ### Reiseplanung
+
 - **Google Flights/Skyscanner**: Flugvergleich
 - **Booking.com/Airbnb**: Unterkünfte
 - **Rome2rio**: Routenplanung mit allen Verkehrsmitteln
 - **TripAdvisor**: Bewertungen und Empfehlungen
 
 ### Navigation und Karten
+
 - **Google Maps**: Navigation, offline Karten
 - **Maps.me**: Offline-Karten weltweit
 - **Citymapper**: ÖPNV in Großstädten
 - **DB Navigator**: Bahn-Verbindungen Deutschland
 
 ### Übersetzung und Kommunikation
+
 - **Google Translate**: Übersetzung (auch offline)
 - **DeepL**: Präzisere Übersetzungen
 - **Duolingo**: Sprachkurse
 - **WhatsApp**: Kommunikation (WiFi/Daten)
 
 ### Sicherheit
+
 - **Auswärtiges Amt**: Reisehinweise
 - **Sicher Reisen (App)**: Auswärtiges Amt App
 - **NINA**: Notfall-Informations-App
 
 ### Finanzen
+
 - **Wise (TransferWise)**: Günstige Währungsumrechnung
 - **Revolut**: Reise-Kreditkarte ohne Gebühren
 - **XE Currency**: Währungsrechner
 
-### Sonstiges
+### Sonstiges (1)
+
 - **PackPoint**: Intelligente Packliste
 - **TripIt**: Reiseorganisation
 - **Splitwise**: Kosten teilen bei Gruppenreisen
@@ -761,24 +852,28 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Geschäftsetikette nach Region
 
 #### Deutschland
+
 - Pünktlichkeit sehr wichtig
 - Formelle Anrede (Sie)
 - Geschenke: Nicht bei erstem Treffen
 - Dresscode: Business
 
 #### USA
+
 - Lockerer als Deutschland
 - Vornamen üblich
 - Small Talk wichtig
 - Dresscode: Business bis Business Casual
 
 #### Asien (Japan, China, Korea)
+
 - Visitenkarten mit beiden Händen übergeben
 - Hierarchie beachten
 - Geschenke: Wichtig (qualitativ hochwertig)
 - Dresscode: Konservativ
 
 #### Arabische Länder
+
 - Rechte Hand zum Händeschütteln
 - Alkohol vermeiden
 - Dresscode: Konservativ (Schultern/Knie bedeckt)
@@ -787,18 +882,21 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ### Business-Reise optimal gestalten
 
 **Vorbereitung:**
+
 - Meetings vorab bestätigen
 - Präsentationen in Landessprache (wenn möglich)
 - Visitenkarten ausreichend mitnehmen
 - Lokale Feiertage prüfen
 
 **Vor Ort:**
+
 - Zeitzone beachten (Jetlag einplanen)
 - Lokales Netzwerk aufbauen
 - Kulturelle Unterschiede respektieren
 - Business-Lunch/-Dinner nutzen
 
 **Nachbereitung:**
+
 - Spesen zeitnah abrechnen
 - Follow-up E-Mails senden
 - Kontakte in CRM eintragen
@@ -806,7 +904,8 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 
 ## Häufige Fehler und wie man sie vermeidet
 
-### Vor der Reise
+### Vor der Reise (1)
+
 ❌ **Reisepass-Gültigkeit nicht prüfen**
 ✅ Mindestens 6 Monate Gültigkeit bei Einreise
 
@@ -820,6 +919,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ✅ 3-6 Monate vorher Impfberatung
 
 ### Bei der Buchung
+
 ❌ **Zu spät buchen (Hauptsaison)**
 ✅ 3-6 Monate vorher bei Hauptsaison
 
@@ -830,6 +930,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ✅ Alle Zusatzkosten prüfen (Gepäck, Transfer, Verpflegung)
 
 ### Auf der Reise
+
 ❌ **Zu viel Gepäck**
 ✅ Minimalistisch packen, vor Ort waschen
 
@@ -845,6 +946,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Fernweh-Ziele: Bucket List
 
 ### Europa
+
 - [ ] Nordlichter in Island/Norwegen
 - [ ] Santorin Sonnenuntergang, Griechenland
 - [ ] Transsibirische Eisenbahn
@@ -854,6 +956,7 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Schottische Highlands
 
 ### Amerika
+
 - [ ] Grand Canyon, USA
 - [ ] Route 66, USA
 - [ ] Machu Picchu, Peru
@@ -862,7 +965,8 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Kanadische Rocky Mountains
 - [ ] Galapagos-Inseln, Ecuador
 
-### Asien
+### Asien (1)
+
 - [ ] Chinesische Mauer
 - [ ] Taj Mahal, Indien
 - [ ] Angkor Wat, Kambodscha
@@ -871,7 +975,8 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Bagan-Tempel, Myanmar
 - [ ] Petra, Jordanien
 
-### Afrika
+### Afrika (1)
+
 - [ ] Safari in Kenia/Tansania
 - [ ] Pyramiden von Gizeh, Ägypten
 - [ ] Tafelberg, Südafrika
@@ -879,14 +984,16 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 - [ ] Marrakesch Souks, Marokko
 - [ ] Serengeti-Migration
 
-### Ozeanien
+### Ozeanien (1)
+
 - [ ] Great Barrier Reef, Australien
 - [ ] Milford Sound, Neuseeland
 - [ ] Uluru (Ayers Rock), Australien
 - [ ] Bora Bora, Französisch-Polynesien
 - [ ] Abel Tasman Nationalpark, Neuseeland
 
-### Sonstiges
+### Sonstiges (2)
+
 - [ ] Polarkreis überqueren
 - [ ] Kreuzfahrt (Karibik/Mittelmeer)
 - [ ] Wüstensafari (Sahara/Namib)
@@ -896,23 +1003,27 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 ## Weitere Ressourcen
 
 ### Offizielle Stellen
+
 - [Auswärtiges Amt - Reise- und Sicherheitshinweise](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit)
 - [Bundesgesundheitsministerium - Reiseimpfungen](https://www.bundesgesundheitsministerium.de)
 - [Deutsche Bahn](https://www.bahn.de)
 - [Zoll - Reisen und Einfuhr](https://www.zoll.de/DE/Privatpersonen/Reisen/reisen_node.html)
 
 ### Reiseportale
+
 - [Check24 Reisen](https://www.check24.de/reisen/)
 - [Holidaycheck](https://www.holidaycheck.de)
 - [Tripadvisor](https://www.tripadvisor.de)
 - [Lonely Planet](https://www.lonelyplanet.com)
 
 ### Communities und Blogs
+
 - [Travelbook](https://www.travelbook.de)
 - [Reiseblog "22places"](https://www.22places.de)
 - [Off The Path](https://www.off-the-path.com)
 
 ### Buchungsplattformen
+
 - [Booking.com](https://www.booking.com)
 - [Airbnb](https://www.airbnb.de)
 - [Skyscanner](https://www.skyscanner.de)
@@ -920,15 +1031,18 @@ Deutschland, Österreich, Belgien, Estland, Finnland, Frankreich, Griechenland, 
 
 ## Haftungsausschluss
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Reiseberatung dar. Einreisebestimmungen, Visaanforderungen, Impfvorschriften und Reisehinweise können sich jederzeit ändern.
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Reiseberatung dar.
+Einreisebestimmungen, Visaanforderungen, Impfvorschriften und Reisehinweise können sich jederzeit ändern.
 
 Für aktuelle und rechtsverbindliche Informationen konsultieren Sie bitte:
+
 - Das Auswärtige Amt für Reise- und Sicherheitshinweise
 - Die jeweilige Botschaft/Konsulat für Visainformationen
 - Einen Reisemediziner für Impfberatung
 - Ihre Krankenversicherung für Versicherungsschutz
 
-Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen. Reisebestimmungen können sich kurzfristig ändern, insbesondere in Krisensituationen.
+Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit
+und Aktualität übernommen. Reisebestimmungen können sich kurzfristig ändern, insbesondere in Krisensituationen.
 
 ---
 

@@ -1,6 +1,7 @@
 # Familienstiftung - Vermögensverwaltung mit Aktien und ETFs
 
 > **Hinweis:** Für einen **direkten Vergleich** der Familienstiftung mit Privatvermögen und UG siehe:
+>
 > - [Gründung - Vergleich der Rechtsformen](./gruendung.md)
 > - [Betrieb - Vergleich bei Aktienkauf/-verkauf](./betrieb.md)
 >
@@ -8,18 +9,23 @@
 
 ## Übersicht
 
-Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die dem Zweck dient, das Vermögen einer Familie langfristig zu erhalten, zu mehren und für die Versorgung von Familienmitgliedern zu nutzen. Bei Vermögensanlage in Wertpapieren (Aktien, ETFs) mit begrenzter Handelsaktivität (maximal 4 Transaktionen pro Jahr) bietet sie besondere Vorteile für die generationenübergreifende Vermögensplanung.
+Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die dem Zweck dient, das Vermögen einer
+Familie langfristig zu erhalten, zu mehren und für die Versorgung von Familienmitgliedern zu nutzen. Bei Vermögensanlage
+in Wertpapieren (Aktien, ETFs) mit begrenzter Handelsaktivität (maximal 4 Transaktionen pro Jahr) bietet sie besondere
+Vorteile für die generationenübergreifende Vermögensplanung.
 
 ## Grundlagen der Familienstiftung
 
 ### Rechtliche Struktur
 
 #### Definition
+
 - Rechtsfähige Stiftung des bürgerlichen Rechts nach §§ 80 ff. BGB
 - Eigenständige juristische Person mit eigener Rechtspersönlichkeit
 - Dauerhafte Vermögensabsonderung vom Privatvermögen der Stifter und Destinatäre
 
 #### Charakteristika
+
 - **Verselbstständigtes Vermögen:** Das Stiftungsvermögen gehört weder dem Stifter noch den Destinatären
 - **Dauerhaftigkeit:** Grundsätzlich auf ewige Dauer angelegt
 - **Zweckbindung:** Vermögen muss dem Stiftungszweck dienen
@@ -28,6 +34,7 @@ Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die d
 ### Organe der Familienstiftung
 
 #### Stiftungsvorstand
+
 - Vertretung der Stiftung nach außen
 - Verwaltung des Stiftungsvermögens
 - Entscheidung über Ausschüttungen an Destinatäre
@@ -35,12 +42,14 @@ Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die d
 - Persönlich haftbar bei Pflichtverletzungen
 
 #### Stiftungsrat (optional, aber empfohlen)
+
 - Kontrollorgan des Vorstands
 - Beratungsfunktion
 - Genehmigung wichtiger Entscheidungen
 - Besetzung häufig mit Familienmitgliedern
 
 #### Destinatäre (Begünstigte)
+
 - Personen oder Personengruppen, die aus der Stiftung Leistungen erhalten können
 - Kein Anspruch auf Ausschüttung (abhängig von Satzung)
 - Können am Stiftungsvermögen nicht verfügen
@@ -49,6 +58,7 @@ Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die d
 ### Aktuelle Struktur: 1 Person
 
 **Ausgangssituation:**
+
 - Eine Person als Stifter
 - Dieselbe Person kann gleichzeitig sein:
   - Alleiniger Destinatär
@@ -56,6 +66,7 @@ Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die d
   - Mitglied im Stiftungsrat
 
 **Vorteile der Einzelperson-Struktur:**
+
 - Volle Kontrolle über Vermögensverwaltung
 - Schnelle Entscheidungsfindung
 - Geringere Verwaltungskomplexität
@@ -66,38 +77,44 @@ Eine Familienstiftung ist eine rechtsfähige Stiftung des privaten Rechts, die d
 #### Destinatärskreis erweitern
 
 **Mögliche Erweiterungen:**
+
 - Ehepartner als zusätzlicher Destinatär
 - Kinder und Enkelkinder als Destinatäre
 - Weitere Familienmitglieder
 - Zukünftige Generationen (unbegrenzt)
 
 **Aufnahme weiterer Destinatäre:**
+
 - Bereits bei Gründung: Umfassende Definition in der Satzung
 - Nachträglich: Satzungsänderung durch Stiftungsbehörde
 - Empfehlung: Großzügige Formulierung bei Gründung (z.B. "Stifter und alle seine Abkömmlinge")
 
 **Beispiel-Formulierung in der Satzung:**
-```
+
+```text
 Destinatäre der Stiftung sind:
 1. Der Stifter [Name]
 2. Der Ehegatte des Stifters
 3. Alle Abkömmlinge des Stifters
 4. Die Ehegatten der Abkömmlinge des Stifters
-```
+```text
 
 #### Vorstand und Gremien erweitern
 
 **Mehrkopf-Vorstand:**
+
 - Mehrere Vorstände mit Einzelvertretung oder Gesamtvertretung
 - Familienmitglieder oder externe Fachleute
 - Professionelle Vermögensverwalter als Co-Vorstände
 
 **Stiftungsrat einrichten:**
+
 - Kontrollgremium aus mehreren Familienmitgliedern
 - Weitergabe von Verantwortung an nächste Generation
 - Vorbereitung der Nachfolge
 
 **Beirat (optional):**
+
 - Beratende Funktion ohne Entscheidungsbefugnis
 - Fachliche Expertise (Steuerberater, Vermögensberater)
 - Familienversammlungen
@@ -105,21 +122,25 @@ Destinatäre der Stiftung sind:
 #### Schrittweise Erweiterung
 
 **Phase 1: Einzelperson**
+
 - Stifter als Alleinvorstand und Alleindestinatär
 - Aufbau des Stiftungsvermögens
 - Etablierung der Vermögensstrategie
 
 **Phase 2: Kernfamilie**
+
 - Ehepartner und Kinder als Destinatäre
 - Optional: Stiftungsrat mit Familienvertretern
 - Weiterhin Stifter als Alleinvorstand
 
 **Phase 3: Mehrgenerationen**
+
 - Enkelkinder als Destinatäre
 - Kinder im Stiftungsrat
 - Optional: Nächste Generation im Vorstand
 
 **Phase 4: Professionalisierung**
+
 - Externe Vorstandsmitglieder
 - Professionelle Vermögensverwaltung
 - Klare Governance-Strukturen
@@ -131,12 +152,14 @@ Destinatäre der Stiftung sind:
 #### Grundprinzipien
 
 **Buy-and-Hold-Strategie:**
+
 - Langfristige Anlage in Qualitätswerte
 - Minimale Umschichtungen
 - Fokus auf Dividendenwerte
 - Vermeidung von kurzfristigem Trading
 
 **Transaktionslimit:**
+
 - Maximal 4 Käufe oder Verkäufe pro Jahr
 - Strategische Planung der Transaktionen
 - Keine spontanen Trades
@@ -145,30 +168,35 @@ Destinatäre der Stiftung sind:
 #### Geeignete Wertpapiere
 
 **Einzelaktien:**
+
 - Deutsche Qualitätsaktien (DAX, MDAX)
 - Internationale Blue Chips
 - Dividendenstarke Titel
 - Stabile, etablierte Unternehmen
 
 **Vorteile von Einzelaktien in Stiftungen:**
+
 - Steuerliche Vorteile bei der Erbschaftsteuerersatzbesteuerung
 - Transparente Portfoliostruktur
 - Gezielte Risikostreuung
 - Langfristige Wertsteigerung
 
 **Exchange Traded Funds (ETFs):**
+
 - Breite Diversifikation mit einem Wertpapier
 - Geringe laufende Kosten
 - Passives Management
 - Einfache Verwaltung
 
 **Vorteile von ETFs in Stiftungen:**
+
 - Automatische Diversifikation
 - Minimaler Verwaltungsaufwand
 - Kosteneffizienz
 - Ideal bei begrenzten Transaktionen
 
 **Empfohlene Mischung:**
+
 - 50-70% Einzelaktien (8-12 Positionen)
 - 30-50% ETFs (2-4 Positionen)
 - 5-10% Liquidität
@@ -187,6 +215,7 @@ Destinatäre der Stiftung sind:
 | **Gesamt** | | **100%** | **500.000 €** |
 
 **Charakteristika:**
+
 - Breite Diversifikation
 - Dividendenrendite: ca. 3-4% p.a.
 - Langfristige Wertsteigerung
@@ -195,21 +224,25 @@ Destinatäre der Stiftung sind:
 #### Jahresplanung der Transaktionen
 
 **Quartal 1 (Januar-März):**
+
 - Jahresplanung und Strategieüberprüfung
 - Ggf. 1-2 Nachkäufe bei attraktiven Bewertungen
 - Dividendenstrategie festlegen
 
 **Quartal 2 (April-Juni):**
+
 - Hauptdividendensaison beobachten
 - Liquidität aus Dividenden reinvestieren
 - Optional: 1 strategischer Verkauf
 
 **Quartal 3 (Juli-September):**
+
 - Portfolio-Review
 - Ggf. Umschichtung bei fundamentalen Änderungen
 - Vorbereitung Jahresendstrategie
 
 **Quartal 4 (Oktober-Dezember):**
+
 - Steuerliche Jahresendgestaltung
 - Rebalancing bei starken Abweichungen
 - 1-2 Transaktionen für Portfoliooptimierung
@@ -217,16 +250,19 @@ Destinatäre der Stiftung sind:
 #### Transaktionsarten
 
 **1. Aufbau-Transaktionen (Initial):**
+
 - Erste 4 Positionen eröffnen: 4 Transaktionen
 - Jahr 2: Weitere 4 Positionen: 4 Transaktionen
 - Jahr 3: Letzte Positionen und Optimierung: 4 Transaktionen
 
 **2. Erhaltungs-Transaktionen (Laufend):**
+
 - Dividenden-Reinvestition
 - Rebalancing bei Über-/Untergewichtung
 - Austausch bei Qualitätsverlust
 
 **3. Strategische Transaktionen:**
+
 - Gewinnmitnahmen bei Überbewertung
 - Nachkäufe bei Unterbewertung
 - Umschichtung zwischen Sektoren
@@ -240,6 +276,7 @@ Destinatäre der Stiftung sind:
 Familienstiftungen unterliegen einer besonderen Besteuerung statt der regulären Körperschaft- und Gewerbesteuer:
 
 **Erbschaftsteuerersatzbesteuerung:**
+
 - Alle 30 Jahre wird eine fiktive Erbschaftsteuer erhoben
 - Bemessungsgrundlage: Stiftungsvermögen zum Stichtag
 - Unterstellung: Vermögen wäre an 2 Kinder der Steuerklasse I vererbt worden
@@ -248,11 +285,13 @@ Familienstiftungen unterliegen einer besonderen Besteuerung statt der regulären
 #### Berechnung
 
 **Freibeträge (Stand 2026):**
+
 - Pro fiktivem Kind: 400.000 € Freibetrag
 - Bei Annahme von 2 Kindern: 800.000 € Gesamtfreibetrag
 - Zusätzlich: Bewertungsabschläge bei Unternehmensvermögen
 
 **Steuersätze Steuerklasse I:**
+
 | Vermögen nach Freibetrag | Steuersatz |
 |--------------------------|------------|
 | bis 75.000 € | 7% |
@@ -264,15 +303,17 @@ Familienstiftungen unterliegen einer besonderen Besteuerung statt der regulären
 | über 26.000.000 € | 30% |
 
 **Beispielrechnung:**
-```
+
+```text
 Stiftungsvermögen:           1.000.000 €
 Freibetrag (2 Kinder):        -800.000 €
 Steuerpflichtiges Vermögen:    200.000 €
 Steuersatz:                         11%
 Erbschaftsteuerersatz:          22.000 €
-```
+```text
 
 **Steuerliche Belastung:**
+
 - Alle 30 Jahre: 22.000 €
 - Pro Jahr durchschnittlich: 733 €
 - **Effektivbelastung: 0,07% p.a.**
@@ -280,16 +321,19 @@ Erbschaftsteuerersatz:          22.000 €
 #### Vergleich zu anderen Rechtsformen
 
 **UG/GmbH mit Wertpapieren:**
+
 - Körperschaftsteuer: 15,825% auf Erträge (mit § 8b KStG: ca. 1,5% auf Aktiengewinne)
 - Gewerbesteuer: ggf. entfallend bei Vermögensverwaltung
 - Bei Ausschüttung: zusätzlich 25% Abgeltungsteuer
 
 **Privatvermögen:**
+
 - Abgeltungsteuer: 26,375% auf alle Kapitalerträge
 - Erbschaftsteuer bei Vererbung
 - Keine steuerliche Optimierung möglich
 
 **Familienstiftung:**
+
 - Erbschaftsteuerersatz: alle 30 Jahre
 - Keine laufende Besteuerung der Kapitalerträge
 - **Vorteil:** Langfristig geringste Steuerbelastung bei korrekter Struktur
@@ -299,37 +343,43 @@ Erbschaftsteuerersatz:          22.000 €
 #### Kapitalerträge in der Stiftung
 
 **Dividenden und Zinsen:**
+
 - Kapitalertragsteuer: 25% wird an der Quelle einbehalten
 - Anrechnung auf Erbschaftsteuerersatz: NICHT möglich
 - **Effektive Belastung: 25% auf Dividenden**
 
 **Kursgewinne:**
+
 - Keine laufende Besteuerung bei Verkauf
 - Werden erst bei der 30-Jahres-Besteuerung berücksichtigt
 - **Effektive Belastung: 0% laufend**
 
-**Wichtig:** Stiftungen sind von der Körperschaftsteuer befreit, wenn sie gemeinnützig sind. Familienstiftungen sind jedoch NICHT gemeinnützig und unterliegen der Erbschaftsteuerersatzbesteuerung.
+**Wichtig:** Stiftungen sind von der Körperschaftsteuer befreit, wenn sie gemeinnützig sind. Familienstiftungen sind
+jedoch NICHT gemeinnützig und unterliegen der Erbschaftsteuerersatzbesteuerung.
 
 #### Ausschüttungen an Destinatäre
 
 **Besteuerung beim Destinatär:**
+
 - Einkommensteuer nach § 20 Abs. 1 Nr. 9 EStG
 - Abgeltungsteuer: 25% + Solidaritätszuschlag + ggf. Kirchensteuer
 - **Effektive Belastung: 26,375% (ohne Kirchensteuer)**
 
 **Beispiel:**
-```
+
+```text
 Ausschüttung an Destinatär:    10.000 €
 Kapitalertragsteuer (25%):      2.500 €
 Solidaritätszuschlag (5,5%):      137 €
 Netto beim Destinatär:          7.363 €
-```
+```text
 
 ### Steueroptimierung
 
 #### Strategie 1: Thesaurierung
 
 **Gewinne in der Stiftung belassen:**
+
 - Dividenden und Verkaufserlöse reinvestieren
 - Keine Ausschüttung an Destinatäre
 - Vermögensaufbau über Jahrzehnte
@@ -338,6 +388,7 @@ Netto beim Destinatär:          7.363 €
 #### Strategie 2: Kursgewinne bevorzugen
 
 **Fokus auf Wertsteigerung statt Dividenden:**
+
 - Wachstumsaktien und thesaurierende ETFs
 - Kursgewinne werden NICHT laufend besteuert
 - Erst bei 30-Jahres-Besteuerung relevant
@@ -346,6 +397,7 @@ Netto beim Destinatär:          7.363 €
 #### Strategie 3: Bewertungsabschläge nutzen
 
 **Bei 30-Jahres-Besteuerung:**
+
 - Bewertung der Vermögenswerte zum Stichtag
 - Bei Wertpapieren: Kurswert am Stichtag
 - Strategie: Portfolio-Struktur vor Stichtag anpassen
@@ -354,6 +406,7 @@ Netto beim Destinatär:          7.363 €
 #### Strategie 4: Freibeträge optimal nutzen
 
 **Annahme: 2 fiktive Kinder**
+
 - 800.000 € bleiben steuerfrei
 - Bei Vermögen unter 800.000 €: keine Steuer
 - Strategie: Vermögen unter Freibetrag halten oder Sondervermögen ausgliedern
@@ -365,22 +418,26 @@ Netto beim Destinatär:          7.363 €
 #### Einmalige Kosten bei Errichtung
 
 **Notarkosten:**
+
 - Beurkundung der Stiftungssatzung: ca. 500-2.000 €
 - Abhängig vom Stiftungsvermögen
 - Gesetzliche Gebührenordnung
 
 **Stiftungsbehörde:**
+
 - Anerkennung durch Landesstiftungsbehörde
 - Gebühr: ca. 100-500 € (landesabhängig)
 - Bearbeitungszeit: 2-6 Monate
 
 **Beratungskosten:**
+
 - Rechtsanwalt/Steuerberater: ca. 2.000-5.000 €
 - Konzeption der Satzung
 - Steuerliche Gestaltung
 - Strukturberatung
 
 **Erstausstattung:**
+
 - Geschäftskonto: 0-200 €
 - Depot-Eröffnung: 0-100 €
 - Briefpapier, Stempel: ca. 200 €
@@ -392,26 +449,31 @@ Netto beim Destinatär:          7.363 €
 #### Jährliche Fixkosten
 
 **Steuerberatung:**
+
 - Jahresabschluss: 1.000-2.500 €
 - Steuererklärungen: 500-1.000 €
 - Laufende Beratung: 500-1.500 €
 - **Gesamt: 2.000-5.000 €/Jahr**
 
 **Verwaltung:**
+
 - Buchführung: 500-1.500 €/Jahr
 - Protokolle und Beschlüsse: 200-500 €/Jahr
 - Porto, Kommunikation: 100-300 €/Jahr
 
 **Bankkosten:**
+
 - Geschäftskonto: 50-200 €/Jahr
 - Depotführung: 0-300 €/Jahr (oft kostenlos bei höherem Volumen)
 - Transaktionskosten: 20-100 €/Jahr (bei 4 Trades à 10-25 €)
 
 **Aufsicht:**
+
 - Berichte an Stiftungsbehörde: Inkludiert in Steuerberatung
 - Ggf. Prüfungen: nach Bedarf
 
 **Versicherungen (optional):**
+
 - D&O-Versicherung für Vorstand: 300-1.000 €/Jahr
 - Vermögensschadenhaftpflicht: 200-500 €/Jahr
 
@@ -420,16 +482,19 @@ Netto beim Destinatär:          7.363 €
 #### Variable Kosten
 
 **Professionelle Vermögensverwaltung (optional):**
+
 - Verwaltungsgebühr: 0,5-1,5% p.a. des Vermögens
 - Bei 500.000 €: 2.500-7.500 €/Jahr
 - Performance Fee: teilweise zusätzlich
 
 **Externe Vorstände (optional):**
+
 - Vergütung nach Satzung
 - Üblich: 2.000-10.000 €/Jahr
 - Abhängig von Vermögen und Aufwand
 
 **Sonderkosten:**
+
 - Satzungsänderungen: 500-2.000 € (inkl. Notar und Behörde)
 - Rechtsberatung bei Sonderfragen: nach Aufwand
 - Gutachten: nach Bedarf
@@ -451,17 +516,20 @@ Netto beim Destinatär:          7.363 €
 #### 1. Stiftungsrecht
 
 **Satzung einhalten:**
+
 - Strikte Zweckbindung
 - Vermögen im Sinne der Satzung verwenden
 - Ausschüttungen nur an Destinatäre
 - Beachtung der Vermögenserhaltung
 
 **Vermögenserhaltung:**
+
 - Grundstockvermögen darf nicht angegriffen werden
 - Nur Erträge und Wertsteigerungen ausschüttbar
 - Bei Verlusten: Wiederauffüllung erforderlich
 
 **Stiftungsaufsicht:**
+
 - Unterstellung unter Landesstiftungsbehörde
 - Jährliche Berichtspflicht
 - Genehmigung bei wesentlichen Änderungen
@@ -470,17 +538,20 @@ Netto beim Destinatär:          7.363 €
 #### 2. Buchführung und Bilanzierung
 
 **Buchführungspflicht:**
+
 - Doppelte Buchführung nach HGB
 - Ordnungsgemäße Erfassung aller Geschäftsvorfälle
 - Getrennte Erfassung von Grundstockvermögen und Erträgen
 
 **Jahresabschluss:**
+
 - Bilanz und Gewinn- und Verlustrechnung
 - Frist: 6 Monate nach Geschäftsjahresende
 - Vorlage bei Stiftungsaufsicht
 - Keine Veröffentlichungspflicht im Bundesanzeiger (Ausnahme: große Stiftungen)
 
 **Dokumentation Wertpapiere:**
+
 - Depotauszüge mindestens quartalsweise
 - Aufstellung aller Käufe und Verkäufe
 - Dividendenbescheinigungen
@@ -489,17 +560,20 @@ Netto beim Destinatär:          7.363 €
 #### 3. Gremienarbeit
 
 **Vorstandssitzungen:**
+
 - Mindestens jährlich empfohlen
 - Protokollierung aller Beschlüsse
 - Wichtige Entscheidungen dokumentieren
 - Anlagestrategie festlegen und überprüfen
 
 **Stiftungsratssitzungen (falls vorhanden):**
+
 - Kontrolle des Vorstands
 - Genehmigung wichtiger Entscheidungen
 - Entlastung des Vorstands
 
 **Dokumentationspflichten:**
+
 - Beschlussprotokoll aufbewahren (10 Jahre)
 - Nachvollziehbarkeit aller Entscheidungen
 - Anlagerichtlinien dokumentieren
@@ -507,16 +581,19 @@ Netto beim Destinatär:          7.363 €
 #### 4. Steuerliche Pflichten
 
 **Laufende Steuererklärungen:**
+
 - Anlage VE (Vermögensverwaltende Stiftung) zur ESt-Erklärung
 - Kapitalertragsteuer-Anmeldung
 - Feststellungserklärung für 30-Jahres-Frist
 
 **Dokumentation für Finanzamt:**
+
 - Nachweis der ordnungsgemäßen Mittelverwendung
 - Belege über Ausschüttungen an Destinatäre
 - Vermögensaufstellung zum 30-Jahres-Stichtag
 
 **30-Jahres-Besteuerung:**
+
 - Rechtzeitige Vorbereitung (1-2 Jahre vorher)
 - Bewertung des gesamten Stiftungsvermögens
 - Steuerliche Gestaltungsmöglichkeiten prüfen
@@ -525,17 +602,20 @@ Netto beim Destinatär:          7.363 €
 #### 5. Wertpapier-Compliance
 
 **Depot auf Stiftung:**
+
 - Depot muss auf Stiftung lauten
 - Trennung von Privatvermögen des Vorstands
 - Transparenz über alle Transaktionen
 
 **Dokumentation der Transaktionen:**
+
 - Begründung jeder Transaktion
 - Einhaltung der Anlagestrategie nachweisen
 - Max. 4 Transaktionen/Jahr dokumentieren
 - Vorstandsbeschlüsse über größere Käufe/Verkäufe
 
 **Anlagestrategie:**
+
 - Schriftliche Anlagerichtlinien erstellen
 - Definition von Risikoparametern
 - Festlegung der Asset Allocation
@@ -544,12 +624,14 @@ Netto beim Destinatär:          7.363 €
 #### 6. Transparenz und Berichtswesen
 
 **Bericht an Stiftungsbehörde:**
+
 - Jährlich: Tätigkeitsbericht
 - Jahresabschluss
 - Vermögensaufstellung
 - Nachweis der satzungsgemäßen Mittelverwendung
 
 **Information der Destinatäre:**
+
 - Keine gesetzliche Pflicht (außer in Satzung geregelt)
 - Empfohlen: jährlicher Bericht
 - Transparenz schafft Vertrauen
@@ -560,30 +642,35 @@ Netto beim Destinatär:          7.363 €
 ### Vorteile
 
 #### 1. Steuerliche Vorteile
+
 - Keine laufende Ertragsteuer bei Kursgewinnen
 - Erbschaftsteuerersatz nur alle 30 Jahre
 - Langfristig geringere Steuerbelastung als Privatvermögen
 - Gestaltungsmöglichkeiten bei 30-Jahres-Frist
 
 #### 2. Vermögensschutz
+
 - Schutz vor Gläubigerzugriff (mit Einschränkungen)
 - Vermögen getrennt von Privatvermögen
 - Schutz vor Zersplitterung durch Erbfälle
 - Langfristiger Vermögenserhalt über Generationen
 
 #### 3. Generationenübergreifende Planung
+
 - Vermögen bleibt in Familienhand
 - Keine Erbauseinandersetzungen
 - Klare Versorgungsregelungen
 - Flexibilität bei Erweiterung des Destinatärskreises
 
 #### 4. Gestaltungsfreiheit
+
 - Freie Festlegung der Destinatäre
 - Selbstbestimmte Ausschüttungsregeln
 - Eigene Anlagerichtlinien
 - Anpassung an Familiensituation
 
 #### 5. Kontinuität
+
 - Unabhängig von Erbfällen
 - Keine Unterbrechung der Vermögensverwaltung
 - Professionelle Struktur
@@ -592,30 +679,35 @@ Netto beim Destinatär:          7.363 €
 ### Nachteile
 
 #### 1. Gründungs- und laufende Kosten
+
 - Gründungskosten: 3.000-8.000 €
 - Jährliche Verwaltungskosten: 3.000-8.000 €
 - Erst ab ca. 250.000-500.000 € wirtschaftlich sinnvoll
 - Professionelle Beratung erforderlich
 
 #### 2. Geringere Flexibilität
+
 - Vermögen ist dauerhaft gebunden
 - Auflösung nur unter strengen Voraussetzungen
 - Satzungsänderungen genehmigungspflichtig
 - Grundstockvermögen nicht entnehmbar
 
 #### 3. Verwaltungsaufwand
+
 - Buchführungspflicht
 - Jahresabschluss erforderlich
 - Berichtspflichten gegenüber Stiftungsbehörde
 - Gremienarbeit und Protokollierung
 
 #### 4. Stiftungsaufsicht
+
 - Kontrolle durch Landesbehörde
 - Eingeschränkte Autonomie
 - Genehmigungspflichten bei wichtigen Entscheidungen
 - Risiko der Einmischung
 
 #### 5. Komplexität
+
 - Komplexe steuerliche Regelungen
 - Rechtliche Expertise erforderlich
 - Laufende Beratungskosten
@@ -628,18 +720,21 @@ Netto beim Destinatär:          7.363 €
 #### Phase 1: Konzeption (2-4 Monate)
 
 **1. Zielsetzung klären:**
+
 - Welchen Zweck soll die Stiftung erfüllen?
 - Wer soll begünstigt werden?
 - Wie viel Vermögen soll eingebracht werden?
 - Welche Struktur ist gewünscht (Vorstand, Stiftungsrat)?
 
 **2. Steuer- und Rechtsberatung:**
+
 - Steuerberater mit Stiftungs-Expertise mandatieren
 - Rechtsanwalt für Satzungsgestaltung
 - Steuerliche Optimierung besprechen
 - Langfristige Planung entwickeln
 
 **3. Satzungsentwurf erstellen:**
+
 - Name der Stiftung
 - Stiftungszweck (Versorgung der Familie)
 - Destinatärskreis definieren
@@ -650,24 +745,28 @@ Netto beim Destinatär:          7.363 €
 #### Phase 2: Gründung (2-6 Monate)
 
 **1. Notarielle Beurkundung:**
+
 - Stiftungsgeschäft aufsetzen
 - Satzung finalisieren
 - Stiftungsvermögen festlegen
 - Erstausstattung des Vorstands
 
 **2. Anerkennung durch Stiftungsbehörde:**
+
 - Antrag bei Landesstiftungsbehörde
 - Prüfung der Satzung
 - Prüfung der Vermögensausstattung
 - Anerkennungsbescheid
 
 **3. Vermögensübertragung:**
+
 - Nach Anerkennung: Vermögen übertragen
 - Bei Wertpapieren: Depot auf Stiftung übertragen
 - Bei Bargeld: auf Stiftungskonto überweisen
 - Dokumentation der Übertragung
 
 **4. Operative Einrichtung:**
+
 - Geschäftskonto eröffnen
 - Depot auf Stiftung eröffnen
 - Buchhaltungssystem einrichten
@@ -676,24 +775,28 @@ Netto beim Destinatär:          7.363 €
 #### Phase 3: Vermögensaufbau (1-3 Jahre)
 
 **Jahr 1: Portfolioaufbau**
+
 - Transaktion 1: Kauf ETF 1 (z.B. MSCI World)
 - Transaktion 2: Kauf ETF 2 (z.B. Dividend Aristocrats)
 - Transaktion 3: Kauf Einzelaktie 1 (z.B. Allianz)
 - Transaktion 4: Kauf Einzelaktie 2 (z.B. Siemens)
 
 **Jahr 2: Portfolio erweitern**
+
 - Transaktion 1: Kauf Einzelaktie 3
 - Transaktion 2: Kauf Einzelaktie 4
 - Transaktion 3: Nachkauf ETF 1
 - Transaktion 4: Kauf Einzelaktie 5
 
 **Jahr 3: Portfolio optimieren**
+
 - Transaktion 1: Kauf Einzelaktie 6
 - Transaktion 2: Ggf. Verkauf schlechter Position
 - Transaktion 3: Rebalancing
 - Transaktion 4: Finale Anpassung
 
 **Ab Jahr 4: Erhaltungsphase**
+
 - Minimale Transaktionen
 - Dividenden reinvestieren
 - 1-2 Transaktionen/Jahr für Optimierung
@@ -702,33 +805,39 @@ Netto beim Destinatär:          7.363 €
 ### Laufender Betrieb - Jahresablauf
 
 #### Januar-Februar
+
 - Jahresabschluss des Vorjahres erstellen
 - Steuererklärungen vorbereiten
 - Depotauszug zum 31.12. als Beleg
 
 #### März
+
 - Vorstandssitzung: Jahresergebnis besprechen
 - Beschluss über Ausschüttungen an Destinatäre
 - Anlagestrategie für neues Jahr festlegen
 - Ggf. 1-2 geplante Käufe durchführen
 
 #### April-Juni
+
 - Hauptversammlungssaison: Dividenden vereinnahmen
 - Dividenden reinvestieren oder thesaurieren
 - Quartalsdepotauszug prüfen
 
 #### Juli-September
+
 - Halbzeitreview des Portfolios
 - Ggf. Umschichtungen bei fundamentalen Änderungen
 - Quartalsdepotauszug prüfen
 
 #### Oktober-November
+
 - Jahresendplanung
 - Ggf. Verlustverkäufe zur Steueroptimierung
 - Rebalancing wenn nötig
 - 1-2 Transaktionen für Optimierung
 
 #### Dezember
+
 - Vorbereitung Jahresabschluss
 - Quartalsdepotauszug prüfen
 - Planung für Folgejahr
@@ -736,7 +845,7 @@ Netto beim Destinatär:          7.363 €
 
 ### Muster-Satzung: Familienstiftung (Auszug)
 
-```
+```text
 § 1 Name und Sitz
 
 Die Stiftung führt den Namen "[Familienname] Familienstiftung".
@@ -785,7 +894,7 @@ anzulegen. Eine Anlage in Wertpapieren (Aktien, ETFs) ist zulässig.
 
 Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal 
 4 Wertpapiertransaktionen pro Kalenderjahr.
-```
+```text
 
 ## Vergleich: Familienstiftung vs. andere Rechtsformen
 
@@ -806,12 +915,14 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 ### Wann ist welche Rechtsform optimal?
 
 **Privatvermögen:**
+
 - Kleines Vermögen (<100.000 €)
 - Maximale Flexibilität gewünscht
 - Minimaler Verwaltungsaufwand
 - Keine Nachfolgeplanung erforderlich
 
 **Vermögensverwaltende UG/GmbH:**
+
 - Mittleres Vermögen (100.000-500.000 €)
 - Steueroptimierung durch § 8b KStG
 - Professionelle Struktur gewünscht
@@ -819,6 +930,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - Thesaurierung der Gewinne
 
 **Familienstiftung:**
+
 - Großes Vermögen (>500.000 €)
 - Generationenübergreifende Planung
 - Vermögensschutz wichtig
@@ -826,6 +938,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - Familie soll langfristig profitieren
 
 **Kombination möglich:**
+
 - Stiftung für Kernvermögen (z.B. 70%)
 - UG für aktives Trading (z.B. 20%)
 - Privatvermögen für Liquidität (z.B. 10%)
@@ -833,6 +946,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 ## Checkliste Familienstiftung
 
 ### Gründungsphase
+
 - [ ] Ziele und Zweck der Stiftung definiert
 - [ ] Destinatärskreis festgelegt (aktuell und zukünftig)
 - [ ] Stiftungsvermögen bestimmt (mind. 250.000 € empfohlen)
@@ -850,6 +964,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - [ ] Steuerliche Anmeldung durchgeführt
 
 ### Vermögensanlage
+
 - [ ] Anlagestrategie schriftlich dokumentiert
 - [ ] Max. 4 Transaktionen/Jahr festgelegt
 - [ ] Portfolio-Struktur geplant (Aktien/ETFs)
@@ -859,6 +974,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - [ ] Rebalancing-Regeln definiert
 
 ### Laufender Betrieb
+
 - [ ] Buchführungssystem eingerichtet
 - [ ] Alle Transaktionen zeitnah gebucht
 - [ ] Depotauszüge quartalsweise archiviert
@@ -871,6 +987,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - [ ] Anlagestrategie überprüft (jährlich)
 
 ### Compliance
+
 - [ ] Satzung wird strikt eingehalten
 - [ ] Vermögenserhaltung gewährleistet
 - [ ] Ausschüttungen nur an Destinatäre
@@ -881,6 +998,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - [ ] 30-Jahres-Frist im Blick behalten
 
 ### Erweiterung auf mehrere Personen
+
 - [ ] Destinatärskreis erweitern (falls erforderlich)
 - [ ] Satzungsänderung bei Stiftungsbehörde beantragt
 - [ ] Weitere Vorstände bestellen (falls gewünscht)
@@ -894,15 +1012,20 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 
 ### Kernaussagen
 
-1. **Familienstiftung für langfristigen Vermögenserhalt:** Ideal für generationenübergreifende Vermögensplanung mit Fokus auf Beständigkeit und Schutz.
+1. **Familienstiftung für langfristigen Vermögenserhalt:** Ideal für generationenübergreifende Vermögensplanung mit
+Fokus auf Beständigkeit und Schutz.
 
-2. **Steuerliche Vorteile bei langfristiger Betrachtung:** Erbschaftsteuerersatz nur alle 30 Jahre, keine laufende Besteuerung von Kursgewinnen.
+2. **Steuerliche Vorteile bei langfristiger Betrachtung:** Erbschaftsteuerersatz nur alle 30 Jahre, keine laufende
+Besteuerung von Kursgewinnen.
 
-3. **Erweiterbar von 1 Person auf ganze Familie:** Start als Einzelperson-Stiftung mit späterer Erweiterung auf Kinder, Enkelkinder und weitere Generationen.
+3. **Erweiterbar von 1 Person auf ganze Familie:** Start als Einzelperson-Stiftung mit späterer Erweiterung auf Kinder,
+Enkelkinder und weitere Generationen.
 
-4. **Max. 4 Transaktionen/Jahr ideal für Buy-and-Hold:** Perfekte Strategie für langfristige Vermögensanlage in Qualitätswerte ohne aktives Trading.
+4. **Max. 4 Transaktionen/Jahr ideal für Buy-and-Hold:** Perfekte Strategie für langfristige Vermögensanlage in
+Qualitätswerte ohne aktives Trading.
 
-5. **Kombination Aktien und ETFs optimal:** Diversifikation durch ETFs, steuerliche Optimierung durch Einzelaktien, Flexibilität durch Mix.
+5. **Kombination Aktien und ETFs optimal:** Diversifikation durch ETFs, steuerliche Optimierung durch Einzelaktien,
+Flexibilität durch Mix.
 
 6. **Mindestmittelvermögen ca. 250.000-500.000 €:** Darunter überwiegen die laufenden Kosten den Nutzen.
 
@@ -939,12 +1062,14 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
    - Langfristig niedrigste Steuerbelastung
 
 **Erwartete Performance:**
+
 - Rendite: 5-7% p.a. (langfristig)
 - Steuerbelastung: ca. 25% auf Dividenden, 0% auf Kursgewinne laufend
 - Kosten: 0,6-1,6% p.a. (bei 500.000 € Vermögen)
 - Netto-Wachstum: ca. 4-6% p.a. nach Kosten und Steuern
 
 **Zeitrahmen:**
+
 - Nach 10 Jahren: Verdopplung des Vermögens (bei 7% p.a.)
 - Nach 30 Jahren: Verfünffachung des Vermögens
 - Generationenübergreifend: Exponentielles Wachstum
@@ -952,6 +1077,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 ### Wann ist die Familienstiftung die richtige Wahl?
 
 **JA zur Familienstiftung, wenn:**
+
 - Vermögen > 250.000-500.000 €
 - Langfristige Planung (>30 Jahre)
 - Familie soll profitieren (jetzt oder später)
@@ -960,6 +1086,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 - Professionelle Struktur gewünscht
 
 **NEIN zur Familienstiftung, wenn:**
+
 - Vermögen < 250.000 €
 - Maximale Flexibilität erforderlich
 - Häufiger Zugriff auf Kapital nötig
@@ -987,6 +1114,7 @@ Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal
 ### Beratung und Unterstützung
 
 Für die Gründung und Verwaltung einer Familienstiftung empfehlen wir:
+
 - **Steuerberater** mit Stiftungs-Expertise
 - **Rechtsanwalt** für Stiftungsrecht und Satzungsgestaltung
 - **Vermögensverwalter** für professionelles Portfolio-Management (optional)
@@ -994,10 +1122,15 @@ Für die Gründung und Verwaltung einer Familienstiftung empfehlen wir:
 
 ## Haftungsausschluss
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts-, Steuer- oder Anlageberatung dar. Die Gründung und Verwaltung einer Familienstiftung ist komplex und erfordert professionelle Beratung durch Steuerberater, Rechtsanwälte und ggf. Vermögensverwalter.
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts-, Steuer- oder
+Anlageberatung dar. Die Gründung und Verwaltung einer Familienstiftung ist komplex und erfordert professionelle Beratung
+durch Steuerberater, Rechtsanwälte und ggf. Vermögensverwalter.
 
-Die steuerliche und rechtliche Behandlung von Stiftungen kann sich durch Gesetzesänderungen, Rechtsprechung oder unterschiedliche Auslegung durch Behörden ändern. Stiftungsgesetze sind Ländersache und können zwischen Bundesländern variieren.
+Die steuerliche und rechtliche Behandlung von Stiftungen kann sich durch Gesetzesänderungen, Rechtsprechung oder
+unterschiedliche Auslegung durch Behörden ändern. Stiftungsgesetze sind Ländersache und können zwischen Bundesländern
+variieren.
 
-Für Ihre konkrete Situation sollten Sie unbedingt fachkundigen Rat einholen. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
+Für Ihre konkrete Situation sollten Sie unbedingt fachkundigen Rat einholen. Die Informationen wurden nach bestem Wissen
+zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
 
 **Stand:** Februar 2026 | **Rechtsstand:** Deutschland
