@@ -31,6 +31,19 @@ vornehmen.
 - **Überschriften**: Deutsche Bezeichnungen, klare Hierarchie (H1 für Haupttitel, H2 für Hauptkapitel, H3 für
 Unterkapitel)
 - **Listen**: Aufzählungen für einfache Listen, nummerierte Listen für Schritt-für-Schritt-Anleitungen
+  - **WICHTIG**: Listen müssen immer von Leerzeilen umgeben sein (vor und nach der Liste)
+  - Nummerierte Listen müssen korrekt durchnummeriert sein (1, 2, 3, nicht 1, 2, 3 oder 1, 1, 1)
+  - Beispiel:
+
+    ```markdown
+    Text vor der Liste.
+
+    - Listenpunkt 1
+    - Listenpunkt 2
+
+    Text nach der Liste.
+    ```
+
 - **Tabellen**: Für strukturierte Daten wie Kosten, Zeitpläne, Fristen
 - **Checklisten**: Mit `- [ ]` für To-Do-Listen
 - **Hervorhebungen**:
@@ -150,9 +163,12 @@ Verweise auf andere Abschnitte oder externe Ressourcen
   - Automatische Prüfung durch GitHub Actions CI-Workflow bei jedem Push und Pull Request
   - Linting-Tool: markdownlint-cli2
   - Konfiguration: `.markdownlint.json` im Repository-Root
-  - Code-Blöcke müssen eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
-  - Zeilen dürfen maximal 120 Zeichen lang sein (außer in Code-Blöcken und Tabellen)
-  - Leerzeilen um Code-Blöcke sind erforderlich
+  - **Wichtige Regeln:**
+    - **MD032**: Listen müssen von Leerzeilen umgeben sein (davor und danach)
+    - **MD029**: Nummerierte Listen müssen korrekt durchnummeriert sein (1, 2, 3...)
+    - **MD013**: Zeilen dürfen maximal 120 Zeichen lang sein (außer in Code-Blöcken und Tabellen)
+    - Code-Blöcke müssen eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
+    - Leerzeilen um Code-Blöcke sind erforderlich
   - Lokale Prüfung: `markdownlint-cli2 "**/*.md"`
   - Automatische Korrekturen: `markdownlint-cli2 --fix "**/*.md"`
 
@@ -197,8 +213,10 @@ Wenn Copilot Vorschläge macht, berücksichtige:
   - Verwendet: DavidAnson/markdownlint-cli2-action@v16
 - **Markdown-Linting-Regeln**: Siehe `.markdownlint.json`
   - Alle Standard-Regeln aktiviert mit wenigen Ausnahmen
+  - **MD032**: Listen müssen von Leerzeilen umgeben sein
+  - **MD029**: Nummerierte Listen korrekt durchnummerieren
+  - **MD013**: Zeilenlänge max. 120 Zeichen (außer in Code-Blöcken und Tabellen)
   - Code-Blöcke benötigen Sprachbezeichnung
-  - Zeilenlänge max. 120 Zeichen (außer in Code-Blöcken und Tabellen)
   - Leerzeilen um Code-Blöcke erforderlich
 
 ## Best Practices
