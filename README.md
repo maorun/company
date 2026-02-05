@@ -19,6 +19,19 @@ Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersat
 
 ## Dokumentation
 
+### 🚀 [Weitere Möglichkeiten - Zusätzliche Vorteile von UG und Stiftung](./weitere-moeglichkeiten.md)
+
+**Erweiterte Strategien über Wertpapiere hinaus** - Zusätzliche Profitmöglichkeiten mit UG und Familienstiftung:
+
+- **Immobilien und Mieteinnahmen**: Steueroptimierte Vermietung (15,8% statt 42-45%)
+- **Fremdkapital und Hebelwirkung**: Leverage-Strategien mit Zinsabzug (Beachtung Zinsschranke)
+- **Holdingstrukturen**: Multi-Entity-Modelle mit 95%-Steuerfreistellung
+- **Alternative Anlageklassen**: Anleihen, REITs, Kryptowährungen, Edelmetalle (Vergleich)
+- **Hybride Geschäftsmodelle**: Kombination operative Tätigkeit + Vermögensverwaltung
+- **Erweiterte geldwerte Vorteile**: Fitness, Jobrad, bAV, Kinderbetreuung
+- **Internationale Optimierung**: Quellensteuer-Rückerstattung, DBA-Nutzung
+- **Risiken und Grenzen**: Komplexität, regulatorische Risiken, Gestaltungsmissbrauch
+
 ### 🎯 [Optimale Nutzung - Strategien und Best Practices](./optimale-nutzung.md)
 
 **Praktischer Leitfaden zur optimalen Nutzung** von vermögensbildender UG und Familienstiftung:

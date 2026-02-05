@@ -160,17 +160,21 @@ Verweise auf andere Abschnitte oder externe Ressourcen
 - **Lesbarkeit**: Absätze nicht zu lang, klare Gliederung
 - **Verlinkungen**: Interne und externe Links testen
 - **Markdown-Linting**: Alle Markdown-Dateien müssen den Linting-Regeln entsprechen
+  - **WICHTIG**: Nach JEDER Änderung an Markdown-Dateien MUSS das Linting durchlaufen und bestanden werden
+  - Prüfung vor dem Commit: `npx markdownlint-cli2 "**/*.md"`
   - Automatische Prüfung durch GitHub Actions CI-Workflow bei jedem Push und Pull Request
   - Linting-Tool: markdownlint-cli2
   - Konfiguration: `.markdownlint.json` im Repository-Root
   - **Wichtige Regeln:**
+    - **MD026**: Keine Satzzeichen am Ende von Überschriften (z.B. kein `:` am Ende)
     - **MD032**: Listen müssen von Leerzeilen umgeben sein (davor und danach)
     - **MD029**: Nummerierte Listen müssen korrekt durchnummeriert sein (1, 2, 3...)
     - **MD013**: Zeilen dürfen maximal 120 Zeichen lang sein (außer in Code-Blöcken und Tabellen)
     - Code-Blöcke müssen eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
     - Leerzeilen um Code-Blöcke sind erforderlich
-  - Lokale Prüfung: `markdownlint-cli2 "**/*.md"`
-  - Automatische Korrekturen: `markdownlint-cli2 --fix "**/*.md"`
+  - Lokale Prüfung: `npx markdownlint-cli2 "**/*.md"`
+  - Automatische Korrekturen: `npx markdownlint-cli2 --fix "**/*.md"`
+  - **Bei Linting-Fehlern**: Änderungen dürfen NICHT committed werden, bis alle Fehler behoben sind
 
 ### Erweiterungen
 
@@ -211,13 +215,17 @@ Wenn Copilot Vorschläge macht, berücksichtige:
   - Workflow-Datei: `.github/workflows/markdown-lint.yml`
   - Läuft bei jedem Push auf `main` Branch und bei allen Pull Requests
   - Verwendet: DavidAnson/markdownlint-cli2-action@v16
+  - **WICHTIG**: Alle Markdown-Änderungen MÜSSEN lokal geprüft werden, BEVOR sie committed werden
+  - Lokaler Test: `npx markdownlint-cli2 "**/*.md"`
 - **Markdown-Linting-Regeln**: Siehe `.markdownlint.json`
   - Alle Standard-Regeln aktiviert mit wenigen Ausnahmen
+  - **MD026**: Keine Satzzeichen am Ende von Überschriften (z.B. kein `:` am Ende)
   - **MD032**: Listen müssen von Leerzeilen umgeben sein
   - **MD029**: Nummerierte Listen korrekt durchnummerieren
   - **MD013**: Zeilenlänge max. 120 Zeichen (außer in Code-Blöcken und Tabellen)
   - Code-Blöcke benötigen Sprachbezeichnung
   - Leerzeilen um Code-Blöcke erforderlich
+  - **Workflow**: IMMER zuerst lokal testen, dann committen
 
 ## Best Practices
 
