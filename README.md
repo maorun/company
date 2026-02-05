@@ -82,6 +82,29 @@ Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersat
 - **Langfristbetrachtung**: 20-Jahres-Vergleich bei Thesaurierung
 - **Checklisten**: Für Ein- und Auszahlungen bei jeder Rechtsform
 
+### 💰 [Geldwerte Vorteile - Übersicht für UG und Stiftung](./geldwerte-vorteile.md)
+
+**Umfassender Leitfaden zu geldwerten Vorteilen** (Sachbezüge) bei UG und Familienstiftung:
+
+- **8 Hauptkategorien geldwerter Vorteile**: Firmenwagen, Immobilien, Versicherungen, Weiterbildung, Technik, Reisen,
+Altersvorsorge, Sachbezüge
+- **Steuerliche Behandlung im Detail**:
+  - Wie profitieren Gesellschafter-Geschäftsführer, Designer und Vorstände?
+  - Pauschalversteuerung vs. individuelle Versteuerung
+  - E-Auto-Sonderregelung: Nur 0,25% statt 1% (bis zu 7.000 € Ersparnis/Jahr)
+- **Steuerentlastung für UG und Stiftung**:
+  - Betriebsausgabenabzug für alle Leistungen
+  - Vorsteuerabzug bei UG (19% zurück)
+  - Keine Sozialversicherung bei Gesellschafter-GF
+- **Praktische Beispiele**: 3 detaillierte Szenarien mit konkreten Berechnungen:
+  - Gesellschafter-Geschäftsführer: Ersparnis ca. 21.800 €/Jahr
+  - Designer als Geschäftsführer: Optimale Einkommensstruktur
+  - Familienstiftung mit 3 Generationen: Langfristige Versorgungsstrategie
+- **Vergleich UG vs. Familienstiftung**: Welche Vorteile eignen sich für welche Rechtsform?
+- **Risiken und Fallstricke**: Verdeckte Gewinnausschüttung, Sozialversicherung, Stiftungsaufsicht
+- **Optimierungsstrategien**: Niedrige Gehälter + maximale geldwerte Vorteile + Gewinnthesaurierung
+- **Checklisten**: Vor Gewährung, laufend und jährlich zu prüfende Punkte
+
 ### 🚗 [Auto-Leasing/-Kauf - Überlassung an Geschäftsführer](./auto-leasing.md)
 
 **Umfassender Leitfaden zur Fahrzeugüberlassung** an Geschäftsführer und Mitarbeiter:
