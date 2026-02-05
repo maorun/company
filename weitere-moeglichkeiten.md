@@ -826,7 +826,7 @@ Ergänzend zum Dokument [Geldwerte Vorteile](./geldwerte-vorteile.md) gibt es we
 | **Erweiterte geldwerte Vorteile** | UG/Stiftung | Mittel | Niedrig |
 | **Internationale Optimierung** | Große Vermögen | Mittel | Hoch |
 
-### Kernem pfehlungen
+### Kernempfehlungen
 
 #### Für UG (Vermögen 200.000 - 500.000 €):
 
