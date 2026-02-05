@@ -14,6 +14,23 @@ Diese Dokumentation bietet vollständige Leitfäden mit direktem **Vergleich der
 
 ## Dokumentation
 
+### 🎯 [Optimale Nutzung - Strategien und Best Practices](./optimale-nutzung.md)
+
+**Praktischer Leitfaden zur optimalen Nutzung** von vermögensbildender UG und Familienstiftung:
+
+- **10 Optimierungsstrategien**: Von Steueroptimierung bis Generationenplanung
+- **Steueroptimale Vermögensanlage**: Einzelaktien vs. ETFs, § 8b KStG nutzen
+- **Transaktionsstrategie**: Maximal 4 Transaktionen pro Jahr optimal planen
+- **Dividendenstrategie**: Kontinuierliche Erträge mit minimaler Steuer
+- **Thesaurierung vs. Ausschüttung**: Wann was optimal ist
+- **Kostenoptimierung**: Laufende Kosten um 500-2.000 € reduzieren
+- **Generationenplanung**: Langfristige Vermögensübertragung gestalten
+- **Auszahlungsstrategien**: Gehalt, Dividenden, Darlehen optimal kombinieren
+- **Internationale Diversifikation**: Quellensteueroptimierung nutzen
+- **Praktische Szenarien**: 4 konkrete Beispiele mit Empfehlungen
+- **Vergleichstabellen**: Übersicht aller Optimierungsstrategien
+- **Checklisten**: Schritt-für-Schritt zur optimalen Nutzung
+
 ### 📊 [Gründung - Vergleich der Rechtsformen](./gruendung.md)
 
 **Gegenüberstellung der Gründung** bei Privatvermögen, UG und Familienstiftung:
