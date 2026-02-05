@@ -2,7 +2,9 @@
 
 ## Projektübersicht
 
-Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedener Rechtsformen** für Vermögensverwaltung mit Wertpapieren (Aktien, ETFs) in Deutschland. Die Dokumentation vergleicht Privatvermögen, Unternehmergesellschaft (UG) und Familienstiftung und ist rechtskonform sowie steuerkonform gestaltet.
+Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedener Rechtsformen** für Vermögensverwaltung
+mit Wertpapieren (Aktien, ETFs) in Deutschland. Die Dokumentation vergleicht Privatvermögen, Unternehmergesellschaft
+(UG) und Familienstiftung und ist rechtskonform sowie steuerkonform gestaltet.
 
 ## Dokumentstruktur
 
@@ -14,7 +16,8 @@ Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedene
 
 ## Dokumentationsansatz
 
-**Kernprinzip:** Immer eine **Gegenüberstellung der verschiedenen Rechtsformen** (Privatvermögen, UG, Familienstiftung) vornehmen.
+**Kernprinzip:** Immer eine **Gegenüberstellung der verschiedenen Rechtsformen** (Privatvermögen, UG, Familienstiftung)
+vornehmen.
 
 - Vergleichstabellen verwenden für direkte Gegenüberstellung
 - Konkrete Zahlenbeispiele für jede Rechtsform
@@ -25,11 +28,12 @@ Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedene
 
 ### Markdown-Stil
 
-- **Überschriften**: Deutsche Bezeichnungen, klare Hierarchie (H1 für Haupttitel, H2 für Hauptkapitel, H3 für Unterkapitel)
+- **Überschriften**: Deutsche Bezeichnungen, klare Hierarchie (H1 für Haupttitel, H2 für Hauptkapitel, H3 für
+Unterkapitel)
 - **Listen**: Aufzählungen für einfache Listen, nummerierte Listen für Schritt-für-Schritt-Anleitungen
 - **Tabellen**: Für strukturierte Daten wie Kosten, Zeitpläne, Fristen
 - **Checklisten**: Mit `- [ ]` für To-Do-Listen
-- **Hervorhebungen**: 
+- **Hervorhebungen**:
   - **Fett** für wichtige Begriffe und Beträge
   - *Kursiv* für Betonungen (sparsam verwenden)
   - `Code` für Formeln, Beispiele, technische Begriffe
@@ -37,7 +41,7 @@ Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedene
 ### Sprache und Terminologie
 
 - **Sprache**: Deutsch (DE)
-- **Fachbegriffe**: 
+- **Fachbegriffe**:
   - UG = Unternehmergesellschaft (haftungsbeschränkt)
   - GmbH = Gesellschaft mit beschränkter Haftung
   - HGB = Handelsgesetzbuch
@@ -50,18 +54,21 @@ Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedene
 ### Inhaltliche Richtlinien
 
 #### Rechtliche Aspekte
+
 - Alle Angaben müssen auf aktuellen deutschen Gesetzen basieren
 - Verweise auf relevante Paragraphen (z.B. § 43 GmbHG)
 - Klare Unterscheidung zwischen Pflicht und Option
 - Haftungsausschluss am Ende jedes Dokuments
 
 #### Steuerliche Aspekte
+
 - Aktuelle Steuersätze angeben
 - Fristen und Termine präzise benennen
 - Unterscheidung zwischen verschiedenen Steuerarten
 - Hinweis auf Steuerberater bei komplexen Fragen
 
 #### Praktische Informationen
+
 - Konkrete Kostenangaben mit Spannen (z.B. ca. 100-300 Euro)
 - Zeitangaben realistisch einschätzen
 - Checklisten für Umsetzung bereitstellen
@@ -69,7 +76,7 @@ Dieses Repository enthält umfassende Dokumentation zum **Vergleich verschiedene
 
 ### Wartung und Aktualisierung
 
-#### Wenn Copilot Änderungen vorschlägt:
+#### Wenn Copilot Änderungen vorschlägt
 
 1. **Rechtliche Änderungen**:
    - Überprüfe immer die Aktualität von Gesetzen und Verordnungen
@@ -130,7 +137,7 @@ Einführungstext mit Kontext
 ### Weiterführende Informationen
 
 Verweise auf andere Abschnitte oder externe Ressourcen
-```
+```text
 
 ### Qualitätssicherung
 
@@ -139,6 +146,15 @@ Verweise auf andere Abschnitte oder externe Ressourcen
 - **Faktencheck**: Alle Zahlen, Fristen und Beträge überprüfen
 - **Lesbarkeit**: Absätze nicht zu lang, klare Gliederung
 - **Verlinkungen**: Interne und externe Links testen
+- **Markdown-Linting**: Alle Markdown-Dateien müssen den Linting-Regeln entsprechen
+  - Automatische Prüfung durch GitHub Actions CI-Workflow bei jedem Push und Pull Request
+  - Linting-Tool: markdownlint-cli2
+  - Konfiguration: `.markdownlint.json` im Repository-Root
+  - Code-Blöcke müssen eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
+  - Zeilen dürfen maximal 120 Zeichen lang sein (außer in Code-Blöcken und Tabellen)
+  - Leerzeilen um Code-Blöcke sind erforderlich
+  - Lokale Prüfung: `markdownlint-cli2 "**/*.md"`
+  - Automatische Korrekturen: `markdownlint-cli2 --fix "**/*.md"`
 
 ### Erweiterungen
 
@@ -163,6 +179,7 @@ Bei Erweiterung der Dokumentation folgende Themen priorisieren:
 ### Kontext für Copilot
 
 Wenn Copilot Vorschläge macht, berücksichtige:
+
 - Deutsche Rechtslage (nicht andere Länder)
 - Spezifika der UG (nicht allgemeine GmbH)
 - Aktuelle Gesetzgebung (Stand 2024/2025)
@@ -174,6 +191,15 @@ Wenn Copilot Vorschläge macht, berücksichtige:
 - **Encoding**: UTF-8
 - **Zeilenlänge**: Max. 120 Zeichen pro Zeile (für bessere Lesbarkeit im Editor)
 - **Links**: Relative Links für interne Verweise, absolute für externe
+- **CI/CD**: GitHub Actions Workflow für Markdown-Linting
+  - Workflow-Datei: `.github/workflows/markdown-lint.yml`
+  - Läuft bei jedem Push auf `main` Branch und bei allen Pull Requests
+  - Verwendet: DavidAnson/markdownlint-cli2-action@v16
+- **Markdown-Linting-Regeln**: Siehe `.markdownlint.json`
+  - Alle Standard-Regeln aktiviert mit wenigen Ausnahmen
+  - Code-Blöcke benötigen Sprachbezeichnung
+  - Zeilenlänge max. 120 Zeichen (außer in Code-Blöcken und Tabellen)
+  - Leerzeilen um Code-Blöcke erforderlich
 
 ## Best Practices
 
@@ -185,4 +211,5 @@ Wenn Copilot Vorschläge macht, berücksichtige:
 
 ## Haftungshinweis bei Änderungen
 
-Jede Änderung sollte sicherstellen, dass der Haftungsausschluss am Ende der Dokumente erhalten bleibt und aktuell ist. Die Dokumentation dient der Information und ersetzt keine professionelle Beratung.
+Jede Änderung sollte sicherstellen, dass der Haftungsausschluss am Ende der Dokumente erhalten bleibt und aktuell ist.
+Die Dokumentation dient der Information und ersetzt keine professionelle Beratung.

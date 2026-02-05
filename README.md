@@ -1,16 +1,21 @@
 # Unternehmens- und Vermögensstrukturen in Deutschland - Vergleich der Rechtsformen
 
-Willkommen zur umfassenden Dokumentation rund um verschiedene Rechtsformen und Vermögensstrukturen in Deutschland für die Verwaltung von Wertpapieren (Aktien, ETFs).
+Willkommen zur umfassenden Dokumentation rund um verschiedene Rechtsformen und Vermögensstrukturen in Deutschland für
+die Verwaltung von Wertpapieren (Aktien, ETFs).
 
 ## Übersicht
 
-Diese Dokumentation bietet vollständige Leitfäden mit direktem **Vergleich der drei Hauptrechtsformen** für Vermögensverwaltung mit Aktienkauf und -verkauf:
+Diese Dokumentation bietet vollständige Leitfäden mit direktem **Vergleich der drei Hauptrechtsformen** für
+Vermögensverwaltung mit Aktienkauf und -verkauf:
 
-**Privatvermögen:** Direkter Wertpapierbesitz als natürliche Person - einfach, flexibel, aber höhere Steuerbelastung (26,375% Abgeltungsteuer).
+**Privatvermögen:** Direkter Wertpapierbesitz als natürliche Person - einfach, flexibel, aber höhere Steuerbelastung
+(26,375% Abgeltungsteuer).
 
-**Unternehmergesellschaft (UG):** Kapitalgesellschaft mit beschränkter Haftung und steuerlichen Vorteilen bei Einzelaktien durch § 8b KStG (nur 1,5% Steuer auf Dividenden und Kursgewinne bei Thesaurierung).
+**Unternehmergesellschaft (UG):** Kapitalgesellschaft mit beschränkter Haftung und steuerlichen Vorteilen bei
+Einzelaktien durch § 8b KStG (nur 1,5% Steuer auf Dividenden und Kursgewinne bei Thesaurierung).
 
-**Familienstiftung:** Rechtsfähige Stiftung des privaten Rechts für langfristige, generationenübergreifende Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersatz alle 30 Jahre.
+**Familienstiftung:** Rechtsfähige Stiftung des privaten Rechts für langfristige, generationenübergreifende
+Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersatz alle 30 Jahre.
 
 ## Dokumentation
 
@@ -195,17 +200,20 @@ Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
 ### Wann lohnt sich was?
 
 **Privatvermögen:**
+
 - ✅ Vermögen < 100.000 €
 - ✅ Maximale Flexibilität wichtig
 - ✅ ETF-Strategie bevorzugt
 
 **UG:**
+
 - ✅ Vermögen 200.000 - 500.000 €
 - ✅ Einzelaktien Buy-and-Hold
 - ✅ Gewinne thesaurieren
 - ✅ Max. 4 Transaktionen/Jahr
 
 **Familienstiftung:**
+
 - ✅ Vermögen > 500.000 €
 - ✅ Generationenübergreifend
 - ✅ Sehr langfristig (30+ Jahre)
@@ -214,12 +222,14 @@ Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
 ### Kritischer Unterschied: Einzelaktien vs. ETFs
 
 Bei **UG und Familienstiftung** gilt:
+
 - **Einzelaktien**: 0,79-1,5% Steuer ✅✅✅
 - **ETFs**: 21-32% Steuer ❌
 
 → **Einzelaktien sind bei Kapitalgesellschaften/Stiftungen massiv im Vorteil!**
 
 Bei **Privatvermögen**:
+
 - **Einzelaktien**: 26,375% Steuer
 - **ETFs**: 26,375% Steuer
 → Kein Unterschied, ETFs oft praktischer
@@ -229,6 +239,7 @@ Bei **Privatvermögen**:
 ### ⚖️ Rechtskonformität
 
 Alle Informationen in dieser Dokumentation basieren auf den aktuellen deutschen Gesetzen, insbesondere:
+
 - GmbH-Gesetz (GmbHG)
 - Handelsgesetzbuch (HGB)
 - Steuergesetze (KStG, GewStG, UStG)
@@ -237,6 +248,7 @@ Alle Informationen in dieser Dokumentation basieren auf den aktuellen deutschen 
 ### 💶 Steuerkonformität
 
 Die steuerlichen Informationen berücksichtigen:
+
 - Aktuelle Steuersätze und Freibeträge
 - Melde- und Abgabefristen
 - Buchführungs- und Aufbewahrungspflichten
@@ -245,6 +257,7 @@ Die steuerlichen Informationen berücksichtigen:
 ## Zielgruppe
 
 Diese Dokumentation richtet sich an:
+
 - **Privatanleger**, die ihre Vermögensanlage optimieren möchten
 - **Gründer**, die eine UG für Vermögensverwaltung erwägen
 - **Vermögende Personen**, die eine Familienstiftung prüfen
@@ -267,6 +280,7 @@ Im Gegensatz zu vielen anderen Quellen bietet diese Dokumentation einen **direkt
 ## Weiterführende Ressourcen
 
 ### Behörden und Institutionen
+
 - [Bundesministerium der Justiz - GmbH-Gesetz](https://www.gesetze-im-internet.de/gmbhg/)
 - [Handelsregister](https://www.handelsregister.de)
 - [ELSTER - Elektronische Steuererklärung](https://www.elster.de)
@@ -275,7 +289,9 @@ Im Gegensatz zu vielen anderen Quellen bietet diese Dokumentation einen **direkt
 - [Bundeszentralamt für Steuern](https://www.bzst.de)
 
 ### Beratung
+
 Für individuelle Fragen empfehlen wir die Konsultation von:
+
 - **Rechtsanwälten** für rechtliche Fragen
 - **Steuerberatern** für steuerliche Optimierung
 - **Notaren** für Beurkundungen und Vertragsgestaltung
@@ -283,13 +299,17 @@ Für individuelle Fragen empfehlen wir die Konsultation von:
 
 ## Haftungsausschluss
 
-Diese Dokumentation dient ausschließlich der allgemeinen Information und stellt keine Rechts- oder Steuerberatung dar. Für konkrete Fälle sollte immer fachkundiger Rat eingeholt werden. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
+Diese Dokumentation dient ausschließlich der allgemeinen Information und stellt keine Rechts- oder Steuerberatung dar.
+Für konkrete Fälle sollte immer fachkundiger Rat eingeholt werden. Die Informationen wurden nach bestem Wissen
+zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
 
-Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an einen Fachberater.
+Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an
+einen Fachberater.
 
 ## Beiträge
 
-Dieses Repository dient der Information über UG-Gründung und -Betrieb in Deutschland. Bei Fragen oder Anregungen zur Verbesserung der Dokumentation sind Beiträge willkommen.
+Dieses Repository dient der Information über UG-Gründung und -Betrieb in Deutschland. Bei Fragen oder Anregungen zur
+Verbesserung der Dokumentation sind Beiträge willkommen.
 
 ---
 

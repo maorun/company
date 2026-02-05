@@ -2,7 +2,8 @@
 
 ## Übersicht
 
-Dieser Leitfaden vergleicht den laufenden Betrieb bei drei verschiedenen Vermögensstrukturen für Wertpapiergeschäfte (Aktienkauf und -verkauf):
+Dieser Leitfaden vergleicht den laufenden Betrieb bei drei verschiedenen Vermögensstrukturen für Wertpapiergeschäfte
+(Aktienkauf und -verkauf):
 
 - **Privatvermögen**: Direkter Wertpapierhandel als natürliche Person
 - **Unternehmergesellschaft (UG)**: Kapitalgesellschaft mit begrenzter Haftung
@@ -117,6 +118,7 @@ Jede Struktur hat unterschiedliche steuerliche Behandlung, Pflichten und Kosten 
 ### Geschäftsführung
 
 #### Aufgaben des Geschäftsführers
+
 - Geschäftliche Leitung der Gesellschaft
 - Technische und organisatorische Maßnahmen
 
@@ -149,6 +151,7 @@ Jede Struktur hat unterschiedliche steuerliche Behandlung, Pflichten und Kosten 
 ## Checkliste laufender Betrieb
 
 ### Monatlich
+
 - [ ] Buchhaltung auf aktuellem Stand
 - [ ] Belege gesammelt und archiviert
 - [ ] Bankkonten abgestimmt
@@ -157,12 +160,14 @@ Jede Struktur hat unterschiedliche steuerliche Behandlung, Pflichten und Kosten 
 - [ ] Sozialversicherungsbeiträge abgeführt
 
 ### Vierteljährlich
+
 - [ ] Umsatzsteuer-Voranmeldung (falls vierteljährlich)
 - [ ] Körperschaftsteuer-Vorauszahlung
 - [ ] Gewerbesteuer-Vorauszahlung
 - [ ] Liquiditätsplanung aktualisiert
 
 ### Jährlich
+
 - [ ] Jahresabschluss erstellt
 - [ ] Gesellschafterversammlung durchgeführt
 - [ ] Jahresabschluss festgestellt
@@ -215,28 +220,34 @@ Für Informationen zu Ein- und Auszahlungen siehe [Geld - Vergleich bei Ein- und
 
 ## Haftungsausschluss
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Steuerberatung dar. Für konkrete Fälle sollte immer fachkundiger Rat (Rechtsanwalt, Steuerberater) eingeholt werden. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit und Aktualität übernommen. Gesetzliche Regelungen können sich ändern.
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Steuerberatung dar.
+Für konkrete Fälle sollte immer fachkundiger Rat (Rechtsanwalt, Steuerberater) eingeholt werden. Die Informationen
+wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit und Aktualität übernommen.
+Gesetzliche Regelungen können sich ändern.
 
 ## Organisatorische Pflichten im Vergleich
 
 ### Privatvermögen
 
 **Keine organisatorischen Pflichten:**
+
 - Keine Geschäftsführung erforderlich
 - Keine Versammlungen
 - Keine Berichtspflichten
 - Volle persönliche Kontrolle
 
 **Dokumentation:**
+
 - Depotauszüge aufbewahren (empfohlen: 4 Jahre)
 - Jahressteuerbescheinigung für Steuererklärung
 - Keine weiteren Aufzeichnungspflichten
 
 ### Unternehmergesellschaft (UG)
 
-#### Geschäftsführung
+#### Geschäftsführung (1)
 
 **Aufgaben des Geschäftsführers:**
+
 - Geschäftliche Leitung der Gesellschaft
 - Vertretung nach außen
 - Sorgfaltspflicht eines ordentlichen Geschäftsmannes (§ 43 GmbHG)
@@ -244,6 +255,7 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 - Insolvenzantragspflicht bei Zahlungsunfähigkeit oder Überschuldung
 
 **Haftung:**
+
 - Geschäftsführer haftet persönlich bei Pflichtverletzungen
 - Besonders kritisch:
   - Verspätete Insolvenzanmeldung
@@ -253,12 +265,14 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Gesellschafterversammlung
 
 **Zuständigkeiten:**
+
 - Feststellung des Jahresabschlusses
 - Verwendung des Jahresergebnisses
 - Entlastung des Geschäftsführers
 - Änderungen des Gesellschaftsvertrags
 
 **Durchführung:**
+
 - Mindestens einmal jährlich
 - Protokollierung der Beschlüsse
 - Bei wichtigen Beschlüssen: notarielle Beurkundung
@@ -266,6 +280,7 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Handelsregister
 
 **Meldepflichten:**
+
 - Änderung der Geschäftsführung
 - Änderung der Geschäftsadresse
 - Änderung des Gesellschaftsvertrags
@@ -277,6 +292,7 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Stiftungsvorstand
 
 **Aufgaben:**
+
 - Vertretung der Stiftung nach außen
 - Verwaltung des Stiftungsvermögens nach Satzung
 - Entscheidung über Ausschüttungen an Destinatäre
@@ -284,6 +300,7 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 - Vermögenserhaltungspflicht
 
 **Haftung:**
+
 - Persönlich haftbar bei Pflichtverletzungen
 - Sorgfaltspflicht eines ordentlichen Kaufmanns
 - Haftung gegenüber Stiftung und Destinatären
@@ -291,6 +308,7 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Stiftungsrat (wenn vorhanden)
 
 **Aufgaben:**
+
 - Kontrolle des Vorstands
 - Beratung in wichtigen Angelegenheiten
 - Genehmigung wesentlicher Geschäfte
@@ -299,12 +317,14 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Stiftungsaufsicht
 
 **Berichtspflichten:**
+
 - Jährlicher Tätigkeitsbericht
 - Jahresabschluss an Stiftungsbehörde
 - Wesentliche Änderungen melden
 - Bei Satzungsänderungen: Genehmigung einholen
 
 **Staatliche Kontrolle:**
+
 - Regelmäßige Prüfung durch Stiftungsbehörde
 - Sicherstellung der Zweckerfüllung
 - Vermögenserhalt überwachen
@@ -312,57 +332,67 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 #### Destinatärsversammlung (optional)
 
 **Informationspflichten:**
+
 - Regelmäßige Information über Stiftungsvermögen
 - Ausschüttungsregelungen kommunizieren
 - Transparenz über Vermögensentwicklung
 
 ## Buchführung und Dokumentation im Vergleich
 
-### Privatvermögen
+### Privatvermögen (1)
 
 **Buchführung:**
+
 - ❌ Keine doppelte Buchführung
 - ❌ Keine Bilanzen
 - ❌ Keine GuV erforderlich
 
 **Dokumentation:**
+
 - ✅ Depotauszüge sammeln (quartalsweise empfohlen)
 - ✅ Jahressteuerbescheinigung der Bank
 - ✅ Kaufbelege für größere Transaktionen (optional)
 
 **Aufbewahrung:**
+
 - 4 Jahre empfohlen (für Steuererklärung)
 - Digital oder Papier
 - Keine gesetzliche Pflicht
 
 **Jahresabschluss:**
+
 - Nicht erforderlich
 
-### Unternehmergesellschaft (UG)
+### Unternehmergesellschaft (UG) (1)
 
 **Buchführung:**
+
 - ✅ Doppelte Buchführung erforderlich
 - ✅ Chronologische und systematische Erfassung aller Geschäftsvorfälle
 - ✅ Belegprinzip: Keine Buchung ohne Beleg
 
 **Erforderliche Bücher:**
+
 - Grundbuch (Journal)
 - Hauptbuch
 - Kassa- und Bankbuch
 - Wertpapierbuch
 
 **Jahresabschluss:**
+
 - ✅ Bilanz (Aktiva/Passiva)
 - ✅ Gewinn- und Verlustrechnung (GuV)
 - ✅ Anhang (bei mittelgroßen/großen UG)
 - ✅ Lagebericht (bei großen UG)
 
 **Fristen:**
+
 - Aufstellung: 3 Monate nach Geschäftsjahresende (kleine UG)
 - Feststellung durch Gesellschafterversammlung
 - Offenlegung beim Bundesanzeiger: 12 Monate
 
 **Aufbewahrungspflichten:**
+
 - 10 Jahre: Bücher, Inventare, Bilanzen, Buchungsbelege
 - 6 Jahre: Geschäftsbriefe
 - Unveränderbare, digitale Archivierung (GoBD-konform)
@@ -370,39 +400,45 @@ Diese Informationen dienen ausschließlich der allgemeinen Information und stell
 **Wertpapiergeschäfte buchen:**
 
 **Aktienkauf:**
-```
+
+```text
 Wertpapiere des Anlagevermögens    100.000 €
     an Bank                                    100.000 €
-```
+```text
 
 **Dividendeneingang:**
-```
+
+```text
 Bank                                5.000 €
     an Erträge aus Beteiligungen             5.000 €
-```
+```text
 
 **Aktienverkauf mit Gewinn:**
-```
+
+```text
 Bank                              120.000 €
     an Wertpapiere des AV                    100.000 €
     an Erträge aus Wertpapierverkauf          20.000 €
-```
+```text
 
-### Familienstiftung
+### Familienstiftung (1)
 
 **Buchführung:**
+
 - ✅ Doppelte Buchführung erforderlich
 - ✅ Alle Erträge und Ausschüttungen dokumentieren
 - ✅ Getrennte Vermögensrechnung
 - ✅ Nachweis der Vermögenserhaltung
 
 **Erforderliche Bücher:**
+
 - Grundbuch (Journal)
 - Hauptbuch
 - Vermögensrechnung
 - Stiftungsbuch (Dokumentation der Destinatäre und Ausschüttungen)
 
 **Jahresabschluss:**
+
 - ✅ Bilanz
 - ✅ Gewinn- und Verlustrechnung
 - ✅ Vermögensrechnung
@@ -410,22 +446,25 @@ Bank                              120.000 €
 - ✅ Anhang
 
 **Besonderheiten:**
+
 - Nachweis der Vermögenserhaltung
 - Dokumentation aller Ausschüttungen an Destinatäre
 - Begründung von Vermögensverwendungen
 
 **Fristen:**
+
 - Jahresabschluss: 6 Monate nach Geschäftsjahresende
 - Bericht an Stiftungsbehörde: jährlich
 - Keine Veröffentlichung im Bundesanzeiger (bei privatnütziger Stiftung)
 
 **Aufbewahrungspflichten:**
+
 - 10 Jahre: Alle Bücher und Belege
 - Dauerhaft: Satzung, Stiftungsgeschäft, wichtige Beschlüsse
 
 ## Laufende Kosten im Vergleich
 
-### Privatvermögen
+### Privatvermögen (2)
 
 | Kostenart | Jährliche Kosten |
 |-----------|------------------|
@@ -437,7 +476,7 @@ Bank                              120.000 €
 
 **Keine weiteren Pflichtkosten**
 
-### Unternehmergesellschaft (UG)
+### Unternehmergesellschaft (UG) (2)
 
 | Kostenart | Jährliche Kosten |
 |-----------|------------------|
@@ -455,7 +494,7 @@ Bank                              120.000 €
 | **GESAMT** | **2.340-5.940 €** |
 | **Durchschnitt** | **ca. 3.500 €** |
 
-### Familienstiftung
+### Familienstiftung (2)
 
 | Kostenart | Jährliche Kosten |
 |-----------|------------------|
@@ -474,7 +513,8 @@ Bank                              120.000 €
 | **GESAMT (ohne Vorstandsvergütung)** | **4.480-9.180 €** |
 | **Durchschnitt** | **ca. 6.000 €** |
 
-**Hinweis:** Bei Familienstiftung können Vorstände angemessen vergütet werden, was die Kosten erhöht, aber steuerlich absetzbar ist.
+**Hinweis:** Bei Familienstiftung können Vorstände angemessen vergütet werden, was die Kosten erhöht, aber steuerlich
+absetzbar ist.
 
 ## Strategien bei maximal 4 Transaktionen pro Jahr
 
@@ -494,20 +534,23 @@ Bank                              120.000 €
 
 ### Optimale Anlagestrategie bei 4 Transaktionen
 
-#### Für alle drei Rechtsformen:
+#### Für alle drei Rechtsformen
 
 **1. Buy-and-Hold-Strategie:**
+
 - Langfristige Investition in Qualitätsaktien
 - Minimale Umschichtungen
 - Dividendenfokus
 
 **2. Jahresplanung:**
+
 - **Q1 (Jan-März):** 1-2 strategische Käufe
 - **Q2 (Apr-Jun):** Dividenden vereinnahmen, 0-1 Nachkauf
 - **Q3 (Jul-Sep):** Portfolio beobachten, 0-1 Verkauf
 - **Q4 (Okt-Dez):** Jahresendgestaltung, 0-2 Umschichtungen
 
 **3. Portfolioaufbau:**
+
 - Ziel: 8-15 Einzelaktien
 - Jährlich 1-4 neue Positionen aufbauen
 - Nach 3-5 Jahren: Vollständiges Portfolio
@@ -515,31 +558,36 @@ Bank                              120.000 €
 
 ### Steueroptimale Wertpapierauswahl
 
-#### Für Privatvermögen:
+#### Für Privatvermögen
 
 **Empfehlung:** Breit diversifizierte ETFs
+
 - ✅ Einfache Handhabung
 - ✅ Breite Streuung
 - ✅ Niedrige Kosten
 - ✅ Kein Nachteil gegenüber Einzelaktien
 
 **Oder:** Deutsche Dividendenaktien
+
 - ✅ Keine Quellensteuer
 - ✅ Dividendenrendite
 - ✅ Langfristige Perspektive
 
-#### Für UG und Familienstiftung:
+#### Für UG und Familienstiftung
 
 **Empfehlung:** Deutsche Einzelaktien (DAX, MDAX)
+
 - ✅✅✅ Nur 1,5% Steuer auf Dividenden und Kursgewinne
 - ✅ Keine Quellensteuer
 - ✅ § 8b KStG voll nutzbar
 
 **Zweite Wahl:** EU- und US-Einzelaktien
+
 - ✅✅ Nur 1,5% Steuer
 - ⚠️ Quellensteuer (meist anrechenbar)
 
 **Vermeiden:** ETFs
+
 - ❌ 21-32% Steuer
 - ❌ Kein § 8b KStG Vorteil
 - ❌ Deutlich schlechter als Einzelaktien
@@ -561,6 +609,7 @@ Bank                              120.000 €
 | Cash / Liquidität | - | - | 0% |
 
 **Charakteristika:**
+
 - Deutsche Qualitätsaktien (DAX, MDAX)
 - Hohe durchschnittliche Dividendenrendite (Ø 4,1%)
 - Keine Quellensteuer
@@ -570,11 +619,13 @@ Bank                              120.000 €
 ### Transaktions-Timing
 
 **Optimal:**
+
 - **Januar:** 2 Käufe (Jahresanfang, frisches Kapital)
 - **Mai/Juni:** 1 Nachkauf (nach Q1-Zahlen, vor Hauptversammlungen)
 - **November/Dezember:** 1 Verkauf/Umschichtung (Jahresendgestaltung, Steueroptimierung)
 
 **Verlustverrechnungstopf nutzen:**
+
 - Gewinnmitnahmen und Verlustverkäufe im selben Jahr
 - Steuereffekte optimieren
 
@@ -582,16 +633,19 @@ Bank                              120.000 €
 
 ### Szenario: 100.000 € Dividenden pro Jahr
 
-#### Privatvermögen:
-```
+#### Privatvermögen (3)
+
+```text
 Dividenden:                    100.000 €
 Abgeltungsteuer (26,375%):     26.375 €
 Netto verfügbar:               73.625 €
-```
+```text
+
 **Effektive Steuerbelastung: 26,375%**
 
-#### UG mit sofortiger Ausschüttung:
-```
+#### UG mit sofortiger Ausschüttung
+
+```text
 Dividenden:                    100.000 €
 Steuerfrei (95%):              95.000 €
 Steuerpflichtig (5%):          5.000 €
@@ -604,34 +658,40 @@ Ausschüttbarer Betrag:         98.509 €
 Ausschüttung an Gesellschafter:
 Abgeltungsteuer (26,375%):     25.981 €
 Netto verfügbar:               72.528 €
-```
+```text
+
 **Gesamtsteuerbelastung: 27,47%**
 
 **Achtung:** Bei sofortiger Ausschüttung wenig Vorteil!
 
-#### UG mit Thesaurierung (Gewinne bleiben in UG):
-```
+#### UG mit Thesaurierung (Gewinne bleiben in UG)
+
+```text
 Dividenden:                    100.000 €
 Körperschaftsteuer:            791 €
 Gewerbesteuer:                 700 €
 Rücklage (25%):                0 € (bereits erreicht)
 Verbleiben in UG:              98.509 €
-```
+```text
+
 **Effektive Steuerbelastung: 1,49%**
 **Zum Reinvestieren verfügbar: 98.509 €**
 
 **Vorteil:** Fast gesamter Betrag steht für Reinvestitionen zur Verfügung!
 
-#### Familienstiftung (keine Ausschüttung):
-```
+#### Familienstiftung (keine Ausschüttung)
+
+```text
 Dividenden:                    100.000 €
 Körperschaftsteuer (0,79%):    790 €
 Verbleiben in Stiftung:        99.210 €
-```
+```text
+
 **Effektive Steuerbelastung: 0,79%**
 
-#### Familienstiftung (mit Ausschüttung an Destinatäre):
-```
+#### Familienstiftung (mit Ausschüttung an Destinatäre)
+
+```text
 Dividenden:                    100.000 €
 Körperschaftsteuer:            790 €
 Nach Steuern:                  99.210 €
@@ -641,12 +701,13 @@ Beim Destinatär:
 Einkommensteuer (persönlicher Steuersatz, z.B. 30%): 18.000 €
 Netto beim Destinatär:         42.000 €
 Verbleiben in Stiftung:        39.210 €
-```
+```text
+
 **Gesamtsteuerbelastung auf ausgeschütteten Teil: ca. 30%**
 
 **Aber:** 30 Jahre keine Erbschaftsteuer! Dann Erbschaftsteuerersatz.
 
-### Fazit zur Steuerbelastung:
+### Fazit zur Steuerbelastung
 
 | Rechtsform | Bei Thesaurierung | Bei Ausschüttung |
 |------------|------------------|------------------|
@@ -658,7 +719,7 @@ Verbleiben in Stiftung:        39.210 €
 
 ## Wichtige Termine und Fristen im Vergleich
 
-### Privatvermögen
+### Privatvermögen (4)
 
 | Termin | Frist | Beschreibung |
 |--------|-------|--------------|
@@ -667,7 +728,7 @@ Verbleiben in Stiftung:        39.210 €
 
 **Sehr einfach!**
 
-### Unternehmergesellschaft (UG)
+### Unternehmergesellschaft (UG) (3)
 
 | Termin | Frist | Beschreibung |
 |--------|-------|--------------|
@@ -681,7 +742,7 @@ Verbleiben in Stiftung:        39.210 €
 
 **Moderate Komplexität**
 
-### Familienstiftung
+### Familienstiftung (3)
 
 | Termin | Frist | Beschreibung |
 |--------|-------|--------------|
@@ -697,41 +758,47 @@ Verbleiben in Stiftung:        39.210 €
 
 ## Besondere Pflichten und Risiken
 
-### Privatvermögen
+### Privatvermögen (5)
 
 **Pflichten:**
+
 - ❌ Keine besonderen Pflichten
 - ✅ Maximale Flexibilität
 
 **Risiken:**
+
 - Volle persönliche Haftung
 - Keine Vermögenstrennung
 - Höhere Steuerbelastung
 
-### Unternehmergesellschaft (UG)
+### Unternehmergesellschaft (UG) (4)
 
 **Besondere Pflichten:**
+
 - Insolvenzantragspflicht bei Überschuldung/Zahlungsunfähigkeit (binnen 3 Wochen)
 - Trennung von Privat- und Gesellschaftsvermögen
 - Vermeidung verdeckter Gewinnausschüttungen
 - Angemessene Geschäftsführervergütung
 
 **Risiken:**
+
 - Geschäftsführerhaftung bei Pflichtverletzungen
 - Umqualifizierung in gewerblichen Handel (→ Gewerbesteuer)
 - Verdeckte Gewinnausschüttung (→ Steuernachzahlung)
 - Gestaltungsmissbrauch nach § 42 AO
 
 **Vermeidungsstrategien:**
+
 - Max. 4 Transaktionen/Jahr einhalten
 - Strikte Trennung Privat/Geschäftlich
 - Dokumentierte Anlagestrategie
 - Gesellschafterbeschlüsse protokollieren
 - Angemessene Fremdvergleichswerte
 
-### Familienstiftung
+### Familienstiftung (4)
 
 **Besondere Pflichten:**
+
 - Vermögenserhaltungspflicht (Substanz erhalten)
 - Einhaltung des Stiftungszwecks
 - Berichtspflicht an Stiftungsbehörde
@@ -739,6 +806,7 @@ Verbleiben in Stiftung:        39.210 €
 - Ausschüttungen nur aus Erträgen
 
 **Risiken:**
+
 - Vorstandshaftung bei Pflichtverletzungen
 - Vermögensverlust durch schlechte Verwaltung
 - Erbschaftsteuerersatzsteuer alle 30 Jahre
@@ -746,6 +814,7 @@ Verbleiben in Stiftung:        39.210 €
 - Strenge Vermögenserhaltungspflicht
 
 **Vermeidungsstrategien:**
+
 - Professionelle Vermögensverwaltung
 - Regelmäßige Berichterstattung
 - Diversifizierung des Portfolios
@@ -768,9 +837,10 @@ Verbleiben in Stiftung:        39.210 €
 | **Verwaltungsaufwand** | ⭐⭐⭐⭐⭐ Minimal | ⭐⭐⭐ Moderat | ⭐ Hoch |
 | **Generationenplanung** | ⭐ Keine | ⭐⭐ Möglich | ⭐⭐⭐⭐⭐ Optimal |
 
-### Empfehlungen nach Situation:
+### Empfehlungen nach Situation
 
 **Privatvermögen wählen, wenn:**
+
 - ✅ Vermögen < 100.000 €
 - ✅ Maximale Flexibilität gewünscht
 - ✅ Minimaler Verwaltungsaufwand
@@ -778,6 +848,7 @@ Verbleiben in Stiftung:        39.210 €
 - ✅ Kurzfristige Perspektive (< 5 Jahre)
 
 **UG wählen, wenn:**
+
 - ✅ Vermögen 200.000 - 500.000 €
 - ✅ Einzelaktien-Strategie mit Buy-and-Hold
 - ✅ Max. 4 Transaktionen pro Jahr möglich
@@ -786,6 +857,7 @@ Verbleiben in Stiftung:        39.210 €
 - ✅ Bereitschaft für moderate Verwaltung
 
 **Familienstiftung wählen, wenn:**
+
 - ✅ Vermögen > 500.000 €
 - ✅ Generationenübergreifende Planung wichtig
 - ✅ Familie mit mehreren Destinatären
@@ -794,9 +866,10 @@ Verbleiben in Stiftung:        39.210 €
 - ✅ Bereitschaft für hohen Verwaltungsaufwand
 - ✅ Professionelle Beratung vorhanden
 
-## Wichtige Links
+## Wichtige Links (1)
 
 ### Allgemeine Informationen
+
 - [Bundesministerium der Justiz - GmbH-Gesetz](https://www.gesetze-im-internet.de/gmbhg/)
 - [Bundesministerium der Justiz - BGB (Stiftungsrecht)](https://www.gesetze-im-internet.de/bgb/)
 - [Bundesministerium der Finanzen](https://www.bundesfinanzministerium.de)
@@ -804,18 +877,24 @@ Verbleiben in Stiftung:        39.210 €
 - [Elektronischer Bundesanzeiger](https://www.bundesanzeiger.de)
 
 ### Spezifische Informationen
+
 - **§ 8b KStG**: [Körperschaftsteuergesetz](https://www.gesetze-im-internet.de/kstg_1977/__8b.html)
 - **§ 9 Nr. 1 GewStG**: [Gewerbesteuergesetz](https://www.gesetze-im-internet.de/gewstg/)
 - **Stiftungsaufsicht**: Zuständige Behörde des jeweiligen Bundeslandes
 - **IHK**: [Industrie- und Handelskammer](https://www.ihk.de)
 
-## Haftungsausschluss
+## Haftungsausschluss (1)
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Steuerberatung dar. Die steuerliche Behandlung von Wertpapiergeschäften ist komplex und kann sich durch Gesetzesänderungen oder unterschiedliche Auslegung durch Finanzämter ändern.
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Rechts- oder Steuerberatung dar.
+Die steuerliche Behandlung von Wertpapiergeschäften ist komplex und kann sich durch Gesetzesänderungen oder
+unterschiedliche Auslegung durch Finanzämter ändern.
 
-Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater mit Erfahrung in § 8b KStG, Vermögensverwaltung und/oder Stiftungsrecht konsultieren. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
+Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater mit Erfahrung in § 8b KStG, Vermögensverwaltung
+und/oder Stiftungsrecht konsultieren. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine
+Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
 
-Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an einen Fachberater.
+Gesetze und Verordnungen können sich ändern. Bitte prüfen Sie die Aktualität der Informationen oder wenden Sie sich an
+einen Fachberater.
 
 ---
 

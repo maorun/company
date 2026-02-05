@@ -1,6 +1,7 @@
 # Vermögensverwaltende UG - Kauf und Verkauf von Aktien und ETFs
 
 > **Hinweis:** Für einen **direkten Vergleich** der UG mit Privatvermögen und Familienstiftung siehe:
+>
 > - [Gründung - Vergleich der Rechtsformen](./gruendung.md)
 > - [Betrieb - Vergleich bei Aktienkauf/-verkauf](./betrieb.md)
 >
@@ -8,7 +9,9 @@
 
 ## Übersicht
 
-Eine vermögensverwaltende UG ist eine Kapitalgesellschaft, die Wertpapiere (Aktien, ETFs) kauft, hält und verkauft. Bei geringer Handelsaktivität (maximal 4 Transaktionen pro Jahr) gelten besondere steuerliche Regelungen und Optimierungsmöglichkeiten.
+Eine vermögensverwaltende UG ist eine Kapitalgesellschaft, die Wertpapiere (Aktien, ETFs) kauft, hält und verkauft. Bei
+geringer Handelsaktivität (maximal 4 Transaktionen pro Jahr) gelten besondere steuerliche Regelungen und
+Optimierungsmöglichkeiten.
 
 ## Steuerliche Grundlagen
 
@@ -16,7 +19,8 @@ Eine vermögensverwaltende UG ist eine Kapitalgesellschaft, die Wertpapiere (Akt
 
 #### Teileinkünfteverfahren vs. Abgeltungsteuer
 
-**Wichtig:** Als Kapitalgesellschaft (UG) gilt NICHT die Abgeltungsteuer von 25%, sondern das **Teileinkünfteverfahren**.
+**Wichtig:** Als Kapitalgesellschaft (UG) gilt NICHT die Abgeltungsteuer von 25%, sondern das
+**Teileinkünfteverfahren**.
 
 - **Körperschaftsteuer:** 15% + 5,5% Solidaritätszuschlag = **15,825%**
 - **Gewerbesteuer:** Abhängig vom Hebesatz der Gemeinde (durchschnittlich ca. 14%)
@@ -27,17 +31,20 @@ Eine vermögensverwaltende UG ist eine Kapitalgesellschaft, die Wertpapiere (Akt
 **§ 8b KStG - Beteiligungsprivileg:**
 
 Bei Dividenden aus Aktienbesitz gilt eine **95%-ige Steuerfreiheit**:
+
 - 95% der Dividendenerträge sind steuerfrei
 - Nur 5% werden besteuert
 - **Effektive Steuerbelastung:** ca. 1,5-2% auf Dividenden
 
 **Voraussetzungen:**
+
 - Anteile an Kapitalgesellschaften (Aktien, nicht Fonds-Anteile)
 - Gilt für in- und ausländische Dividenden
 - Keine Mindestbeteiligungsquote erforderlich
 
 **Beispielrechnung Dividende:**
-```
+
+```text
 Dividendenertrag:           10.000 €
 Steuerfrei (95%):           9.500 €
 Steuerpflichtig (5%):         500 €
@@ -45,17 +52,19 @@ Körperschaftsteuer (15,825%): 79 €
 Gewerbesteuer (ca. 14%):      70 €
 Gesamtsteuer:                149 €
 Effektive Belastung:        1,49%
-```
+```text
 
 #### Steuerliche Behandlung von Kursgewinnen
 
 **Veräußerungsgewinne aus Aktien:**
+
 - 95%-ige Steuerfreiheit gemäß § 8b Abs. 2 KStG
 - Nur 5% werden besteuert
 - **Effektive Steuerbelastung:** ca. 1,5-2% auf Kursgewinne
 
 **Beispielrechnung Kursgewinn:**
-```
+
+```text
 Kaufpreis:                  100.000 €
 Verkaufspreis:              120.000 €
 Gewinn:                      20.000 €
@@ -65,7 +74,7 @@ Körperschaftsteuer:            158 €
 Gewerbesteuer:                 140 €
 Gesamtsteuer:                  298 €
 Effektive Belastung:         1,49%
-```
+```text
 
 #### Steuerliche Behandlung von ETFs
 
@@ -74,20 +83,23 @@ Effektive Belastung:         1,49%
 Die steuerliche Behandlung hängt von der Art des ETFs ab:
 
 **Aktien-ETFs:**
+
 - Gewinne aus Aktien-ETFs: **KEINE** 95%-Freistellung
 - Volle Besteuerung mit Körperschaftsteuer + Gewerbesteuer
 - **Effektive Belastung:** ca. 30-32%
 
 **Ausschüttungen von Aktien-ETFs:**
+
 - Teilfreistellung nach § 20 InvStG: **30% steuerfrei**
 - 70% sind steuerpflichtig
 - **Effektive Belastung:** ca. 21-22%
 
 **Unterschied:**
-```
+
+```text
 Direktaktie:      1,5% effektive Steuer auf Gewinne
 Aktien-ETF:      21-32% effektive Steuer auf Gewinne
-```
+```text
 
 **Wichtige Erkenntnis:** Bei vermögensverwaltender UG sind **Einzelaktien steuerlich deutlich günstiger als ETFs**.
 
@@ -98,11 +110,13 @@ Aktien-ETF:      21-32% effektive Steuer auf Gewinne
 Bei reiner Vermögensverwaltung (nicht gewerblicher Wertpapierhandel) kann die **erweiterte Kürzung** greifen:
 
 **Voraussetzungen:**
+
 - Reine Verwaltung eigenen Vermögens
 - Keine gewerbsmäßige Tätigkeit
 - Kein aktiver Handel (wichtig: max. 4 Transaktionen/Jahr spricht dafür)
 
 **Vorteil:**
+
 - Gewerbesteuer kann vollständig oder teilweise entfallen
 - Nur Körperschaftsteuer bleibt
 - **Effektive Belastung sinkt auf ca. 15,825%**
@@ -123,18 +137,20 @@ Bei reiner Vermögensverwaltung (nicht gewerblicher Wertpapierhandel) kann die *
 #### Verluste aus Aktienverkäufen
 
 **§ 8b Abs. 3 KStG - 5% pauschale Betriebsausgaben:**
+
 - Auch bei Verlusten gelten 5% als steuerpflichtig
 - Verluste können nur zu 95% berücksichtigt werden
 - 5% sind nicht abzugsfähig
 
 **Beispiel Verlust:**
-```
+
+```text
 Kaufpreis:                  100.000 €
 Verkaufspreis:               80.000 €
 Verlust:                    -20.000 €
 Nicht abzugsfähig (5%):      -1.000 €
 Abzugsfähig (95%):         -19.000 €
-```
+```text
 
 #### Verlustvortrag und -rücktrag
 
@@ -147,12 +163,14 @@ Abzugsfähig (95%):         -19.000 €
 ### Strategie 1: Buy-and-Hold mit Einzelaktien
 
 **Optimale Vorgehensweise:**
+
 - Kauf von Einzelaktien statt ETFs
 - Langfristige Haltedauer (mehrere Jahre)
 - Fokus auf Dividendenaktien
 - Verkauf nur bei strategischen Gründen
 
 **Steuerliche Vorteile:**
+
 - Dividenden: ca. 1,5% Steuerbelastung
 - Kursgewinne: ca. 1,5% Steuerbelastung
 - Bei Vermögensverwaltung: keine Gewerbesteuer
@@ -161,29 +179,33 @@ Abzugsfähig (95%):         -19.000 €
 ### Strategie 2: Timing der Transaktionen
 
 **Jahresendgestaltung:**
+
 - Gewinne und Verluste im selben Jahr realisieren
 - Verlustaktien vor Jahresende verkaufen (Verlustverrechnungstopf)
 - Gewinnmitnahmen strategisch planen
 
 **Beispiel:**
-```
+
+```text
 Jahr 1:
 - 2 Käufe (Aktie A, Aktie B)
 - 1 Verkauf mit Gewinn: +10.000 €
 - 1 Verkauf mit Verlust: -5.000 €
 - Nettoresultat: +5.000 €
 - Steuer nur auf 5% = 250 € → ca. 40 € Steuerlast
-```
+```text
 
 ### Strategie 3: Dividendenstrategie
 
 **Fokus auf Dividendenaktien:**
+
 - Kauf dividendenstarker Aktien
 - Kein/kaum Verkauf nötig
 - Kontinuierliche Erträge
 - Minimale Transaktionskosten
 
 **Steuerliche Vorteile:**
+
 - Nur 1,5% Steuer auf Dividenden
 - Keine Realisierung von Kursgewinnen nötig
 - Weniger als 4 Transaktionen pro Jahr möglich
@@ -191,12 +213,14 @@ Jahr 1:
 ### Strategie 4: Thesaurierung vs. Ausschüttung
 
 **Gewinne in der UG belassen:**
+
 - 25% des Gewinns müssen in Rücklage (bis 25.000 € erreicht)
 - Restliche 75% können reinvestiert werden
 - Steuer fällt nur auf 5% des Gewinns an
 - **Effektive Belastung: 1,5%**
 
 **Ausschüttung an Gesellschafter:**
+
 - Zusätzlich: Abgeltungsteuer 25% + Soli 5,5% = **26,375%**
 - Gesamtbelastung: ca. **27-28%**
 - Teileinkünfteverfahren bei Gesellschafter-Geschäftsführer möglich
@@ -206,6 +230,7 @@ Jahr 1:
 ### Strategie 5: Wahl der Wertpapiere
 
 **Steueroptimale Reihenfolge:**
+
 1. **Deutsche Dividendenaktien** (z.B. DAX-Titel)
    - Keine Quellensteuer
    - 1,5% Effektivsteuer
@@ -233,12 +258,14 @@ Jahr 1:
 ### 1. Erlaubnispflicht nach KWG
 
 **Keine Lizenz erforderlich bei:**
+
 - Verwaltung eigenen Vermögens
 - Keine Fremdgeschäfte
 - Keine Kundengelder
 - Max. 4 Transaktionen/Jahr: eindeutig privat
 
 **BaFin-Lizenz erforderlich bei:**
+
 - Verwaltung fremden Vermögens
 - Gewerbsmäßiger Handel
 - Eigenhandel in großem Umfang
@@ -248,16 +275,19 @@ Jahr 1:
 ### 2. Geschäftskonto und Depotführung
 
 **Depot auf UG-Namen:**
+
 - Depot muss auf die UG lauten
 - Separate Verwahrung von Privatvermögen
 - Geschäftskonto für Liquidität
 
 **Banken für UG-Depots:**
+
 - Klassische Geschäftskundenbanken (Sparkasse, Volksbank)
 - Online-Broker teilweise für UG (Trade Republic Business, Scalable Capital)
 - Consorsbank, Comdirect (teilweise)
 
 **Kosten:**
+
 - Depotführungsgebühren: 0-100 €/Jahr
 - Transaktionskosten: 5-20 €/Trade
 - Bei 4 Trades/Jahr: ca. 20-80 € Transaktionskosten
@@ -267,11 +297,13 @@ Jahr 1:
 #### Pflichten bei Wertpapiergeschäften
 
 **Buchführung:**
+
 - Jede Transaktion einzeln buchen
 - Konto "Wertpapiere des Anlagevermögens" (bei Langfristanlage)
 - Konto "Wertpapiere des Umlaufvermögens" (bei kurzfristiger Anlage)
 
 **Dokumentation erforderlich:**
+
 - Kaufbelege (Wertpapierabrechnung)
 - Verkaufsbelege
 - Dividendenabrechnungen
@@ -279,6 +311,7 @@ Jahr 1:
 - Jahresendstand des Depots
 
 **Bewertung:**
+
 - Anschaffungskosten dokumentieren
 - Bei Verkauf: FIFO-Methode (First In, First Out) oder Durchschnittsmethode
 - Jahresende: Bewertung zu Anschaffungskosten oder niedrigerem Börsenkurs
@@ -286,23 +319,26 @@ Jahr 1:
 #### Buchungsbeispiele
 
 **Aktienkauf:**
-```
+
+```text
 Wertpapiere des Anlagevermögens    100.000 €
     an Bank                                    100.000 €
-```
+```text
 
 **Dividendeneingang:**
-```
+
+```text
 Bank                                5.000 €
     an Erträge aus Beteiligungen             5.000 €
-```
+```text
 
 **Aktienverkauf mit Gewinn:**
-```
+
+```text
 Bank                              120.000 €
     an Wertpapiere des AV                    100.000 €
     an Erträge aus Wertpapierverkauf          20.000 €
-```
+```text
 
 ### 4. Jahresabschluss
 
@@ -313,6 +349,7 @@ Bank                              120.000 €
 - **Bewertung:** Strenges Niederstwertprinzip
 
 **Praxis-Tipp:**
+
 - Depotauszug zum 31.12. als Nachweis
 - Liste aller An- und Verkäufe des Jahres
 - Berechnung der realisierten Gewinne/Verluste
@@ -322,17 +359,20 @@ Bank                              120.000 €
 #### Nachweise für Finanzamt
 
 **Jährlich einreichen:**
+
 - Jahresabschluss mit Wertpapierbestand
 - Aufstellung aller Käufe und Verkäufe
 - Dividendenbescheinigungen
 - Nachweis der Quellensteuer (bei ausländischen Aktien)
 
 **§ 8b KStG-Dokumentation:**
+
 - Liste der steuerfreien Dividenden (95%)
 - Liste der steuerfreien Veräußerungsgewinne (95%)
 - Separate Aufstellung in Steuererklärung
 
 **Anlage WA (Wertpapiere und Anteile):**
+
 - Teil der Körperschaftsteuererklärung
 - Detaillierte Angaben zu Beteiligungen
 
@@ -341,17 +381,20 @@ Bank                              120.000 €
 **§ 42 AO - Missbrauch steuerlicher Gestaltungsmöglichkeiten:**
 
 **Kritische Punkte:**
+
 - UG nur zur Steuerersparnis gegründet
 - Keine wirtschaftliche Substanz
 - Gesellschafter handelt faktisch privat
 
 **Absicherung:**
+
 - Echte gesellschaftsrechtliche Struktur
 - Separate Vermögensverwaltung
 - Dokumentierte Anlagestrategie
 - Gesellschafterbeschlüsse zu Investitionen
 
 **Best Practice:**
+
 - Jährliche Gesellschafterversammlung
 - Beschluss über Anlagestrategie
 - Dokumentation der Vermögensverwaltungstätigkeit
@@ -364,19 +407,23 @@ Bank                              120.000 €
 **Beispiel-Szenario:**
 
 **Januar:**
+
 - Kauf Aktie A (Deutsche Telekom): 25.000 €
 - Kauf Aktie B (Allianz): 25.000 €
 
 **Juni:**
+
 - Dividende von Aktie A: 1.000 €
 - Dividende von Aktie B: 1.500 €
 
 **Dezember:**
+
 - Verkauf Aktie A: 30.000 € (5.000 € Gewinn)
 - Kauf Aktie C (Siemens): 30.000 €
 
 **Steuerliche Auswirkung:**
-```
+
+```text
 Gewinn aus Verkauf:          5.000 €
 Steuerpflichtig (5%):          250 €
 Körperschaftsteuer:             40 €
@@ -386,7 +433,7 @@ Steuerpflichtig (5%):          125 €
 Körperschaftsteuer:             20 €
 
 Gesamtsteuerlast:              60 €
-```
+```text
 
 **Transaktionen: 4** (2 Käufe + 1 Verkauf + 1 Kauf = 4)
 
@@ -412,6 +459,7 @@ Gesamtsteuerlast:              60 €
    - 1-2 Umschichtungen
 
 **Langfristziel:**
+
 - 8-12 Einzelaktien im Portfolio
 - Jährliche Dividendenrendite: 3-5%
 - Minimale Transaktionen
@@ -434,6 +482,7 @@ Gesamtsteuerlast:              60 €
 | Cash / Liquidität | - | - | 5% |
 
 **Charakteristika:**
+
 - Deutsche Qualitätsaktien (DAX)
 - Hohe Dividendenrendite (Ø 4%)
 - Langfristige Stabilität
@@ -452,6 +501,7 @@ Gesamtsteuerlast:              60 €
 | ETF-Gewinne | 26,375% | 30-32% |
 
 **Bei Ausschüttung an Gesellschafter:**
+
 - Zusätzlich 26,375% Abgeltungsteuer
 - **Gesamtbelastung:** ca. 27-28%
 - Immer noch vergleichbar mit Privatvermögen
@@ -459,12 +509,14 @@ Gesamtsteuerlast:              60 €
 ### Wann lohnt sich eine UG?
 
 **UG lohnt sich bei:**
+
 - Langfristiger Anlagestrategie (>10 Jahre)
 - Einzelaktien-Portfolio
 - Thesaurierung der Gewinne
 - Höherem Vermögen (>100.000 €)
 
 **UG lohnt sich NICHT bei:**
+
 - ETF-Strategie
 - Kurzfristigem Trading
 - Sofortiger Gewinnausschüttung gewünscht
@@ -473,12 +525,14 @@ Gesamtsteuerlast:              60 €
 **Break-Even-Analyse:**
 
 Laufende Kosten UG:
+
 - Steuerberater: 1.500-2.500 €/Jahr
 - Buchführung: 500-1.000 €/Jahr
 - IHK/Versicherungen: 500 €/Jahr
 - **Gesamt: ca. 2.500-4.000 €/Jahr**
 
 Steuerersparnis bei 100.000 € Portfolio mit 5% Rendite:
+
 - Rendite: 5.000 €
 - Steuerersparnis: ca. 24,875% (26,375% - 1,5%)
 - **Ersparnis: ca. 1.244 €/Jahr**
@@ -492,11 +546,13 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 ### 1. Umqualifizierung in gewerblichen Handel
 
 **Risiko:**
+
 - Finanzamt stuft Tätigkeit als gewerblichen Handel ein
 - Volle Gewerbesteuer
 - Rückwirkende Steuernachzahlung
 
 **Vermeidung:**
+
 - Max. 4 Transaktionen/Jahr einhalten
 - Langfristige Haltedauer dokumentieren
 - Dividendenstrategie nachweisen
@@ -505,11 +561,13 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 ### 2. Verdeckte Gewinnausschüttung (vGA)
 
 **Risiko:**
+
 - Gesellschafter nutzt UG-Vermögen privat
 - Private Kosten über UG abgerechnet
 - Nicht angemessene Gehälter
 
 **Vermeidung:**
+
 - Strikte Trennung Privat/Geschäftlich
 - Angemessene Geschäftsführervergütung
 - Gesellschafterbeschlüsse dokumentieren
@@ -517,11 +575,13 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 ### 3. Cash-Pooling mit Privatvermögen
 
 **Risiko:**
+
 - Vermischung von UG- und Privatvermögen
 - Darlehen zwischen Gesellschafter und UG
 - Fremdübliche Konditionen nicht eingehalten
 
 **Vermeidung:**
+
 - Separate Konten und Depots
 - Darlehen nur mit Vertrag und Zinsen
 - Marktübliche Konditionen
@@ -529,11 +589,13 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 ### 4. Fehlende wirtschaftliche Substanz
 
 **Risiko:**
+
 - UG existiert nur auf dem Papier
 - Keine echte Vermögensverwaltung
 - Gestaltungsmissbrauch § 42 AO
 
 **Vermeidung:**
+
 - Echte Geschäftsadresse
 - Regelmäßige Gesellschafterversammlungen
 - Dokumentierte Anlagestrategie
@@ -542,6 +604,7 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 ## Checkliste Vermögensverwaltende UG
 
 ### Gründung und Setup
+
 - [ ] UG gegründet mit ausreichend Stammkapital (empfohlen: 25.000 €)
 - [ ] Geschäftskonto eröffnet
 - [ ] Depot auf UG-Namen eröffnet
@@ -550,6 +613,7 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 - [ ] Anlagestrategie dokumentiert
 
 ### Laufender Betrieb
+
 - [ ] Max. 4 Transaktionen pro Jahr einhalten
 - [ ] Alle Wertpapiertransaktionen dokumentieren
 - [ ] Depotauszüge quartalsweise archivieren
@@ -557,12 +621,14 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 - [ ] Trennung Privat-/Geschäftsvermögen sicherstellen
 
 ### Buchführung
+
 - [ ] Jede Transaktion zeitnah buchen
 - [ ] Wertpapierbestand aktualisieren
 - [ ] FIFO-Methode für Verkäufe anwenden
 - [ ] Jahresendbestand mit Depotauszug abgleichen
 
 ### Steuerliche Optimierung
+
 - [ ] Einzelaktien statt ETFs bevorzugen
 - [ ] § 8b KStG-Freistellung prüfen
 - [ ] Dividendenstrategie umsetzen
@@ -570,6 +636,7 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 - [ ] Verlustverkäufe vor Jahresende prüfen
 
 ### Jahresabschluss
+
 - [ ] Wertpapierbestand zum 31.12. dokumentieren
 - [ ] Bewertung nach Niederstwertprinzip
 - [ ] Aufstellung aller Transaktionen erstellen
@@ -577,6 +644,7 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 - [ ] Gesellschafterversammlung durchführen
 
 ### Compliance
+
 - [ ] Keine BaFin-Lizenz erforderlich (regelmäßig prüfen)
 - [ ] Vermeidung Gestaltungsmissbrauch
 - [ ] Angemessene Geschäftsführervergütung
@@ -631,8 +699,12 @@ Ab 500.000 € Portfolio: **Sehr rentabel**
 
 ## Haftungsausschluss
 
-Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Steuerberatung dar. Die steuerliche Behandlung von Wertpapiergeschäften ist komplex und kann sich durch Gesetzesänderungen oder unterschiedliche Auslegung durch Finanzämter ändern. 
+Diese Informationen dienen ausschließlich der allgemeinen Information und stellen keine Steuerberatung dar. Die
+steuerliche Behandlung von Wertpapiergeschäften ist komplex und kann sich durch Gesetzesänderungen oder unterschiedliche
+Auslegung durch Finanzämter ändern.
 
-Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater mit Erfahrung in § 8b KStG und vermögensverwaltenden Kapitalgesellschaften konsultieren. Die Informationen wurden nach bestem Wissen zusammengestellt, jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
+Für Ihre konkrete Situation sollten Sie unbedingt einen Steuerberater mit Erfahrung in § 8b KStG und
+vermögensverwaltenden Kapitalgesellschaften konsultieren. Die Informationen wurden nach bestem Wissen zusammengestellt,
+jedoch wird keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität übernommen.
 
 **Stand:** Februar 2026 | **Rechtsstand:** Deutschland
