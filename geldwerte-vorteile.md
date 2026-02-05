@@ -112,6 +112,7 @@ Einkommensteuer (42%): ca. 630 €/Jahr
 **Steuerliche Behandlung:**
 
 Gleiche Regelungen wie bei UG:
+
 - 1%-Regelung oder Fahrtenbuch
 - E-Auto-Sonderregelung (0,25%)
 - Geldwerter Vorteil beim Empfänger zu versteuern
@@ -558,7 +559,7 @@ Geldwerter Vorteil versteuert: ca. 4.385 € Steuer
 → Netto-Ersparnis: ca. 13.615 €/Jahr
 ```
 
-3. **Optimale Mischung:**
+1. **Optimale Mischung:**
    - Niedriges Gehalt (z.B. 3.000 €/Monat)
    - Maximale geldwerte Vorteile
    - Rest als Gewinnthesaurierung in UG (1,5% Steuer)
@@ -620,12 +621,14 @@ Bei thesauriertem Gewinn (keine Ausschüttung):
 **2. Keine Sozialversicherung:**
 
 Bei Gesellschafter-Geschäftsführern:
+
 - Keine Sozialversicherungsbeiträge auf geldwerte Vorteile
 - Ersparnis: ca. 20% der Bemessungsgrundlage
 
 **3. Vorsteuerabzug:**
 
 UG kann Vorsteuer geltend machen:
+
 - 19% USt auf viele Leistungen zurückholen
 - Firmenwagen, Technik, Weiterbildung
 - **Zusätzliche Ersparnis:** ca. 19% der Nettokosten
@@ -654,6 +657,7 @@ Effektive Kosten: 6.747 €
 **2. Betriebsausgabenabzug:**
 
 Alle angemessenen Ausgaben für Organe und Destinatäre:
+
 - Vorstandsvergütungen
 - Versicherungen
 - Weiterbildungen
@@ -884,16 +888,19 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **1. Verdeckte Gewinnausschüttung (vGA):**
 
 **Risiko:**
+
 - Geldwerte Vorteile nicht angemessen
 - Gesellschafter-Geschäftsführer erhält überhöhte Leistungen
 - Keine Fremdüblichkeit
 
 **Folgen:**
+
 - Nachversteuerung bei UG (30%)
 - Kapitalertragsteuer beim Gesellschafter (26,375%)
 - Strafzinsen
 
 **Vermeidung:**
+
 - Fremdvergleich durchführen
 - Gesellschafterbeschlüsse
 - Angemessenheit prüfen
@@ -902,10 +909,12 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **2. Sozialversicherungspflicht:**
 
 **Risiko:**
+
 - Nachträgliche Einstufung als sozialversicherungspflichtig
 - Hohe Nachzahlungen
 
 **Vermeidung:**
+
 - Statusfeststellungsverfahren bei Rentenversicherung
 - Beherrschenden Einfluss sicherstellen (>50% Anteile)
 - Weisungsfreiheit dokumentieren
@@ -913,10 +922,12 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **3. Überhöhte Geschäftsführervergütung:**
 
 **Risiko:**
+
 - Finanzamt erkennt Gehaltsbestandteile nicht an
 - Verdeckte Gewinnausschüttung
 
 **Vermeidung:**
+
 - Branchenvergleich (5-10% des Umsatzes)
 - Angemessenheitsgutachten bei hohen Gehältern
 - Gesellschafterbeschluss vor Zahlung
@@ -926,11 +937,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **1. Stiftungsaufsicht:**
 
 **Risiko:**
+
 - Aufsicht beanstandet unangemessene Leistungen
 - Verstoß gegen Stiftungszweck
 - Auflösung der Stiftung
 
 **Vermeidung:**
+
 - Satzungskonformität prüfen
 - Angemessenheit sicherstellen
 - Transparenz gegenüber Aufsicht
@@ -939,11 +952,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **2. Sittenwidrigkeit:**
 
 **Risiko:**
+
 - Stiftung nur zur Steuerumgehung gegründet
 - Keine wirtschaftliche Substanz
 - § 42 AO Gestaltungsmissbrauch
 
 **Vermeidung:**
+
 - Echte Stiftungszwecke
 - Langfristige Ausrichtung
 - Familie/Generationen beteiligen
@@ -952,11 +967,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 **3. Übermäßige Ausschüttungen:**
 
 **Risiko:**
+
 - Stiftungsvermögen wird aufgezehrt
 - Zweck nicht mehr erfüllbar
 - Insolvenz der Stiftung
 
 **Vermeidung:**
+
 - Ausschüttungsrichtlinien
 - Vermögenserhalt sicherstellen
 - Nachhaltige Strategie
@@ -1049,11 +1066,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 #### Gesellschafter-Geschäftsführer
 
 **Empfehlung:**
+
 - Gehalt: 30.000-50.000 €/Jahr
 - Geldwerte Vorteile: 10.000-15.000 €/Jahr
 - Gewinne in UG thesaurieren und reinvestieren
 
 **Vorteile:**
+
 - Niedrige Einkommensteuer
 - Hohe Steuerersparnis bei geldwerten Vorteilen
 - Vermögensaufbau in UG mit 1,5% Steuer
@@ -1061,11 +1080,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 #### Designer/Kreative als Geschäftsführer
 
 **Empfehlung:**
+
 - Gehalt: 40.000-60.000 €/Jahr
 - Geldwerte Vorteile: 8.000-12.000 €/Jahr (Fokus: Technik, Software, Weiterbildung)
 - Homeoffice-Ausstattung maximal nutzen
 
 **Vorteile:**
+
 - Berufsspezifische Ausstattung steuerfrei
 - Weiterbildung voll absetzbar
 - Flexible Gestaltung
@@ -1073,11 +1094,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 #### Vorstand/Stiftungsrat
 
 **Empfehlung:**
+
 - Angemessene Vergütung
 - Versicherungen (D&O) durch Stiftung
 - Weiterbildung in Vermögensverwaltung
 
 **Vorteile:**
+
 - Haftungsabsicherung
 - Professionelle Fortbildung
 - Angemessene Vergütung
@@ -1085,11 +1108,13 @@ Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 #### Destinatäre
 
 **Empfehlung:**
+
 - Sachleistungen statt Barausschüttungen (wo möglich)
 - Immobilienüberlassung nutzen
 - Bildungsförderung für jüngere Generation
 
 **Vorteile:**
+
 - Günstigere Besteuerung
 - Kontinuierliche Versorgung
 - Vermögen bleibt in Stiftung
