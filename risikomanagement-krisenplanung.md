@@ -662,7 +662,7 @@ Gesetz ändert sich (z.B. § 8b KStG wird abgeschafft oder deutlich eingeschrän
 
 **Digital:**
 
-- Verschlüsselter Cloud-Specher (z.B. Tresorit, Boxcryptor + Dropbox)
+- Verschlüsselter Cloud-Speicher (z.B. Tresorit, Boxcryptor + Dropbox)
 - Externe Festplatte (verschlüsselt, an sicherem Ort)
 - Backup bei Vertrauensperson
 

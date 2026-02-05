@@ -590,7 +590,7 @@ Die Compliance- und Meldepflichten steigen deutlich mit der Komplexität der Rec
 
 Für Compliance-Fragen empfehlen wir:
 
-- **Steuerberater:** Für alle steuerlichen und buchalterischen Pflichten
+- **Steuerberater:** Für alle steuerlichen und buchhalterischen Pflichten
 - **Rechtsanwalt:** Für Gesellschaftsrecht, Satzungsänderungen, Transparenzregister
 - **Wirtschaftsprüfer:** Für größere Stiftungen (freiwillige Prüfung)
 
