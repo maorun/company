@@ -1046,7 +1046,7 @@ Steuerersparnis UG:             +40.800 € (35%)
 
 #### Abgrenzung: Vermögensverwaltung vs. Gewerblicher Handel
 
-**Vermögensverwaltung (kein Gewerbesteuerpflichtig):**
+**Vermögensverwaltung (nicht gewerbesteuerpflichtig):**
 
 - Langfristige Beteiligungen (Haltedauer >1 Jahr)
 - Passive Rolle als Investor
@@ -1832,7 +1832,7 @@ Möglichkeit zur Steueroptimierung und gleichzeitigem Know-how-Aufbau!
 | **Internationale Optimierung** | Große Vermögen | Mittel | Hoch |
 | **Startup-Beteiligungen** | UG/Stiftung | Sehr hoch (1,5% statt 27%) | Mittel-Hoch |
 | **IP/Lizenzeinnahmen** | UG/Stiftung | Hoch (15,8% statt 42%) | Mittel |
-| **Stille Beteiligungen** | Bedingt | Gering | Mittel |
+| **Stille Beteiligungen** | Nicht empfohlen | Gering (kein § 8b) | Mittel |
 | **Weiterbildung** | UG/Stiftung | Mittel (30% Ersparnis) | Niedrig |
 
 ### Kernempfehlungen
