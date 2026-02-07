@@ -401,25 +401,25 @@ Gesetzliche Regelungen können sich ändern.
 
 **Aktienkauf:**
 
-```text
+```
 Wertpapiere des Anlagevermögens    100.000 €
     an Bank                                    100.000 €
-```text
+```
 
 **Dividendeneingang:**
 
-```text
+```
 Bank                                5.000 €
     an Erträge aus Beteiligungen             5.000 €
-```text
+```
 
 **Aktienverkauf mit Gewinn:**
 
-```text
+```
 Bank                              120.000 €
     an Wertpapiere des AV                    100.000 €
     an Erträge aus Wertpapierverkauf          20.000 €
-```text
+```
 
 ### Familienstiftung (1)
 
