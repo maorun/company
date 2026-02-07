@@ -19,6 +19,21 @@ Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersat
 
 ## Dokumentation
 
+### 🏢 [Holdingstrukturen und Multi-Entity-Modelle - Vergleich der Rechtsformen](./holdingstrukturen.md)
+
+**Umfassende Darstellung von Holdingstrukturen** und deren steuerlichen Vorteilen:
+
+- **95%-Steuerfreistellung**: Dividenden zwischen Konzerngesellschaften (§ 8b KStG)
+- **UG/GmbH als Holding**: Effektive Steuerbelastung 0,79-1,5% (statt 15,825%)
+- **Familienstiftung als Holding**: Generationenübergreifender Vermögensschutz
+- **Familien-GbR als Holding**: Alternative Rechtsform für Familienstrukturen
+- **Organschaft**: Verlustverrechnung innerhalb der Unternehmensgruppe
+- **Internationale Holdingstrukturen**: EU-Richtlinien und Doppelbesteuerungsabkommen
+- **IP-Holding Modelle**: Lizenzeinnahmen steueroptimiert strukturieren
+- **7 Praxisbeispiele**: Start-up Gründer, vermögender Angestellter, Familienvermögen, etc.
+- **Vergleichstabellen**: Alle Holding-Rechtsformen im Vergleich
+- **Checkliste**: Schritt-für-Schritt zur eigenen Holding-Struktur
+
 ### 🚀 [Weitere Möglichkeiten - Zusätzliche Vorteile von UG und Stiftung](./weitere-moeglichkeiten.md)
 
 **Erweiterte Strategien über Wertpapiere hinaus** - Zusätzliche Profitmöglichkeiten mit UG und Familienstiftung:
