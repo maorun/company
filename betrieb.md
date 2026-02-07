@@ -652,12 +652,15 @@ Bank                              120.000 €
 1. **UG lohnt sich ab:**
    - Jährliche Dividenden: **~15.000-20.000 €**
    - Oder Vermögen: **~150.000-200.000 €** (bei 10% Dividendenrendite)
-   - Rechnung: Mehrkosten UG (ca. 3.150 €) geteilt durch Steuersatzdifferenz (0,20) = ~15.750 € Break-Even
+   - Rechnung: Mehrkosten UG (3.500 € - 350 € = 3.150 €) geteilt durch Steuersatzdifferenz (0,20) = 15.750 €
+   - Die Spanne 15.000-20.000 € berücksichtigt Variation bei tatsächlichen Kosten
 
 2. **Familienstiftung lohnt sich ab:**
    - Jährliche Dividenden: **~25.000-30.000 €** (vs. Privatvermögen)
    - Oder Vermögen: **~300.000-400.000 €**
-   - Rechnung: Mehrkosten Stiftung (ca. 5.650 €) geteilt durch Steuersatzdifferenz (0,21) = ~26.900 € Break-Even
+   - Rechnung: Mehrkosten Stiftung (6.000 € - 350 € = 5.650 €) geteilt durch Steuersatzdifferenz (0,21) = 26.900 €
+   - Steuersatzdifferenz: Privatvermögen 26,375% minus Stiftung 0,79% minus Kosten = ~21% effektiver Vorteil
+   - Die Spanne 25.000-30.000 € berücksichtigt Variation bei tatsächlichen Kosten
    - Zusätzliche Faktoren: Generationenplanung, langfristiger Vermögensschutz
 
 3. **Stiftung vs. UG lohnt sich ab:**
@@ -680,7 +683,8 @@ Bank                              120.000 €
 
 - **UG:** ~180.000-250.000 € Steuerersparnis → **Nettovorteil: ~75.000-145.000 €**
 - **Stiftung:** ~200.000-280.000 € Steuerersparnis → **Nettovorteil: ~-10.000 bis +70.000 €**
-  - *Hinweis: Negativer Wert bei niedrigeren Dividenden (< 30.000 €/Jahr), positiver Wert bei höheren Erträgen*
+  - *Hinweis: Bei durchschnittlichen Dividenden < 27.000 €/Jahr negativer Wert, darüber deutlich positiv*
+  - *Break-Even: ca. 26.900 € jährliche Dividenden (siehe Rechnung oben)*
 - Plus: Keine Erbschaftsteuer bei Generationenwechsel (kann 100.000+ € sein!)
 
 #### Empfehlungen nach Vermögensgröße
