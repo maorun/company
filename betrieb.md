@@ -643,21 +643,21 @@ Bank                              120.000 €
 
 **Steuerersparnis nach Kosten:**
 
-- **UG vs. Privatvermögen:** 18.235 € mehr pro Jahr (Faktor: **5,2x** höhere Kosten, aber deutlich höherer Vorteil)
-- **Stiftung vs. Privatvermögen:** 19.940 € mehr pro Jahr (Faktor: **17x** höhere Kosten, aber höchster Vorteil)
-- **Stiftung vs. UG:** 1.700 € mehr pro Jahr (Faktor: **1,7x** höhere Kosten für geringen Mehrwert)
+- **UG vs. Privatvermögen:** 18.235 € mehr pro Jahr (Mehrkosten: 3.150 €, aber 21.385 € Steuerersparnis)
+- **Stiftung vs. Privatvermögen:** 19.940 € mehr pro Jahr (Mehrkosten: 5.650 €, aber 25.590 € Steuerersparnis)
+- **Stiftung vs. UG:** 1.700 € mehr pro Jahr (Mehrkosten: 2.500 €, aber 4.200 € zusätzliche Steuerersparnis)
 
 **Break-Even-Berechnungen:**
 
 1. **UG lohnt sich ab:**
    - Jährliche Dividenden: **~15.000-20.000 €**
    - Oder Vermögen: **~150.000-200.000 €** (bei 10% Dividendenrendite)
-   - Rechnung: Mehrkosten UG (ca. 3.150 €) / Steuervorteil (ca. 20%) = ~15.750 € Break-Even
+   - Rechnung: Mehrkosten UG (ca. 3.150 €) geteilt durch Steuersatzdifferenz (0,20) = ~15.750 € Break-Even
 
 2. **Familienstiftung lohnt sich ab:**
    - Jährliche Dividenden: **~25.000-30.000 €** (vs. Privatvermögen)
    - Oder Vermögen: **~300.000-400.000 €**
-   - Rechnung: Mehrkosten Stiftung (ca. 5.650 €) / Steuervorteil (ca. 21%) = ~26.900 € Break-Even
+   - Rechnung: Mehrkosten Stiftung (ca. 5.650 €) geteilt durch Steuersatzdifferenz (0,21) = ~26.900 € Break-Even
    - Zusätzliche Faktoren: Generationenplanung, langfristiger Vermögensschutz
 
 3. **Stiftung vs. UG lohnt sich ab:**
@@ -680,6 +680,7 @@ Bank                              120.000 €
 
 - **UG:** ~180.000-250.000 € Steuerersparnis → **Nettovorteil: ~75.000-145.000 €**
 - **Stiftung:** ~200.000-280.000 € Steuerersparnis → **Nettovorteil: ~-10.000 bis +70.000 €**
+  - *Hinweis: Negativer Wert bei niedrigeren Dividenden (< 30.000 €/Jahr), positiver Wert bei höheren Erträgen*
 - Plus: Keine Erbschaftsteuer bei Generationenwechsel (kann 100.000+ € sein!)
 
 #### Empfehlungen nach Vermögensgröße
