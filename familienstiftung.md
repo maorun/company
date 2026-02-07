@@ -97,6 +97,7 @@ Destinatäre der Stiftung sind:
 2. Der Ehegatte des Stifters
 3. Alle Abkömmlinge des Stifters
 4. Die Ehegatten der Abkömmlinge des Stifters
+
 ```text
 
 #### Vorstand und Gremien erweitern
@@ -310,6 +311,7 @@ Freibetrag (2 Kinder):        -800.000 €
 Steuerpflichtiges Vermögen:    200.000 €
 Steuersatz:                         11%
 Erbschaftsteuerersatz:          22.000 €
+
 ```text
 
 **Steuerliche Belastung:**
@@ -372,6 +374,7 @@ Ausschüttung an Destinatär:    10.000 €
 Kapitalertragsteuer (25%):      2.500 €
 Solidaritätszuschlag (5,5%):      137 €
 Netto beim Destinatär:          7.363 €
+
 ```text
 
 ### Steueroptimierung
@@ -894,6 +897,7 @@ anzulegen. Eine Anlage in Wertpapieren (Aktien, ETFs) ist zulässig.
 
 Der Vorstand soll eine langfristige Anlagestrategie verfolgen mit maximal 
 4 Wertpapiertransaktionen pro Kalenderjahr.
+
 ```text
 
 ## Vergleich: Familienstiftung vs. andere Rechtsformen

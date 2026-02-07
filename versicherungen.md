@@ -488,6 +488,7 @@ Schmerzensgeld:                   80.000 €
 Anwalts-/Gerichtskosten:          20.000 €
 ──────────────────────────────────────────
 GESAMT:                           450.000 €
+
 ```text
 
 **Ohne Versicherung:**
@@ -520,6 +521,7 @@ Anwaltskosten der Gläubiger:               15.000 €
 Eigene Anwaltskosten:                      10.000 €
 ──────────────────────────────────────────────────
 GESAMT:                                    105.000 €
+
 ```text
 
 **Ohne D&O-Versicherung:**
@@ -552,6 +554,7 @@ Anwalts- und Gerichtskosten:               30.000 €
 Forensik und Aufklärung:                   20.000 €
 ──────────────────────────────────────────────────
 GESAMT:                                    350.000 €
+
 ```text
 
 **Ohne Vertrauensschadenversicherung:**
@@ -596,6 +599,7 @@ GESAMT:                                    350.000 €
 Ohne Selbstbehalt:   800 € pro Jahr
 Mit 5.000 € SB:      500 € pro Jahr
 Ersparnis:           300 € pro Jahr
+
 ```text
 
 **Achtung:** Bei GmbH/UG ist Selbstbehalt gesetzlich vorgeschrieben (mind. 10%)!

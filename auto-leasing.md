@@ -46,6 +46,7 @@ E-Autos/Hybriden unter Bedingungen)
 Privatnutzung: 1% × 50.000 € = 500 €/Monat
 Fahrten Wohnung-Arbeit: 0,03% × 50.000 € × 20 km = 300 €/Monat
 Geldwerter Vorteil gesamt: 800 €/Monat = 9.600 €/Jahr
+
 ```text
 
 **Zu versteuern:**
@@ -61,6 +62,7 @@ Die genauere, aber aufwendigere Methode.
 
 ```text
 Geldwerter Vorteil = (Gesamtkosten × Private Fahrten) / Gesamtfahrleistung
+
 ```text
 
 **Gesamtkosten umfassen:**
@@ -80,6 +82,7 @@ Gesamtkosten pro Jahr:        18.000 €
 Gesamtfahrleistung:          30.000 km
 Private Fahrten:             10.000 km
 Geldwerter Vorteil: (18.000 € × 10.000 km) / 30.000 km = 6.000 €/Jahr
+
 ```text
 
 **Zu versteuern:** 6.000 € × persönlicher Steuersatz
@@ -111,6 +114,7 @@ Bei reinen Elektrofahrzeugen (Anschaffung bis 31.12.2030):
 Privatnutzung: 0,25% × 55.000 € = 137,50 €/Monat
 Fahrten Wohnung-Arbeit: 0,0075% × 55.000 € × 20 km = 82,50 €/Monat
 Geldwerter Vorteil gesamt: 220 €/Monat = 2.640 €/Jahr
+
 ```text
 
 **Zu versteuern:** 2.640 € × persönlicher Steuersatz (statt 9.600 € bei Verbrenner!)
@@ -146,6 +150,7 @@ Geldwerter Vorteil gesamt: 220 €/Monat = 2.640 €/Jahr
 Anschaffungswert: 50.000 € (netto)
 Abschreibung (linear): 50.000 € / 6 Jahre = 8.333 € pro Jahr
 Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
+
 ```text
 
 **Beispielrechnung erste 3 Jahre:**
@@ -182,6 +187,7 @@ Betriebsausgaben: Wartung, Versicherung, Kfz-Steuer, Treibstoff
 Leasingrate: 650 € pro Monat (netto)
 Betriebsausgaben: 650 € × 12 = 7.800 € pro Jahr
 Zusätzlich: Wartung, Versicherung, Treibstoff als Betriebsausgaben
+
 ```text
 
 **Beispielrechnung erste 3 Jahre:**
@@ -228,6 +234,7 @@ Zusätzlich: Wartung, Versicherung, Treibstoff als Betriebsausgaben
 
 ```text
 Erstattung: 15.000 km × 0,30 € = 4.500 € steuerfrei
+
 ```text
 
 **Für das Unternehmen:**
@@ -263,6 +270,7 @@ Gesamt:                         15.333 €
 Betriebsausgabe:                15.333 €
 Steuervorteil (30%):             4.600 €
 Nettokosten:                    10.733 €
+
 ```text
 
 **Für den Geschäftsführer (pro Jahr):**
@@ -272,6 +280,7 @@ Geldwerter Vorteil (1%-Regel):   9.600 €
 Steuerbelastung (42%):           4.032 €
 Sozialabgaben (20%):             1.920 €
 Gesamtbelastung:                 5.952 €
+
 ```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
@@ -291,6 +300,7 @@ Gesamtkosten:                   15.333 €
 Betriebsausgabe:                15.333 €
 Steuervorteil (30%):             4.600 €
 Nettokosten:                    10.733 €
+
 ```text
 
 **Für den Geschäftsführer (pro Jahr):**
@@ -301,6 +311,7 @@ Geldwerter Vorteil (Fahrtenbuch):
 Steuerbelastung (42%):           2.147 €
 Sozialabgaben (20%):             1.022 €
 Gesamtbelastung:                 3.169 €
+
 ```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
@@ -329,6 +340,7 @@ Gesamt:                         13.000 €
 Betriebsausgabe:                13.000 €
 Steuervorteil (30%):             3.900 €
 Nettokosten:                     9.100 €
+
 ```text
 
 **Für den Geschäftsführer (pro Jahr):**
@@ -338,6 +350,7 @@ Geldwerter Vorteil (1%-Regel):   9.600 €
 Steuerbelastung (42%):           4.032 €
 Sozialabgaben (20%):             1.920 €
 Gesamtbelastung:                 5.952 €
+
 ```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
@@ -364,6 +377,7 @@ Gesamt:                          9.100 €
 Betriebsausgabe:                 9.100 €
 Steuervorteil (30%):             2.730 €
 Nettokosten:                     6.370 €
+
 ```text
 
 **Für den Geschäftsführer (pro Jahr):**
@@ -373,6 +387,7 @@ Geldwerter Vorteil (0,25%-Regel): 2.640 €
 Steuerbelastung (42%):           1.109 €
 Sozialabgaben (20%):               528 €
 Gesamtbelastung:                 1.637 €
+
 ```text
 
 **Gesamtkosten (Unternehmen + Geschäftsführer):**
@@ -468,6 +483,7 @@ Zweck: Kundengespräch
 Auftraggeber/Kunde: Firma XY GmbH
 Besuchte Person: Herr Max Mustermann, Geschäftsführer
 Route: Büro Stuttgart → A8 → München Hauptbahnhof → A8 → Büro Stuttgart
+
 ```text
 
 ## Besonderheiten bei Geschäftsführern
@@ -524,6 +540,7 @@ Wenn ein Geschäftsführer mehrere Firmenfahrzeuge zur privaten Nutzung zur Verf
 Fahrzeug 1 (Hauptfahrzeug, 50.000 €): 1% = 500 €/Monat
 Fahrzeug 2 (Zweitfahrzeug, 30.000 €): 0,5% = 150 €/Monat
 Geldwerter Vorteil gesamt: 650 €/Monat = 7.800 €/Jahr
+
 ```text
 
 ## Versicherung und Haftung
@@ -607,6 +624,7 @@ Bei selbstverschuldeten Unfällen trägt der Geschäftsführer die
 Selbstbeteiligung in Höhe von [Betrag] €.
 
 Das Fahrzeug ist pfleglich zu behandeln und regelmäßig zu warten.
+
 ```text
 
 ### Gesellschafterbeschluss

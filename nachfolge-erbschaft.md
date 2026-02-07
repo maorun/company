@@ -41,6 +41,7 @@ Gesamte Erbschaftsteuer:      78.000 €
 
 Netto beim Erben:             922.000 €
 Steuerbelastung:              7,8%
+
 ```text
 
 **Bei 2 Kindern:**
@@ -54,6 +55,7 @@ Erbschaftsteuer pro Kind:     11.000 €
 Gesamte Erbschaftsteuer:      22.000 €
 
 Steuerbelastung:              2,2%
+
 ```text
 
 ### Unternehmergesellschaft (UG)
@@ -83,6 +85,7 @@ Zu versteuern:                600.000 €
 
 Erbschaftsteuer:              78.000 €
 Steuerbelastung:              7,8%
+
 ```text
 
 **⚠️ Wichtig:** Bei reiner Wertpapier-UG gilt der Verschonungsabschlag **nicht**, da es sich um **Verwaltungsvermögen**
@@ -120,6 +123,7 @@ Erbschaftsteuerersatz (30%):  60.000 €
 
 Steuerbelastung alle 30 Jahre: 6,0%
 Jährliche Belastung:          0,2% (60.000 € / 30)
+
 ```text
 
 **Bei 3.000.000 € Stiftungsvermögen:**
@@ -133,6 +137,7 @@ Erbschaftsteuerersatz (30%):  660.000 €
 
 Steuerbelastung alle 30 Jahre: 22,0%
 Jährliche Belastung:          0,73% (660.000 € / 30)
+
 ```text
 
 **Vorteile der Familienstiftung:**
@@ -177,6 +182,7 @@ Jahr 1:  Schenkung 400.000 € an Kind (steuerfrei)
 Jahr 11: Schenkung 400.000 € an Kind (steuerfrei)
 Jahr 21: Schenkung 400.000 € an Kind (steuerfrei)
 Gesamt: 1.200.000 € übertragen in 20 Jahren ohne Steuer
+
 ```text
 
 **Herausforderungen:**
@@ -223,6 +229,7 @@ Gesamt: 1.200.000 € übertragen in 20 Jahren ohne Steuer
 mit den übrigen Gesellschaftern und den Erben des verstorbenen 
 Gesellschafters fortgesetzt. Die Geschäftsanteile des verstorbenen 
 Gesellschafters gehen auf die im Testament benannten Erben über."
+
 ```text
 
 **3. Schrittweise Übergabe**
@@ -232,6 +239,7 @@ Jahr 1:  Übertragung 25% Geschäftsanteile (unter Freibetrag)
 Jahr 11: Übertragung 25% Geschäftsanteile
 Jahr 21: Übertragung 25% Geschäftsanteile
 Restliche 25%: Durch Testament
+
 ```text
 
 **Vorteile:**
@@ -272,6 +280,7 @@ Die Familienstiftung ist eine eigenständige Rechtsperson und überlebt den Tod 
 3. Alle leiblichen Kinder und Adoptivkinder des Stifters
 4. Alle leiblichen Nachkommen der unter 3. genannten Personen
 5. Zukünftige Ehepartner der unter 3. und 4. genannten Personen"
+
 ```text
 
 **Organbesetzung nach Tod des Stifters:**
@@ -286,6 +295,7 @@ Die Familienstiftung ist eine eigenständige Rechtsperson und überlebt den Tod 
 "Nach dem Tod des amtierenden Vorstands wird der älteste 
 volljährige Destinatär neuer Vorstand. Dieser kann durch 
 Beschluss des Stiftungsrats abberufen werden."
+
 ```text
 
 **Änderung der Destinatäre:**
@@ -333,6 +343,7 @@ Beschluss des Stiftungsrats abberufen werden."
 Vermögen:              1.000.000 €
 Gesetzlicher Erbteil:  50% (bei 2 Kindern)
 Pflichtteil:           25% = 250.000 €
+
 ```text
 
 **Pflichtteilsverzicht:**
@@ -361,6 +372,7 @@ Unternehmenswert:      1.000.000 €
 Erbe:                  Kind 1 erhält alle Anteile
 Pflichtteilsberechtigter: Kind 2
 Pflichtteilsanspruch:  125.000 € (25% von 500.000 €)
+
 ```text
 
 → Kind 1 muss 125.000 € an Kind 2 auszahlen, obwohl nur Geschäftsanteile geerbt!
@@ -387,6 +399,7 @@ Zeitpunkt:             Stiftung wird gegründet (Vermögen 1.000.000 €)
 Nach 1 Jahr Tod:       Pflichtteilsergänzung 90% = 225.000 €
 Nach 5 Jahren Tod:     Pflichtteilsergänzung 50% = 125.000 €
 Nach 10 Jahren Tod:    Keine Pflichtteilsansprüche mehr!
+
 ```text
 
 **Strategische Planung:**
@@ -408,6 +421,7 @@ Jahr 1:  Schenkung 400.000 € an Kind 1 (steuerfrei)
 Jahr 1:  Schenkung 400.000 € an Kind 2 (steuerfrei)
 Jahr 11: Schenkung 400.000 € an Kind 1 (steuerfrei)
 Jahr 11: Schenkung 400.000 € an Kind 2 (steuerfrei)
+
 ```text
 
 **Steuerersparnis:**
@@ -428,6 +442,7 @@ Jahr 1:  25% Geschäftsanteile an Kind übertragen (ca. 250.000 €, steuerfrei)
 Jahr 11: 25% Geschäftsanteile an Kind übertragen (steuerfrei)
 Jahr 21: 25% Geschäftsanteile an Kind übertragen (steuerfrei)
 Restliche 25%: Vererbung mit Freibetrag
+
 ```text
 
 **Vorteile:**
@@ -454,6 +469,7 @@ Jahr 1:  Gründung Familienstiftung mit 1.000.000 € (über Freibeträgen)
 Nach 10 Jahren: Keine Pflichtteilsansprüche mehr
 Nach 30 Jahren: Erbschaftsteuerersatz ca. 60.000 €
 Nach 60 Jahren: Erbschaftsteuerersatz ca. 150.000 € (bei Wertzuwachs)
+
 ```text
 
 **Steuerliche Gesamtbelastung über 60 Jahre:**

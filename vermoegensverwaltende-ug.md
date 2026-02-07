@@ -52,6 +52,7 @@ Körperschaftsteuer (15,825%): 79 €
 Gewerbesteuer (ca. 14%):      70 €
 Gesamtsteuer:                149 €
 Effektive Belastung:        1,49%
+
 ```text
 
 #### Steuerliche Behandlung von Kursgewinnen
@@ -74,6 +75,7 @@ Körperschaftsteuer:            158 €
 Gewerbesteuer:                 140 €
 Gesamtsteuer:                  298 €
 Effektive Belastung:         1,49%
+
 ```text
 
 #### Steuerliche Behandlung von ETFs
@@ -99,6 +101,7 @@ Die steuerliche Behandlung hängt von der Art des ETFs ab:
 ```text
 Direktaktie:      1,5% effektive Steuer auf Gewinne
 Aktien-ETF:      21-32% effektive Steuer auf Gewinne
+
 ```text
 
 **Wichtige Erkenntnis:** Bei vermögensverwaltender UG sind **Einzelaktien steuerlich deutlich günstiger als ETFs**.
@@ -150,6 +153,7 @@ Verkaufspreis:               80.000 €
 Verlust:                    -20.000 €
 Nicht abzugsfähig (5%):      -1.000 €
 Abzugsfähig (95%):         -19.000 €
+
 ```text
 
 #### Verlustvortrag und -rücktrag
@@ -193,6 +197,7 @@ Jahr 1:
 - 1 Verkauf mit Verlust: -5.000 €
 - Nettoresultat: +5.000 €
 - Steuer nur auf 5% = 250 € → ca. 40 € Steuerlast
+
 ```text
 
 ### Strategie 3: Dividendenstrategie
@@ -323,6 +328,7 @@ Jahr 1:
 ```text
 Wertpapiere des Anlagevermögens    100.000 €
     an Bank                                    100.000 €
+
 ```text
 
 **Dividendeneingang:**
@@ -330,6 +336,7 @@ Wertpapiere des Anlagevermögens    100.000 €
 ```text
 Bank                                5.000 €
     an Erträge aus Beteiligungen             5.000 €
+
 ```text
 
 **Aktienverkauf mit Gewinn:**
@@ -338,6 +345,7 @@ Bank                                5.000 €
 Bank                              120.000 €
     an Wertpapiere des AV                    100.000 €
     an Erträge aus Wertpapierverkauf          20.000 €
+
 ```text
 
 ### 4. Jahresabschluss
@@ -433,6 +441,7 @@ Steuerpflichtig (5%):          125 €
 Körperschaftsteuer:             20 €
 
 Gesamtsteuerlast:              60 €
+
 ```text
 
 **Transaktionen: 4** (2 Käufe + 1 Verkauf + 1 Kauf = 4)

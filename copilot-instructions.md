@@ -42,6 +42,7 @@ Unterkapitel)
     - Listenpunkt 2
 
     Text nach der Liste.
+
     ```
 
 - **Tabellen**: Für strukturierte Daten wie Kosten, Zeitpläne, Fristen
@@ -150,6 +151,7 @@ Einführungstext mit Kontext
 ### Weiterführende Informationen
 
 Verweise auf andere Abschnitte oder externe Ressourcen
+
 ```text
 
 ### Qualitätssicherung
