@@ -6,14 +6,14 @@ und ist für viele Unternehmen in Deutschland gesetzlich vorgeschrieben.
 
 ## Inhaltsverzeichnis
 
-1. [Grundprinzipien der doppelten Buchführung](#grundprinzipien-der-doppelten-buchfuehrung)
+1. [Grundprinzipien der doppelten Buchführung](#grundprinzipien-der-doppelten-buchführung)
 2. [Gesetzliche Grundlagen](#gesetzliche-grundlagen)
 3. [Kontenarten und Kontenrahmen](#kontenarten-und-kontenrahmen)
-4. [Buchungssätze](#buchungssaetze)
+4. [Buchungssätze](#buchungssätze)
 5. [Bilanz und Erfolgsrechnung](#bilanz-und-erfolgsrechnung)
 6. [Praxisbeispiele](#praxisbeispiele)
 7. [Vorteile und Bedeutung](#vorteile-und-bedeutung)
-8. [Unterschied zur einfachen Buchführung](#unterschied-zur-einfachen-buchfuehrung)
+8. [Unterschied zur einfachen Buchführung](#unterschied-zur-einfachen-buchführung)
 
 ## Grundprinzipien der doppelten Buchführung
 
@@ -221,17 +221,17 @@ Die GuV erfasst alle Aufwendungen und Erträge einer Periode und ermittelt den U
 
 1. Umsatzerlöse
 2. +/- Bestandsveränderungen
-3. + Andere aktivierte Eigenleistungen
-4. + Sonstige betriebliche Erträge
-5. - Materialaufwand
-6. - Personalaufwand
-7. - Abschreibungen
-8. - Sonstige betriebliche Aufwendungen
+3. \+ Andere aktivierte Eigenleistungen
+4. \+ Sonstige betriebliche Erträge
+5. \- Materialaufwand
+6. \- Personalaufwand
+7. \- Abschreibungen
+8. \- Sonstige betriebliche Aufwendungen
 9. = **Betriebsergebnis**
 10. +/- Finanzergebnis
 11. = **Ergebnis der gewöhnlichen Geschäftstätigkeit**
 12. +/- Außerordentliches Ergebnis
-13. - Steuern
+13. \- Steuern
 14. = **Jahresüberschuss/-fehlbetrag**
 
 ## Praxisbeispiele
