@@ -404,6 +404,7 @@ Gesetzliche Regelungen können sich ändern.
 ```text
 Wertpapiere des Anlagevermögens    100.000 €
     an Bank                                    100.000 €
+
 ```
 
 **Dividendeneingang:**
@@ -411,6 +412,7 @@ Wertpapiere des Anlagevermögens    100.000 €
 ```text
 Bank                                5.000 €
     an Erträge aus Beteiligungen             5.000 €
+
 ```
 
 **Aktienverkauf mit Gewinn:**
@@ -419,6 +421,7 @@ Bank                                5.000 €
 Bank                              120.000 €
     an Wertpapiere des AV                    100.000 €
     an Erträge aus Wertpapierverkauf          20.000 €
+
 ```
 
 ### Familienstiftung (1)
@@ -827,7 +830,8 @@ Bank                              120.000 €
 Dividenden:                    100.000 €
 Abgeltungsteuer (26,375%):     26.375 €
 Netto verfügbar:               73.625 €
-```text
+
+```
 
 **Effektive Steuerbelastung: 26,375%**
 
@@ -846,7 +850,8 @@ Ausschüttbarer Betrag:         98.509 €
 Ausschüttung an Gesellschafter:
 Abgeltungsteuer (26,375%):     25.981 €
 Netto verfügbar:               72.528 €
-```text
+
+```
 
 **Gesamtsteuerbelastung: 27,47%**
 
@@ -860,7 +865,8 @@ Körperschaftsteuer:            791 €
 Gewerbesteuer:                 700 €
 Rücklage (25%):                0 € (bereits erreicht)
 Verbleiben in UG:              98.509 €
-```text
+
+```
 
 **Effektive Steuerbelastung: 1,49%**
 **Zum Reinvestieren verfügbar: 98.509 €**
@@ -873,7 +879,8 @@ Verbleiben in UG:              98.509 €
 Dividenden:                    100.000 €
 Körperschaftsteuer (0,79%):    790 €
 Verbleiben in Stiftung:        99.210 €
-```text
+
+```
 
 **Effektive Steuerbelastung: 0,79%**
 
@@ -889,7 +896,8 @@ Beim Destinatär:
 Einkommensteuer (persönlicher Steuersatz, z.B. 30%): 18.000 €
 Netto beim Destinatär:         42.000 €
 Verbleiben in Stiftung:        39.210 €
-```text
+
+```
 
 **Gesamtsteuerbelastung auf ausgeschütteten Teil: ca. 30%**
 

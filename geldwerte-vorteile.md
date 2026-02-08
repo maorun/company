@@ -92,6 +92,7 @@ Privater Kauf: 50.000 € (aus versteuertem Nettoeinkommen)
 Firmenwagen (0,25%-Regel): 1.500 € geldwerter Vorteil/Jahr
 Einkommensteuer (42%): ca. 630 €/Jahr
 → Ersparnis: ca. 20.000+ € über 5 Jahre
+
 ```
 
 **Voraussetzungen:**
@@ -156,6 +157,7 @@ Eigenbeteiligung Geschäftsführer: 500 €/Monat
 Geldwerter Vorteil: 1.000 €/Monat = 12.000 €/Jahr
 Einkommensteuer (42%): ca. 5.040 €/Jahr
 → Effektive Ersparnis: ca. 6.960 €/Jahr
+
 ```
 
 **Voraussetzungen:**
@@ -199,6 +201,7 @@ Stiftungseigene Immobilie: Marktwert 500.000 €, Miete 2.000 €/Monat
 Geldwerter Vorteil: 800 €/Monat = 9.600 €/Jahr
 Einkommensteuer Destinatär (42%): ca. 4.032 €/Jahr
 Stiftung erhält Mieteinnahmen: 14.400 €/Jahr (steuerpflichtig mit ca. 0,79%)
+
 ```
 
 ### 3. Versicherungen
@@ -239,6 +242,7 @@ Versicherungsleistungen können als geldwerter Vorteil gewährt werden.
 D&O (1.000 €) + Krankenversicherung (1.200 €) + Unfall (300 €) = 2.500 €/Jahr
 Bei privater Zahlung aus versteuertem Einkommen: ca. 4.310 € Bruttoeinkommen nötig
 → Ersparnis durch Firmenübernahme: ca. 1.810 €/Jahr
+
 ```
 
 #### Bei der Familienstiftung
@@ -301,6 +305,7 @@ Fachseminar: 2.000 €
 Fachliteratur: 300 €
 Gesamt: 2.800 €/Jahr steuerfrei
 Bei privater Zahlung aus Nettoeinkommen: ca. 4.830 € Bruttoeinkommen nötig
+
 ```
 
 **Voraussetzungen:**
@@ -356,6 +361,7 @@ Smartphone: 800 € (betrieblich)
 Software: 500 €/Jahr
 → Kein geldwerter Vorteil bei betrieblicher Veranlassung
 → Private Mitnutzung steuerfrei
+
 ```
 
 **Vorteile:**
@@ -411,6 +417,7 @@ Betrieblich (5/8): 1.875 € (Betriebsausgaben)
 Privat (3/8): 1.125 € (geldwerter Vorteil)
 Einkommensteuer (42%): ca. 473 €
 → Günstiger als rein private Reise
+
 ```
 
 **Optimierung:**
@@ -464,6 +471,7 @@ Langfristige Absicherung als geldwerter Vorteil.
 Direktversicherung: 7.000 €/Jahr (steuerfrei)
 Bei Auszahlung aus Gehalt: ca. 12.070 € Bruttoeinkommen nötig (42% Steuersatz)
 → Ersparnis: ca. 5.070 €/Jahr
+
 ```
 
 **Besonderheiten bei Gesellschafter-Geschäftsführer:**
@@ -521,6 +529,7 @@ Tankgutschein: 50 €/Monat = 600 €/Jahr (steuerfrei)
 Gesundheitsförderung: 600 €/Jahr (steuerfrei)
 Aufmerksamkeiten: 4x 60 € = 240 €/Jahr (steuerfrei)
 Gesamt: 1.440 €/Jahr steuerfrei
+
 ```
 
 #### Bei der Familienstiftung
@@ -557,6 +566,7 @@ Wert der Leistungen: 10.440 €
 Bei privater Zahlung nötig (42% Steuersatz): ca. 18.000 € Bruttogehalt
 Geldwerter Vorteil versteuert: ca. 4.385 € Steuer
 → Netto-Ersparnis: ca. 13.615 €/Jahr
+
 ```
 
 1. **Optimale Mischung:**
@@ -588,6 +598,7 @@ Alternative mit geldwerten Vorteilen:
 - Immobilienüberlassung: 10.000 € geldwerter Vorteil (4.200 € Steuer)
 - Versicherungen/Weiterbildung: 5.000 € (steuerfrei/günstig)
 → Ersparnis: ca. 2.100 €/Jahr
+
 ```
 
 ## Steuerentlastung für UG und Stiftung
@@ -616,6 +627,7 @@ Gewerbesteuer (ca. 14%, bei Vermögensverwaltung ggf. 0%): 0-7.000 €
 Bei thesauriertem Gewinn (keine Ausschüttung):
 - Effektive Steuer auf Gewinne aus Aktien: 1,5% (§ 8b KStG)
 - Maximale Steuerbelastung: 7.913 € (nur KSt)
+
 ```
 
 **2. Keine Sozialversicherung:**
@@ -644,6 +656,7 @@ Betriebsausgabenabzug: -9.639 € vom Gewinn
 Steuerersparnis (30%): 2.892 €
 Effektive Kosten: 6.747 €
 → Geschäftsführer erhält Leistung im Wert von 10.000 €
+
 ```
 
 ### Steuervorteile für die Familienstiftung
@@ -685,6 +698,7 @@ ABER: Bei mehreren Kindern und Enkeln:
 - 3 Kinder, 6 Enkel: Jede Übertragung 15-30% Steuer
 - Vermögenszersplitterung
 - Stiftung: Vermögen bleibt zusammen, eine Steuer alle 30 Jahre
+
 ```
 
 **4. Satzungsmäßige Gestaltungsfreiheit:**
@@ -756,6 +770,7 @@ Nettoeinkommen: 33.264 €
 Wert aller Leistungen: 46.200 €
 Bei rein privatem Bezug nötiges Bruttoeinkommen (42% Spitzensatz): ca. 68.000 €
 → Effektive Ersparnis: ca. 21.800 €/Jahr
+
 ```
 
 **UG-Perspektive:**
@@ -767,6 +782,7 @@ Verbleibender Gewinn (aus Aktien): 15.000 €
 Körperschaftsteuer (1,5% auf Aktiengewinne): 225 €
 Verbleibender Gewinn nach Steuern: 14.775 €
 → Reinvestition in neue Aktien
+
 ```
 
 ### Beispiel 2: Familienstiftung mit 3 Generationen (Vermögen 1.000.000 €)
@@ -815,6 +831,7 @@ Destinatäre:
 
 Effektive Familienversorgung: 71.000 €/Jahr bei 16.696 € Gesamtsteuer
 Steuerquote: 23,5%
+
 ```
 
 **Langfristbetrachtung (30 Jahre):**
@@ -829,6 +846,7 @@ Bei klassischer Erbschaft (ohne Stiftung):
 - Gesamt: 210.000 € über 60 Jahre
 
 Stiftung: Vermögen bleibt zusammen, kontinuierliche Versorgung, weniger Steuern
+
 ```
 
 ### Beispiel 3: Designer als Geschäftsführer (30 Jahre, verheiratet, 1 Kind)
@@ -864,6 +882,7 @@ Einkommensteuer: ca. 23.500 €
 Nettoeinkommen: 56.500 €
 Investition in Aktien: 30.000 €
 Verbleibend: 26.500 €
+
 ```
 
 **Mit UG:**
@@ -879,6 +898,7 @@ UG investiert: 20.000 € in Aktien (1,5% Steuer = 300 €)
 Nach 10 Jahren: ca. 235.000 € Aktienvermögen in UG
 
 → Mehr Nettoeinkommen + Vermögensaufbau + Geldwerte Vorteile
+
 ```
 
 ## Risiken und Fallstricke

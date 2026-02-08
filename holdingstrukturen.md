@@ -67,6 +67,7 @@ Holding-UG/GmbH (Muttergesellschaft)
     ├── Beteiligung 100% → Tochter-UG 1 (z.B. Wertpapiere)
     ├── Beteiligung 100% → Tochter-UG 2 (z.B. Immobilien)
     └── Beteiligung 100% → Tochter-UG 3 (z.B. operatives Geschäft)
+
 ```
 
 ### Steuerliche Vorteile
@@ -103,6 +104,7 @@ Körperschaftsteuer auf 5.000 €:
 
 Netto-Empfang bei Holding:          99.209 €
 Effektive Steuerbelastung:            0,79%
+
 ```
 
 **Vergleich zur Direktausschüttung:**
@@ -117,6 +119,7 @@ Netto:                               73.625 €
 
 Holding-Vorteil:                     25.584 € (mehr)
 Steuerersparnis:                         97%
+
 ```
 
 ### Organschaft für Verlustverrechnung
@@ -156,6 +159,7 @@ Konsolidierter Gewinn:               50.000 €
 Körperschaftsteuer (15,825%):         7.913 €
 
 Steuerersparnis durch Organschaft:   7.912 € (50%)
+
 ```
 
 ### Praktische Strukturvarianten
@@ -168,6 +172,7 @@ Holding-UG
     ├── Wertpapier-UG (ETF-Portfolio)
     ├── Immobilien-UG (Mehrere Mietobjekte)
     └── Beteiligungen-UG (Startup-Investments)
+
 ```
 
 **Vorteil:** Klare Trennung der Asset-Klassen, Risikoisolierung
@@ -179,6 +184,7 @@ Holding-UG
     |
     ├── Operative GmbH (Hauptgeschäft)
     └── Vermögensverwaltungs-UG (Gewinnthesaurierung)
+
 ```
 
 **Vorteil:** Gewinne aus operativem Geschäft fließen steuergünstig (1,5%) in Vermögensaufbau
@@ -189,6 +195,7 @@ Holding-UG
 IP-Holding-UG (hält Patente, Software, Marken)
     |
     └── Operative Tochter-GmbH (nutzt IP gegen Lizenzgebühr)
+
 ```
 
 **Vorteil:** IP-Assets geschützt, Lizenzeinnahmen steueroptimiert (siehe Kapitel 6)
@@ -208,6 +215,7 @@ Familienstiftung (Obergesellschaft)
     ├── Beteiligung 100% → Vermögensverwaltende UG (Wertpapiere)
     ├── Beteiligung 100% → Immobilien-UG
     └── Beteiligung 100% → Familien-GmbH (operatives Geschäft)
+
 ```
 
 ### Vorteile dieser Struktur
@@ -282,6 +290,7 @@ Nach 60 Jahren:
 ├── Vermögen ohne Zersplitterung bei Familie
 ├── Keine weiteren Erbschaftsteuern bei Destinatärswechsel
 └── Destinatäre erhalten Ausschüttungen nach Satzung
+
 ```
 
 ### Vergleich: Stiftung vs. UG als Holding
@@ -318,6 +327,7 @@ Familien-GbR (Gesellschafter: Eltern + Kinder)
     ├── Beteiligung → GmbH 1 (operatives Geschäft)
     ├── Beteiligung → UG (Immobilienverwaltung)
     └── Beteiligung → GmbH 2 (weiteres Geschäft)
+
 ```
 
 #### Rechtsformmerkmale
@@ -454,6 +464,7 @@ Gesamt pro Person:                      593 €
 Gesamtbelastung Familie:            2.372 €
 Netto verfügbar:                   97.628 €
 Effektive Belastung:                 2,37%
+
 ```
 
 #### Variante B: Holding-GmbH
@@ -474,6 +485,7 @@ Bei Ausschüttung an Gesellschafter:
 Kapitalertragsteuer (25%):         24.802 €
 Gesamt netto:                      74.407 €
 Effektive Gesamtbelastung:         25,59%
+
 ```
 
 #### Vergleich
@@ -526,6 +538,7 @@ Deutsche Holding-GmbH
 Dividende von B.V. an GmbH:
 ├── Keine niederländische Quellensteuer (EU-Mutter-Tochter-RL)
 └── In Deutschland: 95% steuerfrei (§ 8b KStG)
+
 ```
 
 #### Doppelbesteuerungsabkommen (DBA)
@@ -649,6 +662,7 @@ Gesellschaften oder Dritte lizenziert.
 IP-Holding-UG (hält Patente, Software, Marken)
     |
     └── Operative Tochter-GmbH (nutzt IP gegen Lizenzgebühr)
+
 ```
 
 #### Funktionsweise
@@ -700,6 +714,7 @@ Vergleich ohne IP-Struktur:
 └── Netto:                          280.000 €
 
 Vorteil IP-Struktur:                 14.175 € (5% mehr)
+
 ```
 
 **Achtung:** Lizenzgebühren müssen fremdüblich sein (Transfer Pricing Dokumentation empfohlen)!
@@ -713,6 +728,7 @@ Familienstiftung (hält wertvolle IP-Rechte)
     |
     ├── Lizenzierung an externe Dritte
     └── Lizenzierung an eigene operative GmbH
+
 ```
 
 #### Vorteile
@@ -743,6 +759,7 @@ Ausschüttung an Destinatäre:        50.000 €
 
 Thesaurierung in Stiftung:          76.262 €
 (für weitere IP-Entwicklung)
+
 ```
 
 ### Modell 3: Kombination IP-Holding + Vermögensverwaltung
@@ -755,6 +772,7 @@ Holding-UG
     ├── IP-UG (hält und lizenziert IP)
     ├── Operative GmbH (nutzt IP)
     └── Vermögensverwaltungs-UG (investiert Gewinne)
+
 ```
 
 #### Ablauf
@@ -785,6 +803,7 @@ Holding-UG (Gründer hält 100%)
     |
     ├── Start-up GmbH (operatives Geschäft)
     └── Vermögensverwaltungs-UG (für Exit-Erlöse)
+
 ```
 
 **Vorteile:**
@@ -810,6 +829,7 @@ Bei Privatverkauf:
 └── Netto:                         3.650.000 €
 
 Vorteil Holding:                   1.310.437 € mehr (36%)
+
 ```
 
 ### Modell 2: Vermögender Angestellter mit Sparplan
@@ -826,6 +846,7 @@ Vorteil Holding:                   1.310.437 € mehr (36%)
 ```text
 Vermögensverwaltende UG (Gründung mit 25.000 €)
 └── Monatliche Einzahlung von 3.000 € netto in UG
+
 ```
 
 **Vergleich nach 20 Jahren:**
@@ -843,6 +864,7 @@ UG-Vermögen:
 └── Endvermögen:                  1.744.400 €
 
 Vorteil UG:                         344.400 € mehr (25%)
+
 ```
 
 **Hinweis:** Bei Ausschüttung aus UG später noch 25% Kapitalertragsteuer fällig!
@@ -862,6 +884,7 @@ Familienstiftung
     |
     ├── Vermögensverwaltungs-UG (2 Mio. € Wertpapiere)
     └── Immobilien-UG (1 Mio. € Immobilien)
+
 ```
 
 **Schritt 1:** Gründung Familienstiftung
@@ -894,6 +917,7 @@ Mit Familienstiftung:
 └── Gesamte Ersatzsteuer:            -300.000 €
 
 Ersparnis durch Stiftung:           1.500.000 € (83%)
+
 ```
 
 ### Modell 4: Holding mit operativem Geschäft + Vermögen
@@ -912,6 +936,7 @@ Holding-UG (neu gegründet)
     |
     ├── Operative GmbH (bestehendes Geschäft)
     └── Vermögensverwaltungs-UG (neu, 1 Mio. € Vermögen)
+
 ```
 
 **Schritt 1:** Gründung Holding-UG
@@ -946,6 +971,7 @@ Jahr 1: Operative GmbH Gewinn      300.000 €
 
 Jahr 5: Vermögens-UG Wert:       1.800.000 €
         (1 Mio. Start + 800k Einzahlungen)
+
 ```
 
 ---

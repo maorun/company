@@ -67,6 +67,7 @@ Körperschaftsteuer 15,825%:        7.121 €
 Netto nach Steuern:               37.879 €
 
 Steuerersparnis:                  11.779 € (45%)
+
 ```
 
 #### Vorteile der Immobilien-UG
@@ -103,6 +104,7 @@ Netto-Cashflow:                    41.094 €
 (60.000 - 14.000 - 5.000 - 4.906)
 
 Eigenkapitalrendite: 41% p.a.
+
 ```
 
 #### Wichtige Hinweise zur Gewerbesteuer
@@ -195,6 +197,7 @@ Netto-Zinsaufwand:                  400.000 €
 30% von EBITDA:                     300.000 €
 Abzugsfähig:                        300.000 €
 Nicht abzugsfähig (Vortrag):        100.000 €
+
 ```
 
 **Ausnahmen:**
@@ -230,6 +233,7 @@ Steuer auf Dividenden (1,5%):         225 €
 Netto-Ertrag nach Steuern:          2.775 €
 
 Zusätzliche Rendite auf 500k: +0,56% p.a.
+
 ```
 
 **Risiken:**
@@ -267,6 +271,7 @@ Tilgung:                           160.000 €
 Wertsteigerung (2% p.a.):          220.000 €
 Eigenkapital in Immobilie:         580.000 €
 Eigenkapitalrendite:               14,5% p.a.
+
 ```
 
 #### Strategie 3: Gesellschafterdarlehen strukturieren
@@ -303,6 +308,7 @@ Netto-Zinsertrag:                     3.681 €
 Vorteil vs. Dividende:
 Dividende (nach KöSt + AbgSt):       ~27-28% Gesamtbelastung
 Zinsen (nur AbgSt):                  26,375% Belastung
+
 ```
 
 **Risiken und Grenzen:**
@@ -376,6 +382,7 @@ Holding-UG
     ├── Tochter-UG 1 (Wertpapiere)
     ├── Tochter-UG 2 (Immobilien)
     └── Tochter-UG 3 (operatives Geschäft)
+
 ```
 
 **Modell 2: IP-Holding Struktur**
@@ -384,6 +391,7 @@ Holding-UG
 IP-Holding-UG (hält Patente, Software, Marken)
     |
     └── Operative Tochter-GmbH (nutzt IP gegen Lizenzgebühr)
+
 ```
 
 **Für detaillierte Informationen siehe:**
@@ -554,6 +562,7 @@ Holding-UG
     |
     ├── Operative Tochter-GmbH (Hauptgeschäft)
     └── Vermögensverwaltungs-UG (Wertpapiere)
+
 ```
 
 **Vorteile:**
@@ -583,6 +592,7 @@ Investition in Einzelaktien mit 5% Dividendenrendite:
 Jährliche Dividenden:                6.895 €
 Steuer (1,5%):                         103 €
 Netto-Dividenden:                    6.792 €
+
 ```
 
 #### Modell 3: Familienstiftung mit operativer GmbH
@@ -593,6 +603,7 @@ Netto-Dividenden:                    6.792 €
 Familienstiftung
     |
     └── Operative GmbH (100% Beteiligung)
+
 ```
 
 **Vorteile:**
@@ -756,6 +767,7 @@ Körperschaftsteuer + GewSt (30%):      6.750 €
 Netto-Gewinn:                        443.250 €
 
 Steuerersparnis:                     106.650 € (24%)
+
 ```
 
 **Verluste:**
@@ -816,6 +828,7 @@ Steuer auf 160k (27%):          -43.200 €
 Netto-Gewinn:                  +116.800 €
 
 Steuerersparnis UG:             +40.800 € (35%)
+
 ```
 
 #### Strategie 2: Beteiligung an operativen Unternehmen
@@ -1026,6 +1039,7 @@ Körperschaftsteuer (15,825%):       7.913 €
 Netto:                            42.087 €
 
 Steuerersparnis:                  13.087 € (45%)
+
 ```
 
 #### 2. Urheberrechte (Software, Bücher, Kunst)
@@ -1074,6 +1088,7 @@ Steuerersparnis:                  13.087 € (45%)
 IP-Holding-UG (hält Patente, Software, Marken)
     |
     └── Operative Tochter-GmbH (nutzt IP gegen Lizenzgebühr)
+
 ```
 
 **Vorteile:**
@@ -1097,6 +1112,7 @@ IP-Holding:
 - Lizenzeinnahme: +100.000 €
 - Körperschaftsteuer (15,825%): -15.825 €
 - Netto-Einnahme: 84.175 €
+
 ```
 
 #### Modell 2: IP in Familienstiftung
@@ -1135,6 +1151,7 @@ Steuerlast:                        -1.680.000 € (42%)
 Netto:                             2.320.000 €
 
 Steuerersparnis:                   1.047.000 € (45%)
+
 ```
 
 ### Internationale IP-Optimierung
@@ -1166,6 +1183,7 @@ Lizenzgebühr: 100.000 € p.a.
 US-Quellensteuer: 30% (ohne DBA) → -30.000 €
 Mit DBA Deutschland-USA: 0-10% → -0 bis -10.000 €
 Ersparnis: 20.000-30.000 €
+
 ```
 
 ### Rechtliche Anforderungen und Risiken
@@ -1292,6 +1310,7 @@ Netto:                             7.362 €
 Rendite nach Steuern:              7,4% p.a.
 
 Steuerersparnis UG:                1.055 € (13%)
+
 ```
 
 **Fazit:** Geringer Steuervorteil bei typisch stiller Beteiligung über UG. Für reine Finanzrendite nicht optimal.
@@ -1365,6 +1384,7 @@ Netto:                              4.417 €
 Rendite nach Steuern:               8,8% p.a.
 
 Steuerersparnis UG:                  634 € (11%)
+
 ```
 
 **Fazit:** Leichter Steuervorteil, aber **kein § 8b-Privileg**. Für Kapitalgesellschaften sind
@@ -1445,6 +1465,7 @@ Keine steuerliche Absetzbarkeit:        0 €
 Netto-Kosten:                       5.300 €
 
 Ersparnis:                          1.590 € (30%)
+
 ```
 
 #### 2. Rechtliche und steuerliche Fortbildungen
@@ -1513,6 +1534,7 @@ Keine Absetzbarkeit:                    0 €
 Netto-Kosten:                       1.406 €
 
 Ersparnis:                            422 € (30%)
+
 ```
 
 ### Fachliteratur und Informationsquellen
@@ -1560,6 +1582,7 @@ Keine Absetzbarkeit:                    0 €
 Netto-Kosten:                       5.300 €
 
 Ersparnis p.a.:                     1.590 € (30%)
+
 ```
 
 ### Beratungs- und Coaching-Kosten
@@ -1612,6 +1635,7 @@ Netto-Kosten:                       11.300 €
 
 Ersparnis p.a.:                      3.390 € (30%)
 Ersparnis über 10 Jahre:            33.900 €
+
 ```
 
 ### Wichtige Hinweise und Grenzen
@@ -1807,6 +1831,7 @@ Core (70%): Einzelaktien                     350.000 €  (1,5% Steuer)
 Satellite (15%): Immobilie                    75.000 €  (15,8% Steuer)
 Opportunities (10%): Startup-Beteiligungen    50.000 €  (1,5% Steuer)
 Growth (5%): IP-Entwicklung/Lizenzen          25.000 €  (15,8% Steuer)
+
 ```
 
 **Beispiel: Familienstiftung mit 2 Mio. € Vermögen**
@@ -1816,6 +1841,7 @@ Core (50%): Einzelaktien                   1.000.000 €  (0,79% Steuer)
 Real Estate (25%): Mehrere Immobilien        500.000 €  (15,8% Steuer)
 Growth (15%): Unternehmensbeteiligungen      300.000 €  (0,79% Steuer)
 Alternative (10%): IP, Beteiligungen, etc.   200.000 €  (0,79-15,8% Steuer)
+
 ```
 
 ---

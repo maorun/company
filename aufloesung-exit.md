@@ -57,7 +57,7 @@ Steuerberater:                    0 € (optional)
 ──────────────────────────────────────────
 GESAMT:                           20-100 €
 
-```text
+```
 
 **Steuerliche Auswirkungen:**
 
@@ -66,7 +66,7 @@ Beispiel: 200.000 € Kursgewinne realisiert
 Abgeltungsteuer (26,375%):        52.750 €
 Netto verfügbar:                  147.250 €
 
-```text
+```
 
 **Vorteile:**
 
@@ -124,7 +124,7 @@ Beispiel: 500.000 € Kursgewinne
 Körperschaftsteuer:               7.500 €
 Netto:                            492.500 €
 
-```text
+```
 
 **Schritt 5: Sperrjahr**
 
@@ -149,7 +149,7 @@ Steuerpflichtiger Gewinn:         450.000 €
 Abgeltungsteuer (26,375%):        118.688 €
 Netto beim Gesellschafter:        381.312 €
 
-```text
+```
 
 **Schritt 7: Löschung im Handelsregister**
 
@@ -172,7 +172,7 @@ Verkaufsgebühren Wertpapiere:     50-200 €
 ──────────────────────────────────────────
 GESAMT:                           1.150-2.900 €
 
-```text
+```
 
 **Gesamte Steuerbelastung:**
 
@@ -183,7 +183,7 @@ Abgeltungsteuer (Gesellschafter): 118.688 €
 ──────────────────────────────────────────
 GESAMT:                           126.188 € (25,2%)
 
-```text
+```
 
 **Vorteile:**
 
@@ -222,7 +222,7 @@ Handelsregisteränderung:          100-200 €
 ──────────────────────────────────────────
 GESAMT:                           800-3.000 €
 
-```text
+```
 
 **Steuerliche Behandlung beim Verkäufer:**
 
@@ -237,7 +237,7 @@ Einkommensteuer (pers. Satz 42%): 125.748 €
 Netto beim Verkäufer:             374.252 €
 Steuerbelastung:                  25,1%
 
-```text
+```
 
 **Gesamtdauer: 1-6 Monate** (abhängig von Käufersuche)
 
@@ -330,7 +330,7 @@ Erbschaftsteuer:                  ca. 300.000 €
 
 Netto beim Anfallsberechtigten:   1.700.000 €
 
-```text
+```
 
 **Gesamtdauer: 1-3 Jahre**
 
@@ -344,7 +344,7 @@ Verkaufsgebühren:                 100-500 €
 ──────────────────────────────────────────
 GESAMT:                           5.100-18.500 €
 
-```text
+```
 
 **Vorteile:**
 
@@ -383,7 +383,7 @@ GESAMT:                           5.100-18.500 €
 ```text
 Minimalverwaltung pro Jahr:       2.000-4.000 €
 
-```text
+```
 
 **Nicht empfohlen:** Laufende Kosten ohne Nutzen
 
@@ -485,7 +485,7 @@ Abgeltungsteuer (26,375%):        131.875 €
 Netto verfügbar:                  868.125 €
 Steuerbelastung:                  13,2% (auf Gesamtvermögen)
 
-```text
+```
 
 **Kosten gesamt:** 20-100 €
 **Dauer:** 1-7 Tage
@@ -508,7 +508,7 @@ Abgeltungsteuer (26,375%):        261.548 €
 Netto verfügbar:                  730.952 €
 Steuerbelastung:                  26,9% (auf Gesamtvermögen)
 
-```text
+```
 
 **Kosten gesamt:** 1.150-2.900 €
 **Dauer:** 1,5-2 Jahre
@@ -528,7 +528,7 @@ Einkommensteuer (42%):            126.000 €
 Netto verfügbar:                  874.000 €
 Steuerbelastung:                  12,6% (auf Gesamtvermögen)
 
-```text
+```
 
 **Kosten gesamt:** 800-3.000 €
 **Dauer:** 1-6 Monate
@@ -550,7 +550,7 @@ Erbschaftsteuer:                  90.000 €
 Netto verfügbar:                  910.000 €
 Steuerbelastung:                  9,0%
 
-```text
+```
 
 **Kosten gesamt:** 5.100-18.500 €
 **Dauer:** 1-3 Jahre
@@ -674,7 +674,7 @@ Steuerbelastung:                  9,0%
 
 2. Steuerliche Behandlung:
 
-```text
+   ```text
    Jahr 1:
    Kursgewinne:                   200.000 €
    Sparerpauschbetrag:            -1.000 €
@@ -689,7 +689,7 @@ Steuerbelastung:                  9,0%
 
    Gesamt:                        104.998 €
 
-```text
+   ```
 
 3. Ergebnis:
    - Netto verfügbar: 695.002 €
@@ -713,7 +713,7 @@ Steuerbelastung:                  9,0%
 
 2. Steuerliche Behandlung (Frau Müller):
 
-```text
+   ```text
    Verkaufspreis:                 1.200.000 €
    Anschaffungskosten:            -1.000 € (Stammkapital)
    Veräußerungsgewinn:            1.199.000 €
@@ -723,7 +723,7 @@ Steuerbelastung:                  9,0%
 
    Netto:                         897.852 €
 
-```text
+   ```
 
 3. Finanzierung für Tochter:
    - Eigenkapital: 400.000 €
@@ -758,12 +758,12 @@ Steuerbelastung:                  9,0%
    - Stiftung bleibt bestehen
    - Destinatäre erhalten laufend Kapital
 
-```text
+   ```text
    Ausschüttungen pro Jahr:       150.000 €
    Über 10 Jahre:                 1.500.000 €
    Verbleibt in Stiftung:         500.000 €
 
-```text
+   ```
 
 2. **Alternative 2:** Vorstandswechsel
    - Stifter tritt als Vorstand zurück
