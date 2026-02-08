@@ -674,7 +674,7 @@ Steuerbelastung:                  9,0%
 
 2. Steuerliche Behandlung:
 
-```text
+   ```text
    Jahr 1:
    Kursgewinne:                   200.000 €
    Sparerpauschbetrag:            -1.000 €
@@ -689,7 +689,7 @@ Steuerbelastung:                  9,0%
 
    Gesamt:                        104.998 €
 
-```
+   ```
 
 3. Ergebnis:
    - Netto verfügbar: 695.002 €
@@ -713,7 +713,7 @@ Steuerbelastung:                  9,0%
 
 2. Steuerliche Behandlung (Frau Müller):
 
-```text
+   ```text
    Verkaufspreis:                 1.200.000 €
    Anschaffungskosten:            -1.000 € (Stammkapital)
    Veräußerungsgewinn:            1.199.000 €
@@ -723,7 +723,7 @@ Steuerbelastung:                  9,0%
 
    Netto:                         897.852 €
 
-```
+   ```
 
 3. Finanzierung für Tochter:
    - Eigenkapital: 400.000 €
@@ -758,12 +758,12 @@ Steuerbelastung:                  9,0%
    - Stiftung bleibt bestehen
    - Destinatäre erhalten laufend Kapital
 
-```text
+   ```text
    Ausschüttungen pro Jahr:       150.000 €
    Über 10 Jahre:                 1.500.000 €
    Verbleibt in Stiftung:         500.000 €
 
-```
+   ```
 
 2. **Alternative 2:** Vorstandswechsel
    - Stifter tritt als Vorstand zurück
