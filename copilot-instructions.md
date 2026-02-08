@@ -48,7 +48,8 @@ Unterkapitel)
 - **Tabellen**: Für strukturierte Daten wie Kosten, Zeitpläne, Fristen
 - **Checklisten**: Mit `- [ ]` für To-Do-Listen
 - **Code-Blöcke (Fenced Code Blocks)**:
-  - **WICHTIG**: Müssen IMMER eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
+  - **WICHTIG**: Opening fence MUSS IMMER eine Sprache angeben (z.B. ` ```text `, ` ```bash `)
+  - **WICHTIG**: Closing fence MUSS IMMER ohne Sprache sein (nur ` ``` `, NICHT ` ```text `)
   - **WICHTIG**: Müssen IMMER von Leerzeilen umgeben sein (vor und nach dem Block)
   - Verwende immer die passende Sprache: `text` für Berechnungen/Zahlen, `bash` für Befehle
 - **Hervorhebungen**:
@@ -177,7 +178,8 @@ Verweise auf andere Abschnitte oder externe Ressourcen
     - **MD029**: Nummerierte Listen müssen korrekt durchnummeriert sein (1, 2, 3...)
     - **MD013**: Zeilen dürfen maximal 120 Zeichen lang sein (außer in Code-Blöcken und Tabellen)
     - **Code-Blöcke (Fenced Code Blocks):**
-      - **WICHTIG**: Müssen IMMER eine Sprache angeben (z.B. ` ```text `, ` ```bash `, ` ```python `)
+      - **WICHTIG**: Opening fence MUSS IMMER eine Sprache angeben (z.B. ` ```text `, ` ```bash `, ` ```python `)
+      - **WICHTIG**: Closing fence MUSS IMMER ohne Sprache sein (nur ` ``` `, NICHT ` ```text ` oder ` ```bash `)
       - **WICHTIG**: Müssen IMMER von Leerzeilen umgeben sein (eine Leerzeile vor und nach dem Block)
       - Verwende die passende Sprache: `text` für Berechnungen/Zahlen, `bash` für Kommandozeile
   - Lokale Prüfung: `npx markdownlint-cli2 "**/*.md"`
