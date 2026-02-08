@@ -489,7 +489,7 @@ Anwalts-/Gerichtskosten:          20.000 €
 ──────────────────────────────────────────
 GESAMT:                           450.000 €
 
-```text
+```
 
 **Ohne Versicherung:**
 
@@ -522,7 +522,7 @@ Eigene Anwaltskosten:                      10.000 €
 ──────────────────────────────────────────────────
 GESAMT:                                    105.000 €
 
-```text
+```
 
 **Ohne D&O-Versicherung:**
 
@@ -555,7 +555,7 @@ Forensik und Aufklärung:                   20.000 €
 ──────────────────────────────────────────────────
 GESAMT:                                    350.000 €
 
-```text
+```
 
 **Ohne Vertrauensschadenversicherung:**
 
@@ -600,7 +600,7 @@ Ohne Selbstbehalt:   800 € pro Jahr
 Mit 5.000 € SB:      500 € pro Jahr
 Ersparnis:           300 € pro Jahr
 
-```text
+```
 
 **Achtung:** Bei GmbH/UG ist Selbstbehalt gesetzlich vorgeschrieben (mind. 10%)!
 

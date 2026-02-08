@@ -116,7 +116,7 @@ beide Rechtsformen.
 3. November:  Verkauf Position mit Verlust (20.000 €) - Steueroptimierung
 4. Dezember:  Kauf SAP (30.000 €) - Reinvestition
 
-```text
+```
 
 ---
 
@@ -219,7 +219,7 @@ Nach 30 Jahren:
 - Erbschaftsteuerersatz gezahlt (ca. 7.000 € p.a.)
 - Destinatäre versorgt (20.000 € p.a.)
 
-```text
+```
 
 ---
 
@@ -255,7 +255,7 @@ Netto: +12.400 € steuerpflichtig (nur 5% davon)
 
 Steuerersparnis: ca. 400 € (gegenüber ohne Verlustverkauf: 800 €)
 
-```text
+```
 
 #### Gewinnrealisierung taktisch planen
 
@@ -340,7 +340,7 @@ Generation 3 (Enkel):
 - Weiterübertragung ab 2. Generation
 - Kontinuierliche Nutzung der Freibeträge
 
-```text
+```
 
 **Vorteil:** Minimale Erbschaftsteuer bei Generationenwechsel
 
@@ -360,7 +360,7 @@ Destinatäre sind:
 2. Alle Abkömmlinge des Stifters in gerader Linie
 3. Die Ehegatten der Abkömmlinge
 
-```text
+```
 
 **Vorteile:**
 
@@ -417,7 +417,7 @@ Familienstiftung erhält Ausschüttungen steuerfrei
        ↓
 Familienmitglieder (Einkommensteuer)
 
-```text
+```
 
 **Steueroptimierung:**
 
@@ -461,7 +461,7 @@ Aufteilung:
 Gesamtauszahlung: 48.400 €
 Verbleib in UG: 51.600 €
 
-```text
+```
 
 #### Familienstiftung: Ausschüttungsplanung für Destinatäre
 
@@ -481,7 +481,7 @@ Der Vorstand kann Ausschüttungen vornehmen für:
 4. Sonstige außergewöhnliche Lebensumstände
 5. Regelmäßige Versorgungsbeiträge
 
-```text
+```
 
 **Beispiel-Ausschüttungsplan:**
 

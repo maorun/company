@@ -85,7 +85,7 @@ Stammkapital:                    1.000 €
 Einzahlung in Kapitalrücklage:  49.000 €
 Gesamtes Eigenkapital:          50.000 €
 
-```text
+```
 
 **Buchung der Einzahlung in Kapitalrücklage:**
 
@@ -93,7 +93,7 @@ Gesamtes Eigenkapital:          50.000 €
 Bank                            49.000 €
     an Kapitalrücklage                   49.000 €
 
-```text
+```
 
 **Steuerliche Behandlung:**
 
@@ -170,7 +170,7 @@ Gesellschafter:
   - Abgeltungsteuer (26,375%):   396 €
   - Netto:                       1.104 €
 
-```text
+```
 
 ### Familienstiftung
 
@@ -223,7 +223,7 @@ Persönlicher Steuersatz:        42%
 Steuerersparnis:                42.000 €
 Netto-Aufwand:                  58.000 €
 
-```text
+```
 
 **Dokumentation:**
 
@@ -314,7 +314,7 @@ Nettogehalt:                    ~39.945 €
 Effektive Belastung:
 Von 50.000 € auf 39.945 € → ca. 20% Steuer
 
-```text
+```
 
 **Optimierung:**
 
@@ -368,7 +368,7 @@ Netto-Dividende:                14.725 €
 
 Effektive Belastung: 26,375%
 
-```text
+```
 
 **Gesamtsteuerbelastung bei Dividende:**
 
@@ -387,7 +387,7 @@ Netto beim Gesellschafter:      39,47 €
 
 Gesamtsteuerbelastung: 60,53%
 
-```text
+```
 
 **⚠️ Wichtig:** Deutlich höhere Gesamtbelastung als bei Thesaurierung (1,49%)!
 
@@ -407,7 +407,7 @@ Ursprüngliches Darlehen:        50.000 €
 Rückzahlung:                    50.000 €
 Steuerliche Belastung:          0 €
 
-```text
+```
 
 #### 4. Veräußerung von Geschäftsanteilen
 
@@ -442,7 +442,7 @@ Gesamtsteuer:                   23.927 €
 Netto nach Steuern:             76.073 €
 Effektive Belastung:            26,6%
 
-```text
+```
 
 #### 5. Kapitalherabsetzung
 
@@ -523,7 +523,7 @@ Netto-Ausschüttung:             22.087 €
 
 Effektive Belastung: 26,38%
 
-```text
+```
 
 **Gesamtsteuerbelastung bei Ausschüttung:**
 
@@ -542,7 +542,7 @@ Gesamtsteuerbelastung auf
 ausgeschütteten Teil:           ~55%
 (auf thesaurierten Teil: 0,79%)
 
-```text
+```
 
 #### 2. Vorstandsvergütung
 
@@ -566,7 +566,7 @@ Steuerersparnis Stiftung:       ~3.200 €
 Steuer beim Vorstand (30%):     ~6.000 €
 Netto-Vergütung:                ~14.000 €
 
-```text
+```
 
 #### 3. Darlehen an Destinatäre
 
@@ -665,7 +665,7 @@ Verfügbar:                      44.725 €
 
 Effektive Belastung: 10,55%
 
-```text
+```
 
 #### UG (Dividende)
 
@@ -687,7 +687,7 @@ vor Steuern erwirtschaften!
 
 Gesamtsteuerbelastung: ~61%
 
-```text
+```
 
 #### UG (Geschäftsführergehalt)
 
@@ -704,7 +704,7 @@ Netto-Aufwand für UG:           43.859 €
 Effektivere Methode als Dividende!
 Gesamtsteuerbelastung: ~20%
 
-```text
+```
 
 #### Familienstiftung (Ausschüttung)
 
@@ -720,7 +720,7 @@ Netto beim Destinatär:          49.650 €
 
 Gesamtsteuerbelastung: ~27%
 
-```text
+```
 
 ### Optimale Strategie je nach Rechtsform
 
@@ -775,7 +775,7 @@ Verbleib in UG:                 58.510 €
 
 → Maximale Steuerefizienz!
 
-```text
+```
 
 #### Familienstiftung (2)
 
@@ -807,7 +807,7 @@ Gesamtsteuer:                   11.340 €
 
 → Option A deutlich effizienter!
 
-```text
+```
 
 ## Praktische Szenarien und Empfehlungen
 
@@ -828,7 +828,7 @@ Dauer:                          Sofort
 Kosten:                         0 €
 Steuerliche Vorteile:           Keine
 
-```text
+```
 
 ✅ **Empfohlen wenn:** Maximale Flexibilität gewünscht, kurzfristiger Horizont
 
@@ -841,7 +841,7 @@ Dauer:                          1 Tag
 Kosten:                         0 €
 Steuerliche Vorteile:           Keine direkt, aber später bei Gewinnen
 
-```text
+```
 
 ✅ **Empfohlen wenn:** Bereits UG vorhanden, langfristige Anlage
 
@@ -854,7 +854,7 @@ Dauer:                          2-4 Wochen
 Kosten:                         0-500 €
 Steuerliche Vorteile:           Spendenabzug 42.000 € (bei 42% Steuersatz)
 
-```text
+```
 
 ✅ **Empfohlen wenn:** Bereits Stiftung vorhanden, hoher Steuersatz, unwiderruflich OK
 
@@ -871,7 +871,7 @@ Netto verfügbar:                36.000 €
 
 Kapitalanlage (4% Rendite):     1.220.000 €
 
-```text
+```
 
 **UG (Geschäftsführergehalt):**
 
@@ -887,7 +887,7 @@ Keine weiteren Steuern
 Kapitalanlage (4% Rendite 
 nach 1,49% Steuern):            ~1.150.000 €
 
-```text
+```
 
 ✅ **Vorteil:** Gehalt ist für UG absetzbar!
 
@@ -904,7 +904,7 @@ Erforderlicher Stiftungsgewinn: 49.200 €
 Kapitalanlage (4% Rendite 
 nach 0,79% Steuern):            ~1.250.000 €
 
-```text
+```
 
 **Fazit:** UG mit Geschäftsführergehalt am effizientesten!
 
@@ -923,7 +923,7 @@ Netto verfügbar:                186.812 €
 Für 200.000 € netto:
 Verkauf erforderlich:           ~214.100 €
 
-```text
+```
 
 ✅ **Einfachste Lösung**
 
@@ -943,7 +943,7 @@ Netto:                          199.892 €
 Problem: Sehr ineffizient!
 Gesamtsteuerbelastung: ~61%
 
-```text
+```
 
 **UG - Option B (Gesellschafterdarlehen):**
 
@@ -954,7 +954,7 @@ Netto verfügbar:                200.000 €
 
 Bedingung: UG hat Liquidität
 
-```text
+```
 
 ✅ **Beste Lösung wenn Liquidität vorhanden!**
 
@@ -969,7 +969,7 @@ Netto nach 4 Jahren:            ~160.000 €
 Plus Darlehen:                  40.000 €
 Gesamt verfügbar:               200.000 €
 
-```text
+```
 
 ✅ **Steueroptimal, aber dauert 4 Jahre**
 
@@ -984,7 +984,7 @@ Netto beim Destinatär:          199.892 €
 Bedingung: Stiftung hat 
 genügend Erträge und Liquidität
 
-```text
+```
 
 ⚠️ **Nur möglich wenn ausreichend Erträge vorhanden**
 
@@ -1008,7 +1008,7 @@ Zum Reinvestieren:              73.625 €
 Nach 20 Jahren (7% p.a. Rendite 
 vor Steuern, 5,15% nach):       195.300 €
 
-```text
+```
 
 **UG (Thesaurierung):**
 
@@ -1022,7 +1022,7 @@ vor Steuern, 6,90% nach):       382.400 €
 
 Vorteil vs. Privatvermögen:     +187.100 € (+96%)
 
-```text
+```
 
 ✅✅✅ **Massiver Vorteil!**
 
@@ -1039,7 +1039,7 @@ vor Steuern, 6,94% nach):       389.600 €
 Vorteil vs. Privatvermögen:     +194.300 € (+99%)
 Vorteil vs. UG:                 +7.200 € (+2%)
 
-```text
+```
 
 ✅✅✅ **Höchster Vermögenszuwachs!**
 
@@ -1366,7 +1366,7 @@ Gewinnverwendung:       Thesaurierung (nur 1,49% Steuer)
 Bei Großbedarf:         Darlehen nutzen
 Dividenden:             Möglichst vermeiden
 
-```text
+```
 
 ### Langfristig optimal: Familienstiftung
 
@@ -1398,7 +1398,7 @@ Ausschüttungen:         Minimal (nur bei echtem Bedarf)
 Gewinnverwendung:       Maximale Thesaurierung
 Zeithorizont:           30+ Jahre
 
-```text
+```
 
 ### Vergleich der Gesamtkosten über 20 Jahre
 
@@ -1417,7 +1417,7 @@ Laufende Kosten (20J):  13.600 €
 Rendite nach Steuern:   5,15% p.a.
 Endkapital:             390.600 €
 
-```text
+```
 
 **UG (Thesaurierung):**
 
@@ -1429,7 +1429,7 @@ Endkapital:             694.800 €
 
 Vorteil vs. Privat:     +304.200 € (+78%)
 
-```text
+```
 
 **Familienstiftung (Thesaurierung):**
 
@@ -1441,7 +1441,7 @@ Endkapital:             659.200 €
 
 Vorteil vs. Privat:     +268.600 € (+69%)
 
-```text
+```
 
 **Bei Berücksichtigung Zustiftungs-Steuervorteil (42%):**
 
@@ -1454,7 +1454,7 @@ Endkapital:             936.800 €
 
 Vorteil vs. Privat:     +546.200 € (+140%)
 
-```text
+```
 
 ### Entscheidungshilfe
 
