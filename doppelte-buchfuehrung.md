@@ -221,17 +221,17 @@ Die GuV erfasst alle Aufwendungen und Erträge einer Periode und ermittelt den U
 
 1. Umsatzerlöse
 2. +/- Bestandsveränderungen
-3. \+ Andere aktivierte Eigenleistungen
-4. \+ Sonstige betriebliche Erträge
-5. \- Materialaufwand
-6. \- Personalaufwand
-7. \- Abschreibungen
-8. \- Sonstige betriebliche Aufwendungen
+3. + Andere aktivierte Eigenleistungen
+4. + Sonstige betriebliche Erträge
+5. - Materialaufwand
+6. - Personalaufwand
+7. - Abschreibungen
+8. - Sonstige betriebliche Aufwendungen
 9. = **Betriebsergebnis**
 10. +/- Finanzergebnis
 11. = **Ergebnis der gewöhnlichen Geschäftstätigkeit**
 12. +/- Außerordentliches Ergebnis
-13. \- Steuern
+13. - Steuern
 14. = **Jahresüberschuss/-fehlbetrag**
 
 ## Praxisbeispiele
