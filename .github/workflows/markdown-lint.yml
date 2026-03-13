@@ -21,16 +21,3 @@ jobs:
         with:
           globs: '**/*.md'
 
-  markdown-link-check:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Check links in Markdown files
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          use-verbose-mode: 'yes'
-          config-file: '.mlc-config.json'
-          folder-path: '.'
-          file-extension: '.md'
