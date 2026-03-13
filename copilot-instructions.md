@@ -11,8 +11,21 @@ mit Wertpapieren (Aktien, ETFs) in Deutschland. Die Dokumentation vergleicht Pri
 - **README.md**: Übersicht über das Projekt, Navigation und Kernerkenntnisse
 - **gruendung.md**: **Vergleich** der Gründung bei Privatvermögen, UG und Familienstiftung
 - **betrieb.md**: **Vergleich** des laufenden Betriebs bei Aktienkauf/-verkauf für alle drei Formen
+- **geld.md**: **Vergleich** von Ein- und Auszahlungen bei allen drei Rechtsformen
 - **vermoegensverwaltende-ug.md**: Detailanalyse speziell für UG
 - **familienstiftung.md**: Detailanalyse speziell für Familienstiftung
+- **holdingstrukturen.md**: Holdingstrukturen und Multi-Entity-Modelle
+- **weitere-moeglichkeiten.md**: Erweiterte Strategien über Wertpapiere hinaus
+- **optimale-nutzung.md**: Strategien und Best Practices zur optimalen Nutzung
+- **geldwerte-vorteile.md**: Geldwerte Vorteile (Sachbezüge) bei UG und Stiftung
+- **auto-leasing.md**: Fahrzeugüberlassung und Leasing an Geschäftsführer
+- **reisen.md**: Reisekostenabrechnung und Geschäftsreisen
+- **compliance-meldepflichten.md**: Rechtliche Compliance- und Meldepflichten
+- **doppelte-buchfuehrung.md**: Grundlagen und Praxisanwendung der doppelten Buchführung
+- **risikomanagement-krisenplanung.md**: Risikovorsorge und Krisenmanagement
+- **versicherungen.md**: Erforderliche und empfohlene Versicherungen
+- **nachfolge-erbschaft.md**: Nachfolgeplanung und Erbschaftsteuer
+- **aufloesung-exit.md**: Auflösung und Exit-Strategien
 
 ## Dokumentationsansatz
 

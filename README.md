@@ -64,6 +64,18 @@ Vermögensplanung mit minimaler Steuerbelastung (0,79%) und Erbschaftsteuerersat
 - **Vergleichstabellen**: Übersicht aller Optimierungsstrategien
 - **Checklisten**: Schritt-für-Schritt zur optimalen Nutzung
 
+### 📒 [Doppelte Buchführung - Grundlagen und Praxisanwendung](./doppelte-buchfuehrung.md)
+
+**Leitfaden zur doppelten Buchführung** (Pflicht für UG und Familienstiftung):
+
+- **Grundprinzipien**: Soll- und Haben-Systematik, Bilanzgleichung
+- **Gesetzliche Grundlagen**: Buchführungspflicht nach HGB (§ 238), steuerrechtliche Vorschriften
+- **Kontenarten**: Aktiv-/Passivkonten, Bestandskonten, Erfolgskonten, Kontenrahmen SKR03/SKR04
+- **Buchungssätze**: Praxisbeispiele für typische Geschäftsvorfälle bei Wertpapieren
+- **Bilanz und GuV**: Erstellung und Interpretation des Jahresabschlusses
+- **Praxisbeispiele**: Konkrete Buchungen für Dividenden, Kursgewinne und -verluste
+- **GoB**: Grundsätze ordnungsmäßiger Buchführung und Aufbewahrungspflichten
+
 ### 📋 [Compliance und Meldepflichten - Vergleich der Rechtsformen](./compliance-meldepflichten.md)
 
 **Umfassender Leitfaden zu allen rechtlichen Compliance- und Meldepflichten:**
