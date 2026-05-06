@@ -269,6 +269,25 @@ Umfassender Leitfaden zur Auflösung und Exit-Strategien:
 - **Praktische Beispiele**: Konkrete Szenarien mit Berechnungen
 - **Checklisten**: Exit-Planung für jede Rechtsform
 
+### 🏥 [Krankenkasse - Kosten für AG und AN sowie FIRE-Strategie](./krankenkasse.md)
+
+Zusammenfassung der Kranken- und Pflegeversicherungskosten für Arbeitgeber, Arbeitnehmer und FIRE-Personen:
+
+- **GKV-Beitragsstruktur 2025**: Allgemeiner Beitragssatz 14,6 %, Zusatzbeitrag ~1,7 %, Pflegeversicherung 3,6 %
+- **AG-Anteil**: ~9,95 % des Bruttogehalts (max. ~549 €/Monat bei BBG 5.512,50 €)
+- **AN-Anteil**: ~9,95 % des Bruttogehalts (kinderlose zahlen 0,6 % mehr Pflegeversicherung)
+- **UG/GmbH als Arbeitgeber**: Gesamte Sozialversicherungskosten ~20-21 % des Bruttogehalts
+- **Gesellschafter-Geschäftsführer**: Versicherungsstatus abhängig von Beteiligungsquote (> 50 % = selbstständig)
+- **Private Krankenversicherung (PKV)**: AG-Zuschuss max. 50 % des Beitrags, begrenzt auf GKV-Höchstbeitrag
+- **FIRE - Financial Independence, Retire Early**:
+  - Freiwillige GKV mit Mindestbeitrag ~235 €/Monat (bei minimalem Einkommen)
+  - Familienversicherung kostenlos bei Einkommen < 505 €/Monat
+  - Kapitalerträge werden als Einkommen angerechnet
+  - Thesaurierung über UG reduziert anrechenbares Einkommen erheblich
+  - PKV: Beiträge steigen stark mit dem Alter (bis 1.500 €/Monat)
+- **Optimierungsstrategien für FIRE**: UG-Thesaurierung, Familienversicherung nutzen, Entnahmezeitpunkt steuern
+- **Checkliste**: Krankenversicherungsplanung für FIRE
+
 ### 🛡️ [Versicherungen - Vergleich der Rechtsformen](./versicherungen.md)
 
 Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
