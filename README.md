@@ -304,6 +304,21 @@ Umfassender Leitfaden zu erforderlichen und empfohlenen Versicherungen:
 
 ## Kernerkenntnisse aus dem Vergleich
 
+### Fachliche Klarstellungen
+
+- **Keine einheitlichen Freigrenzen je Rechtsform:** Die Besteuerung von Gewinnen richtet sich nach Steuerart und
+  Steuersubjekt (z. B. Einkommensteuer bei Privatvermögen, Körperschaft-/Gewerbesteuer bei Kapitalgesellschaften),
+  nicht nach einer pauschalen "Gewinn-Freigrenze" pro Rechtsform.
+- **Teilfreistellung gilt fondsbezogen:** Teilfreistellungsquoten betreffen Investmentfonds nach InvStG (z. B.
+  Aktienfonds) und sind insbesondere bei Ausschüttungen/Vorabpauschale relevant; bei Einzelaktien greifen stattdessen
+  die jeweils einschlägigen Regeln (z. B. Abgeltungsteuer im Privatvermögen, § 8b KStG bei Körperschaften).
+- **Darlehen in GmbH/UG und Stiftung sind möglich:** Gesellschafter- bzw. stiftungsnahe Darlehen können auch
+  endfällig ausgestaltet werden, müssen aber stets klar dokumentiert und fremdüblich vereinbart sein.
+- **Essenszuschuss ist kein exklusiver GmbH-Vorteil:** Steuerbegünstigungen sind als Arbeitgeberleistung nach den
+  allgemeinen lohnsteuerlichen Sachbezugs-/Pauschalierungsregeln möglich.
+- **Erbersatzsteuer bei Familienstiftungen:** Sie fällt typischerweise periodisch (regelmäßig alle 30 Jahre) an; eine
+  Verteilung oder Stundung ist nur unter den gesetzlichen Voraussetzungen möglich und nicht automatisch gegeben.
+
 ### Steuerliche Vorteile
 
 | Rechtsform | Dividenden | Kursgewinne | Laufende Kosten/Jahr |
